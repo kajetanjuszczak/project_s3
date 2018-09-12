@@ -1,15 +1,17 @@
 import pandas
 
-def parser1(infile):
+def parserhuman(infile):
     with open(infile, "r") as f:
-        count = 0
+        dictionary = {}
+        c = 0
         for line in f:
+            count = 0
             line = line.split()
-            print("fielname:{} drug:{} time:{} species:{} from {} {} dose:{}-{} {}".format(line[34],line[30],line[40],line[42],line[2],line[3],line[13],line[14],line[15]))
-            count += 1
-            if count == 20:
+            ## add to pandas dataframe one collumn consisting of all info
+            c += 1
+            if c == 2:
                 break
-
-    #file 34; drug 30; time 40; tissue - 42; species 2,3; dose 13,14,15
+        
+    # hepatocytes human:: 2 - tissue 3,4 organism; 22 - dru; 26 - file, time - 32 , 33, dose - 11,12,13
 if __name__ == "__main__":
-    parser1("E-MTAB-799.sdrf.txt")
+    parser1("E-MTAB-798.sdrf.txt")
