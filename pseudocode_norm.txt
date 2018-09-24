@@ -1,0 +1,7 @@
+def normalize (data)
+    gcRMA.normalize(data)
+    return noramlized_data
+def quality_control(normalized_data)
+    Array_quality_controll.perform_control(normalized_data)
+    return Score ?
+

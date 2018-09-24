@@ -1,0 +1,1983 @@
+	Characteristics[CellType]	Characteristics[Organism]	Parameter Value[Compound]	Parameter Value[DoseLevel]	Parameter Value[Dose]	Unit[ConcentrationUnit]	Parameter Value[TimeOfCollection]	Unit[TimeUnit]	Array Data File
+2	hepatocyte	Homo sapiens	acarbose	Control	0	micromolar	24	hour	003016078013.CEL
+3	hepatocyte	Homo sapiens	acarbose	Control	0	micromolar	24	hour	003016078014.CEL
+10	hepatocyte	Homo sapiens	acarbose	High	10000	micromolar	24	hour	003016078017.CEL
+11	hepatocyte	Homo sapiens	acarbose	High	10000	micromolar	24	hour	003016078018.CEL
+21	liver	Rattus norvegicus	acarbose	Control	0	milligram per kilogram	24	hour	003017400022.CEL
+22	liver	Rattus norvegicus	acarbose	Control	0	milligram per kilogram	24	hour	003017400023.CEL
+23	liver	Rattus norvegicus	acarbose	Control	0	milligram per kilogram	24	hour	003017400024.CEL
+57	liver	Rattus norvegicus	acarbose	High	1000	milligram per kilogram	24	hour	003017401001.CEL
+58	liver	Rattus norvegicus	acarbose	High	1000	milligram per kilogram	24	hour	003017401002.CEL
+59	liver	Rattus norvegicus	acarbose	High	1000	milligram per kilogram	24	hour	003017402020.CEL
+64	hepatocyte	Rattus norvegicus	acarbose	Control	0	micromolar	24	hour	003017337019.CEL
+65	hepatocyte	Rattus norvegicus	acarbose	Control	0	micromolar	24	hour	003017337020.CEL
+82	hepatocyte	Rattus norvegicus	acarbose	High	10000	micromolar	24	hour	003017337025.CEL
+83	hepatocyte	Rattus norvegicus	acarbose	High	10000	micromolar	24	hour	003017337026.CEL
+86	hepatocyte	Homo sapiens	acetamidofluorene	Control	0	micromolar	24	hour	003016083002.CEL
+87	hepatocyte	Homo sapiens	acetamidofluorene	Control	0	micromolar	24	hour	003016083003.CEL
+94	hepatocyte	Homo sapiens	acetamidofluorene	High	50	micromolar	24	hour	003016083006.CEL
+95	hepatocyte	Homo sapiens	acetamidofluorene	High	50	micromolar	24	hour	003016083007.CEL
+105	liver	Rattus norvegicus	acetamidofluorene	Control	0	milligram per kilogram	24	hour	003017583008.CEL
+106	liver	Rattus norvegicus	acetamidofluorene	Control	0	milligram per kilogram	24	hour	003017583009.CEL
+107	liver	Rattus norvegicus	acetamidofluorene	Control	0	milligram per kilogram	24	hour	003017583010.CEL
+141	liver	Rattus norvegicus	acetamidofluorene	High	1000	milligram per kilogram	24	hour	003017583017.CEL
+142	liver	Rattus norvegicus	acetamidofluorene	High	1000	milligram per kilogram	24	hour	003017583018.CEL
+143	liver	Rattus norvegicus	acetamidofluorene	High	1000	milligram per kilogram	24	hour	003017583019.CEL
+148	hepatocyte	Rattus norvegicus	acetamidofluorene	Control	0	micromolar	24	hour	003017362021.CEL
+149	hepatocyte	Rattus norvegicus	acetamidofluorene	Control	0	micromolar	24	hour	003017362022.CEL
+166	hepatocyte	Rattus norvegicus	acetamidofluorene	High	50	micromolar	24	hour	003017362027.CEL
+167	hepatocyte	Rattus norvegicus	acetamidofluorene	High	50	micromolar	24	hour	003017362028.CEL
+172	hepatocyte	Homo sapiens	acetaminophen	Control	0	micromolar	24	hour	003016016017.CEL
+173	hepatocyte	Homo sapiens	acetaminophen	Control	0	micromolar	24	hour	003016016018.CEL
+190	hepatocyte	Homo sapiens	acetaminophen	High	5000	micromolar	24	hour	003016016023.CEL
+191	hepatocyte	Homo sapiens	acetaminophen	High	5000	micromolar	24	hour	003016016024.CEL
+201	liver	Rattus norvegicus	acetaminophen	Control	0	milligram per kilogram	24	hour	003017645024.CEL
+202	liver	Rattus norvegicus	acetaminophen	Control	0	milligram per kilogram	24	hour	003017645025.CEL
+203	liver	Rattus norvegicus	acetaminophen	Control	0	milligram per kilogram	24	hour	003017645026.CEL
+237	liver	Rattus norvegicus	acetaminophen	High	1000	milligram per kilogram	24	hour	003017646003.CEL
+238	liver	Rattus norvegicus	acetaminophen	High	1000	milligram per kilogram	24	hour	003017646004.CEL
+239	liver	Rattus norvegicus	acetaminophen	High	1000	milligram per kilogram	24	hour	003017646005.CEL
+249	kidney	Rattus norvegicus	acetaminophen	Control	0	milligram per kilogram	24	hour	003017814021.CEL
+250	kidney	Rattus norvegicus	acetaminophen	Control	0	milligram per kilogram	24	hour	003017814022.CEL
+251	kidney	Rattus norvegicus	acetaminophen	Control	0	milligram per kilogram	24	hour	003017814023.CEL
+285	kidney	Rattus norvegicus	acetaminophen	High	1000	milligram per kilogram	24	hour	003017814030.CEL
+286	kidney	Rattus norvegicus	acetaminophen	High	1000	milligram per kilogram	24	hour	003017815001.CEL
+287	kidney	Rattus norvegicus	acetaminophen	High	1000	milligram per kilogram	24	hour	003017815002.CEL
+292	hepatocyte	Rattus norvegicus	acetaminophen	Control	0	micromolar	24	hour	003017706015.CEL
+293	hepatocyte	Rattus norvegicus	acetaminophen	Control	0	micromolar	24	hour	003017706016.CEL
+310	hepatocyte	Rattus norvegicus	acetaminophen	High	10000	micromolar	24	hour	003017706021.CEL
+311	hepatocyte	Rattus norvegicus	acetaminophen	High	10000	micromolar	24	hour	003017706022.CEL
+314	hepatocyte	Homo sapiens	acetazolamide	Control	0	micromolar	24	hour	003016075006.CEL
+315	hepatocyte	Homo sapiens	acetazolamide	Control	0	micromolar	24	hour	003016075007.CEL
+322	hepatocyte	Homo sapiens	acetazolamide	High	600	micromolar	24	hour	003016075010.CEL
+323	hepatocyte	Homo sapiens	acetazolamide	High	600	micromolar	24	hour	003016075011.CEL
+333	liver	Rattus norvegicus	acetazolamide	Control	0	milligram per kilogram	24	hour	003017262014.CEL
+334	liver	Rattus norvegicus	acetazolamide	Control	0	milligram per kilogram	24	hour	003017262015.CEL
+335	liver	Rattus norvegicus	acetazolamide	Control	0	milligram per kilogram	24	hour	003017262016.CEL
+369	liver	Rattus norvegicus	acetazolamide	High	600	milligram per kilogram	24	hour	003017262023.CEL
+370	liver	Rattus norvegicus	acetazolamide	High	600	milligram per kilogram	24	hour	003017262024.CEL
+371	liver	Rattus norvegicus	acetazolamide	High	600	milligram per kilogram	24	hour	003017262025.CEL
+381	kidney	Rattus norvegicus	acetazolamide	Control	0	milligram per kilogram	24	hour	003017785012.CEL
+382	kidney	Rattus norvegicus	acetazolamide	Control	0	milligram per kilogram	24	hour	003017785013.CEL
+383	kidney	Rattus norvegicus	acetazolamide	Control	0	milligram per kilogram	24	hour	003017785014.CEL
+417	kidney	Rattus norvegicus	acetazolamide	High	600	milligram per kilogram	24	hour	003017785021.CEL
+418	kidney	Rattus norvegicus	acetazolamide	High	600	milligram per kilogram	24	hour	003017785022.CEL
+419	kidney	Rattus norvegicus	acetazolamide	High	600	milligram per kilogram	24	hour	003017785023.CEL
+424	hepatocyte	Rattus norvegicus	acetazolamide	Control	0	micromolar	24	hour	003017333019.CEL
+425	hepatocyte	Rattus norvegicus	acetazolamide	Control	0	micromolar	24	hour	003017333020.CEL
+442	hepatocyte	Rattus norvegicus	acetazolamide	High	600	micromolar	24	hour	003017333025.CEL
+443	hepatocyte	Rattus norvegicus	acetazolamide	High	600	micromolar	24	hour	003017333026.CEL
+448	hepatocyte	Homo sapiens	adapin	Control	0	micromolar	24	hour	003016047007.CEL
+449	hepatocyte	Homo sapiens	adapin	Control	0	micromolar	24	hour	003016047008.CEL
+466	hepatocyte	Homo sapiens	adapin	High	75	micromolar	24	hour	003016047013.CEL
+467	hepatocyte	Homo sapiens	adapin	High	75	micromolar	24	hour	003016047014.CEL
+477	liver	Rattus norvegicus	adapin	Control	0	milligram per kilogram	24	hour	003017612010.CEL
+478	liver	Rattus norvegicus	adapin	Control	0	milligram per kilogram	24	hour	003017612011.CEL
+479	liver	Rattus norvegicus	adapin	Control	0	milligram per kilogram	24	hour	003017612012.CEL
+508	hepatocyte	Rattus norvegicus	adapin	Control	0	micromolar	24	hour	003017115017.CEL
+509	hepatocyte	Rattus norvegicus	adapin	Control	0	micromolar	24	hour	003017115018.CEL
+526	hepatocyte	Rattus norvegicus	adapin	High	75	micromolar	24	hour	003017115023.CEL
+527	hepatocyte	Rattus norvegicus	adapin	High	75	micromolar	24	hour	003017115024.CEL
+530	hepatocyte	Homo sapiens	ajmaline	Control	0	micromolar	24	hour	003016088001.CEL
+531	hepatocyte	Homo sapiens	ajmaline	Control	0	micromolar	24	hour	003016088002.CEL
+538	hepatocyte	Homo sapiens	ajmaline	High	300	micromolar	24	hour	003016088005.CEL
+539	hepatocyte	Homo sapiens	ajmaline	High	300	micromolar	24	hour	003016088006.CEL
+549	liver	Rattus norvegicus	ajmaline	Control	0	milligram per kilogram	24	hour	003017538003.CEL
+550	liver	Rattus norvegicus	ajmaline	Control	0	milligram per kilogram	24	hour	003017538004.CEL
+551	liver	Rattus norvegicus	ajmaline	Control	0	milligram per kilogram	24	hour	003017538005.CEL
+585	liver	Rattus norvegicus	ajmaline	High	300	milligram per kilogram	24	hour	003017538012.CEL
+586	liver	Rattus norvegicus	ajmaline	High	300	milligram per kilogram	24	hour	003017538013.CEL
+587	liver	Rattus norvegicus	ajmaline	High	300	milligram per kilogram	24	hour	003017538014.CEL
+592	hepatocyte	Rattus norvegicus	ajmaline	Control	0	micromolar	24	hour	003017347015.CEL
+593	hepatocyte	Rattus norvegicus	ajmaline	Control	0	micromolar	24	hour	003017347016.CEL
+610	hepatocyte	Rattus norvegicus	ajmaline	High	300	micromolar	24	hour	003017347021.CEL
+611	hepatocyte	Rattus norvegicus	ajmaline	High	300	micromolar	24	hour	003017347022.CEL
+616	hepatocyte	Homo sapiens	allopurinol	Control	0	micromolar	24	hour	003016029008.CEL
+617	hepatocyte	Homo sapiens	allopurinol	Control	0	micromolar	24	hour	003016029009.CEL
+634	hepatocyte	Homo sapiens	allopurinol	High	140	micromolar	24	hour	003016029014.CEL
+635	hepatocyte	Homo sapiens	allopurinol	High	140	micromolar	24	hour	003016029015.CEL
+645	liver	Rattus norvegicus	allopurinol	Control	0	milligram per kilogram	24	hour	003017694008.CEL
+646	liver	Rattus norvegicus	allopurinol	Control	0	milligram per kilogram	24	hour	003017694009.CEL
+647	liver	Rattus norvegicus	allopurinol	Control	0	milligram per kilogram	24	hour	003017694010.CEL
+681	liver	Rattus norvegicus	allopurinol	High	150	milligram per kilogram	24	hour	003017694017.CEL
+682	liver	Rattus norvegicus	allopurinol	High	150	milligram per kilogram	24	hour	003017694018.CEL
+683	liver	Rattus norvegicus	allopurinol	High	150	milligram per kilogram	24	hour	003017694020.CEL
+693	kidney	Rattus norvegicus	allopurinol	Control	0	milligram per kilogram	24	hour	003017800027.CEL
+694	kidney	Rattus norvegicus	allopurinol	Control	0	milligram per kilogram	24	hour	003017800028.CEL
+695	kidney	Rattus norvegicus	allopurinol	Control	0	milligram per kilogram	24	hour	003017800029.CEL
+729	kidney	Rattus norvegicus	allopurinol	High	150	milligram per kilogram	24	hour	003017801006.CEL
+730	kidney	Rattus norvegicus	allopurinol	High	150	milligram per kilogram	24	hour	003017801007.CEL
+731	kidney	Rattus norvegicus	allopurinol	High	150	milligram per kilogram	24	hour	003017801008.CEL
+736	hepatocyte	Rattus norvegicus	allopurinol	Control	0	micromolar	24	hour	003017068023.CEL
+737	hepatocyte	Rattus norvegicus	allopurinol	Control	0	micromolar	24	hour	003017068024.CEL
+754	hepatocyte	Rattus norvegicus	allopurinol	High	140	micromolar	24	hour	003017068029.CEL
+755	hepatocyte	Rattus norvegicus	allopurinol	High	140	micromolar	24	hour	003017068030.CEL
+760	hepatocyte	Homo sapiens	allyl alcohol	Control	0	micromolar	24	hour	003016037010.CEL
+761	hepatocyte	Homo sapiens	allyl alcohol	Control	0	micromolar	24	hour	003016037011.CEL
+778	hepatocyte	Homo sapiens	allyl alcohol	High	70	micromolar	24	hour	003016037016.CEL
+779	hepatocyte	Homo sapiens	allyl alcohol	High	70	micromolar	24	hour	003016037017.CEL
+789	liver	Rattus norvegicus	allyl alcohol	Control	0	milligram per kilogram	24	hour	003017673029.CEL
+790	liver	Rattus norvegicus	allyl alcohol	Control	0	milligram per kilogram	24	hour	003017673030.CEL
+791	liver	Rattus norvegicus	allyl alcohol	Control	0	milligram per kilogram	24	hour	003017674001.CEL
+825	liver	Rattus norvegicus	allyl alcohol	High	30	milligram per kilogram	24	hour	003017674008.CEL
+826	liver	Rattus norvegicus	allyl alcohol	High	30	milligram per kilogram	24	hour	003017674009.CEL
+827	liver	Rattus norvegicus	allyl alcohol	High	30	milligram per kilogram	24	hour	003017674010.CEL
+837	kidney	Rattus norvegicus	allyl alcohol	Control	0	milligram per kilogram	24	hour	003017842030.CEL
+838	kidney	Rattus norvegicus	allyl alcohol	Control	0	milligram per kilogram	24	hour	003017843001.CEL
+839	kidney	Rattus norvegicus	allyl alcohol	Control	0	milligram per kilogram	24	hour	003017843002.CEL
+873	kidney	Rattus norvegicus	allyl alcohol	High	30	milligram per kilogram	24	hour	003017843009.CEL
+874	kidney	Rattus norvegicus	allyl alcohol	High	30	milligram per kilogram	24	hour	003017843010.CEL
+875	kidney	Rattus norvegicus	allyl alcohol	High	30	milligram per kilogram	24	hour	003017843011.CEL
+880	hepatocyte	Rattus norvegicus	allyl alcohol	Control	0	micromolar	24	hour	003017022018.CEL
+881	hepatocyte	Rattus norvegicus	allyl alcohol	Control	0	micromolar	24	hour	003017022019.CEL
+898	hepatocyte	Rattus norvegicus	allyl alcohol	High	20	micromolar	24	hour	003017022024.CEL
+899	hepatocyte	Rattus norvegicus	allyl alcohol	High	20	micromolar	24	hour	003017022025.CEL
+904	hepatocyte	Homo sapiens	amiodarone	Control	0	micromolar	24	hour	003016028014.CEL
+905	hepatocyte	Homo sapiens	amiodarone	Control	0	micromolar	24	hour	003016028015.CEL
+922	hepatocyte	Homo sapiens	amiodarone	High	7	micromolar	24	hour	003016028020.CEL
+923	hepatocyte	Homo sapiens	amiodarone	High	7	micromolar	24	hour	003016028021.CEL
+933	liver	Rattus norvegicus	amiodarone	Control	0	milligram per kilogram	24	hour	003017633013.CEL
+934	liver	Rattus norvegicus	amiodarone	Control	0	milligram per kilogram	24	hour	003017633014.CEL
+935	liver	Rattus norvegicus	amiodarone	Control	0	milligram per kilogram	24	hour	003017633015.CEL
+969	liver	Rattus norvegicus	amiodarone	High	2000	milligram per kilogram	24	hour	003017633022.CEL
+970	liver	Rattus norvegicus	amiodarone	High	2000	milligram per kilogram	24	hour	003017633023.CEL
+971	liver	Rattus norvegicus	amiodarone	High	2000	milligram per kilogram	24	hour	003017633024.CEL
+976	hepatocyte	Rattus norvegicus	amiodarone	Control	0	micromolar	24	hour	003017078012.CEL
+977	hepatocyte	Rattus norvegicus	amiodarone	Control	0	micromolar	24	hour	003017078013.CEL
+994	hepatocyte	Rattus norvegicus	amiodarone	High	7	micromolar	24	hour	003017078018.CEL
+995	hepatocyte	Rattus norvegicus	amiodarone	High	7	micromolar	24	hour	003017078019.CEL
+998	hepatocyte	Homo sapiens	amitriptyline	Control	0	micromolar	24	hour	003016065026.CEL
+999	hepatocyte	Homo sapiens	amitriptyline	Control	0	micromolar	24	hour	003016065027.CEL
+1006	hepatocyte	Homo sapiens	amitriptyline	High	15	micromolar	24	hour	003016065030.CEL
+1007	hepatocyte	Homo sapiens	amitriptyline	High	15	micromolar	24	hour	003016066001.CEL
+1017	liver	Rattus norvegicus	amitriptyline	Control	0	milligram per kilogram	24	hour	003017161030.CEL
+1018	liver	Rattus norvegicus	amitriptyline	Control	0	milligram per kilogram	24	hour	003017162025.CEL
+1019	liver	Rattus norvegicus	amitriptyline	Control	0	milligram per kilogram	24	hour	003017162026.CEL
+1053	liver	Rattus norvegicus	amitriptyline	High	150	milligram per kilogram	24	hour	003017163003.CEL
+1054	liver	Rattus norvegicus	amitriptyline	High	150	milligram per kilogram	24	hour	003017163004.CEL
+1055	liver	Rattus norvegicus	amitriptyline	High	150	milligram per kilogram	24	hour	003017163005.CEL
+1060	hepatocyte	Rattus norvegicus	amitriptyline	Control	0	micromolar	24	hour	003017235016.CEL
+1061	hepatocyte	Rattus norvegicus	amitriptyline	Control	0	micromolar	24	hour	003017235017.CEL
+1078	hepatocyte	Rattus norvegicus	amitriptyline	High	60	micromolar	24	hour	003017235022.CEL
+1079	hepatocyte	Rattus norvegicus	amitriptyline	High	60	micromolar	24	hour	003017235023.CEL
+1084	hepatocyte	Homo sapiens	aspirin	Control	0	micromolar	24	hour	003016025005.CEL
+1085	hepatocyte	Homo sapiens	aspirin	Control	0	micromolar	24	hour	003016025006.CEL
+1102	hepatocyte	Homo sapiens	aspirin	High	3000	micromolar	24	hour	003016025011.CEL
+1103	hepatocyte	Homo sapiens	aspirin	High	3000	micromolar	24	hour	003016025012.CEL
+1113	liver	Rattus norvegicus	aspirin	Control	0	milligram per kilogram	24	hour	003017635013.CEL
+1114	liver	Rattus norvegicus	aspirin	Control	0	milligram per kilogram	24	hour	003017635014.CEL
+1115	liver	Rattus norvegicus	aspirin	Control	0	milligram per kilogram	24	hour	003017635015.CEL
+1149	liver	Rattus norvegicus	aspirin	High	2000	milligram per kilogram	24	hour	003017636005.CEL
+1150	liver	Rattus norvegicus	aspirin	High	2000	milligram per kilogram	24	hour	003017636006.CEL
+1151	liver	Rattus norvegicus	aspirin	High	2000	milligram per kilogram	24	hour	003017659003.CEL
+1156	hepatocyte	Rattus norvegicus	aspirin	Control	0	micromolar	24	hour	003017029014.CEL
+1157	hepatocyte	Rattus norvegicus	aspirin	Control	0	micromolar	24	hour	003017029015.CEL
+1174	hepatocyte	Rattus norvegicus	aspirin	High	3000	micromolar	24	hour	003017029020.CEL
+1175	hepatocyte	Rattus norvegicus	aspirin	High	3000	micromolar	24	hour	003017029021.CEL
+1180	hepatocyte	Homo sapiens	azathioprine	Control	0	micromolar	24	hour	003016044025.CEL
+1181	hepatocyte	Homo sapiens	azathioprine	Control	0	micromolar	24	hour	003016044026.CEL
+1198	hepatocyte	Homo sapiens	azathioprine	High	72.8	micromolar	24	hour	003016045001.CEL
+1199	hepatocyte	Homo sapiens	azathioprine	High	72.8	micromolar	24	hour	003016045002.CEL
+1209	liver	Rattus norvegicus	azathioprine	Control	0	milligram per kilogram	24	hour	003017705018.CEL
+1210	liver	Rattus norvegicus	azathioprine	Control	0	milligram per kilogram	24	hour	003017705019.CEL
+1211	liver	Rattus norvegicus	azathioprine	Control	0	milligram per kilogram	24	hour	003017705020.CEL
+1245	liver	Rattus norvegicus	azathioprine	High	30	milligram per kilogram	24	hour	003017705027.CEL
+1246	liver	Rattus norvegicus	azathioprine	High	30	milligram per kilogram	24	hour	003017705028.CEL
+1247	liver	Rattus norvegicus	azathioprine	High	30	milligram per kilogram	24	hour	003017705029.CEL
+1252	hepatocyte	Rattus norvegicus	azathioprine	Control	0	micromolar	24	hour	003017147018.CEL
+1253	hepatocyte	Rattus norvegicus	azathioprine	Control	0	micromolar	24	hour	003017147019.CEL
+1270	hepatocyte	Rattus norvegicus	azathioprine	High	03.cze	micromolar	24	hour	003017147024.CEL
+1271	hepatocyte	Rattus norvegicus	azathioprine	High	03.cze	micromolar	24	hour	003017147025.CEL
+1348	hepatocyte	Homo sapiens	benzbromarone	Control	0	micromolar	24	hour	003016030002.CEL
+1349	hepatocyte	Homo sapiens	benzbromarone	Control	0	micromolar	24	hour	003016030003.CEL
+1366	hepatocyte	Homo sapiens	benzbromarone	High	100	micromolar	24	hour	003016030008.CEL
+1367	hepatocyte	Homo sapiens	benzbromarone	High	100	micromolar	24	hour	003016030009.CEL
+1377	liver	Rattus norvegicus	benzbromarone	Control	0	milligram per kilogram	24	hour	003017681029.CEL
+1378	liver	Rattus norvegicus	benzbromarone	Control	0	milligram per kilogram	24	hour	003017681030.CEL
+1379	liver	Rattus norvegicus	benzbromarone	Control	0	milligram per kilogram	24	hour	003017682001.CEL
+1413	liver	Rattus norvegicus	benzbromarone	High	200	milligram per kilogram	24	hour	003017682008.CEL
+1414	liver	Rattus norvegicus	benzbromarone	High	200	milligram per kilogram	24	hour	003017682009.CEL
+1415	liver	Rattus norvegicus	benzbromarone	High	200	milligram per kilogram	24	hour	003017682010.CEL
+1420	hepatocyte	Rattus norvegicus	benzbromarone	Control	0	micromolar	24	hour	003017136017.CEL
+1421	hepatocyte	Rattus norvegicus	benzbromarone	Control	0	micromolar	24	hour	003017136018.CEL
+1438	hepatocyte	Rattus norvegicus	benzbromarone	High	15	micromolar	24	hour	003017136023.CEL
+1439	hepatocyte	Rattus norvegicus	benzbromarone	High	15	micromolar	24	hour	003017136024.CEL
+1442	hepatocyte	Homo sapiens	benziodarone	Control	0	micromolar	24	hour	003016080009.CEL
+1443	hepatocyte	Homo sapiens	benziodarone	Control	0	micromolar	24	hour	003016080010.CEL
+1450	hepatocyte	Homo sapiens	benziodarone	High	40	micromolar	24	hour	003016080013.CEL
+1451	hepatocyte	Homo sapiens	benziodarone	High	40	micromolar	24	hour	003016080014.CEL
+1461	liver	Rattus norvegicus	benziodarone	Control	0	milligram per kilogram	24	hour	003017461022.CEL
+1462	liver	Rattus norvegicus	benziodarone	Control	0	milligram per kilogram	24	hour	003017461023.CEL
+1463	liver	Rattus norvegicus	benziodarone	Control	0	milligram per kilogram	24	hour	003017461024.CEL
+1497	liver	Rattus norvegicus	benziodarone	High	300	milligram per kilogram	24	hour	003017462001.CEL
+1498	liver	Rattus norvegicus	benziodarone	High	300	milligram per kilogram	24	hour	003017462002.CEL
+1499	liver	Rattus norvegicus	benziodarone	High	300	milligram per kilogram	24	hour	003017462003.CEL
+1504	hepatocyte	Rattus norvegicus	benziodarone	Control	0	micromolar	24	hour	003017365028.CEL
+1505	hepatocyte	Rattus norvegicus	benziodarone	Control	0	micromolar	24	hour	003017365029.CEL
+1522	hepatocyte	Rattus norvegicus	benziodarone	High	25	micromolar	24	hour	003017366004.CEL
+1523	hepatocyte	Rattus norvegicus	benziodarone	High	25	micromolar	24	hour	003017366005.CEL
+1528	hepatocyte	Homo sapiens	bromobenzene	Control	0	micromolar	24	hour	003016034028.CEL
+1529	hepatocyte	Homo sapiens	bromobenzene	Control	0	micromolar	24	hour	003016034029.CEL
+1546	hepatocyte	Homo sapiens	bromobenzene	High	200	micromolar	24	hour	003016035004.CEL
+1547	hepatocyte	Homo sapiens	bromobenzene	High	200	micromolar	24	hour	003016035005.CEL
+1557	liver	Rattus norvegicus	bromobenzene	Control	0	milligram per kilogram	24	hour	003017697014.CEL
+1558	liver	Rattus norvegicus	bromobenzene	Control	0	milligram per kilogram	24	hour	003017697015.CEL
+1559	liver	Rattus norvegicus	bromobenzene	Control	0	milligram per kilogram	24	hour	003017697016.CEL
+1593	liver	Rattus norvegicus	bromobenzene	High	300	milligram per kilogram	24	hour	003017697023.CEL
+1594	liver	Rattus norvegicus	bromobenzene	High	300	milligram per kilogram	24	hour	003017697024.CEL
+1595	liver	Rattus norvegicus	bromobenzene	High	300	milligram per kilogram	24	hour	003017697025.CEL
+1605	kidney	Rattus norvegicus	bromobenzene	Control	0	milligram per kilogram	24	hour	003017844018.CEL
+1606	kidney	Rattus norvegicus	bromobenzene	Control	0	milligram per kilogram	24	hour	003017844019.CEL
+1607	kidney	Rattus norvegicus	bromobenzene	Control	0	milligram per kilogram	24	hour	003017844020.CEL
+1641	kidney	Rattus norvegicus	bromobenzene	High	300	milligram per kilogram	24	hour	003017844027.CEL
+1642	kidney	Rattus norvegicus	bromobenzene	High	300	milligram per kilogram	24	hour	003017844028.CEL
+1643	kidney	Rattus norvegicus	bromobenzene	High	300	milligram per kilogram	24	hour	003017844029.CEL
+1648	hepatocyte	Rattus norvegicus	bromobenzene	Control	0	micromolar	24	hour	003017102017.CEL
+1649	hepatocyte	Rattus norvegicus	bromobenzene	Control	0	micromolar	24	hour	003017102018.CEL
+1666	hepatocyte	Rattus norvegicus	bromobenzene	High	200	micromolar	24	hour	003017102023.CEL
+1667	hepatocyte	Rattus norvegicus	bromobenzene	High	200	micromolar	24	hour	003017102024.CEL
+1677	liver	Rattus norvegicus	bromoethylamine	Control	0	milligram per kilogram	24	hour	003017488012.CEL
+1678	liver	Rattus norvegicus	bromoethylamine	Control	0	milligram per kilogram	24	hour	003017488013.CEL
+1679	liver	Rattus norvegicus	bromoethylamine	Control	0	milligram per kilogram	24	hour	003017488014.CEL
+1713	liver	Rattus norvegicus	bromoethylamine	High	60	milligram per kilogram	24	hour	003017488021.CEL
+1714	liver	Rattus norvegicus	bromoethylamine	High	60	milligram per kilogram	24	hour	003017488022.CEL
+1715	liver	Rattus norvegicus	bromoethylamine	High	60	milligram per kilogram	24	hour	003017488023.CEL
+1725	kidney	Rattus norvegicus	bromoethylamine	Control	0	milligram per kilogram	24	hour	003017478024.CEL
+1726	kidney	Rattus norvegicus	bromoethylamine	Control	0	milligram per kilogram	24	hour	003017478025.CEL
+1727	kidney	Rattus norvegicus	bromoethylamine	Control	0	milligram per kilogram	24	hour	003017478026.CEL
+1761	kidney	Rattus norvegicus	bromoethylamine	High	60	milligram per kilogram	24	hour	003017479003.CEL
+1762	kidney	Rattus norvegicus	bromoethylamine	High	60	milligram per kilogram	24	hour	003017479004.CEL
+1763	kidney	Rattus norvegicus	bromoethylamine	High	60	milligram per kilogram	24	hour	003017479005.CEL
+1768	hepatocyte	Rattus norvegicus	bromoethylamine	Control	0	micromolar	24	hour	003017389003.CEL
+1769	hepatocyte	Rattus norvegicus	bromoethylamine	Control	0	micromolar	24	hour	003017389004.CEL
+1786	hepatocyte	Rattus norvegicus	bromoethylamine	High	500	micromolar	24	hour	003017389009.CEL
+1787	hepatocyte	Rattus norvegicus	bromoethylamine	High	500	micromolar	24	hour	003017408005.CEL
+1790	hepatocyte	Homo sapiens	bucetin	Control	0	micromolar	24	hour	003016082020.CEL
+1791	hepatocyte	Homo sapiens	bucetin	Control	0	micromolar	24	hour	003016082021.CEL
+1798	hepatocyte	Homo sapiens	bucetin	High	300	micromolar	24	hour	003016082024.CEL
+1799	hepatocyte	Homo sapiens	bucetin	High	300	micromolar	24	hour	003016082025.CEL
+1809	liver	Rattus norvegicus	bucetin	Control	0	milligram per kilogram	24	hour	003017516028.CEL
+1810	liver	Rattus norvegicus	bucetin	Control	0	milligram per kilogram	24	hour	003017516029.CEL
+1811	liver	Rattus norvegicus	bucetin	Control	0	milligram per kilogram	24	hour	003017516030.CEL
+1845	liver	Rattus norvegicus	bucetin	High	2000	milligram per kilogram	24	hour	003017517007.CEL
+1846	liver	Rattus norvegicus	bucetin	High	2000	milligram per kilogram	24	hour	003017517008.CEL
+1847	liver	Rattus norvegicus	bucetin	High	2000	milligram per kilogram	24	hour	003017517009.CEL
+1857	kidney	Rattus norvegicus	bucetin	Control	0	milligram per kilogram	24	hour	003017529020.CEL
+1858	kidney	Rattus norvegicus	bucetin	Control	0	milligram per kilogram	24	hour	003017529021.CEL
+1859	kidney	Rattus norvegicus	bucetin	Control	0	milligram per kilogram	24	hour	003017529022.CEL
+1893	kidney	Rattus norvegicus	bucetin	High	2000	milligram per kilogram	24	hour	003017529029.CEL
+1894	kidney	Rattus norvegicus	bucetin	High	2000	milligram per kilogram	24	hour	003017529030.CEL
+1895	kidney	Rattus norvegicus	bucetin	High	2000	milligram per kilogram	24	hour	003017530001.CEL
+1900	hepatocyte	Rattus norvegicus	bucetin	Control	0	micromolar	24	hour	003017551005.CEL
+1901	hepatocyte	Rattus norvegicus	bucetin	Control	0	micromolar	24	hour	003017551006.CEL
+1918	hepatocyte	Rattus norvegicus	bucetin	High	300	micromolar	24	hour	003017551011.CEL
+1919	hepatocyte	Rattus norvegicus	bucetin	High	300	micromolar	24	hour	003017551012.CEL
+1922	hepatocyte	Homo sapiens	caffeine	Control	0	micromolar	24	hour	003016071027.CEL
+1923	hepatocyte	Homo sapiens	caffeine	Control	0	micromolar	24	hour	003016071028.CEL
+1930	hepatocyte	Homo sapiens	caffeine	High	7500	micromolar	24	hour	003016072001.CEL
+1931	hepatocyte	Homo sapiens	caffeine	High	7500	micromolar	24	hour	003016072002.CEL
+1941	liver	Rattus norvegicus	caffeine	Control	0	milligram per kilogram	24	hour	003017408018.CEL
+1942	liver	Rattus norvegicus	caffeine	Control	0	milligram per kilogram	24	hour	003017408019.CEL
+1943	liver	Rattus norvegicus	caffeine	Control	0	milligram per kilogram	24	hour	003017408020.CEL
+1977	liver	Rattus norvegicus	caffeine	High	100	milligram per kilogram	24	hour	003017408027.CEL
+1978	liver	Rattus norvegicus	caffeine	High	100	milligram per kilogram	24	hour	003017408028.CEL
+1979	liver	Rattus norvegicus	caffeine	High	100	milligram per kilogram	24	hour	003017408029.CEL
+1989	kidney	Rattus norvegicus	caffeine	Control	0	milligram per kilogram	24	hour	003017825007.CEL
+1990	kidney	Rattus norvegicus	caffeine	Control	0	milligram per kilogram	24	hour	003017825008.CEL
+1991	kidney	Rattus norvegicus	caffeine	Control	0	milligram per kilogram	24	hour	003017825009.CEL
+2025	kidney	Rattus norvegicus	caffeine	High	100	milligram per kilogram	24	hour	003017825016.CEL
+2026	kidney	Rattus norvegicus	caffeine	High	100	milligram per kilogram	24	hour	003017825017.CEL
+2027	kidney	Rattus norvegicus	caffeine	High	100	milligram per kilogram	24	hour	003017825018.CEL
+2032	hepatocyte	Rattus norvegicus	caffeine	Control	0	micromolar	24	hour	003017309018.CEL
+2033	hepatocyte	Rattus norvegicus	caffeine	Control	0	micromolar	24	hour	003017309019.CEL
+2050	hepatocyte	Rattus norvegicus	caffeine	High	10000	micromolar	24	hour	003017309024.CEL
+2051	hepatocyte	Rattus norvegicus	caffeine	High	10000	micromolar	24	hour	003017309025.CEL
+2054	hepatocyte	Homo sapiens	captopril	Control	0	micromolar	24	hour	003016071014.CEL
+2055	hepatocyte	Homo sapiens	captopril	Control	0	micromolar	24	hour	003016071015.CEL
+2062	hepatocyte	Homo sapiens	captopril	High	8000	micromolar	24	hour	003016071018.CEL
+2063	hepatocyte	Homo sapiens	captopril	High	8000	micromolar	24	hour	003016071019.CEL
+2073	liver	Rattus norvegicus	captopril	Control	0	milligram per kilogram	24	hour	003017312020.CEL
+2074	liver	Rattus norvegicus	captopril	Control	0	milligram per kilogram	24	hour	003017312021.CEL
+2075	liver	Rattus norvegicus	captopril	Control	0	milligram per kilogram	24	hour	003017312022.CEL
+2109	liver	Rattus norvegicus	captopril	High	1000	milligram per kilogram	24	hour	003017312029.CEL
+2110	liver	Rattus norvegicus	captopril	High	1000	milligram per kilogram	24	hour	003017312030.CEL
+2111	liver	Rattus norvegicus	captopril	High	1000	milligram per kilogram	24	hour	003017313001.CEL
+2121	kidney	Rattus norvegicus	captopril	Control	0	milligram per kilogram	24	hour	003017777025.CEL
+2122	kidney	Rattus norvegicus	captopril	Control	0	milligram per kilogram	24	hour	003017777026.CEL
+2123	kidney	Rattus norvegicus	captopril	Control	0	milligram per kilogram	24	hour	003017777027.CEL
+2157	kidney	Rattus norvegicus	captopril	High	1000	milligram per kilogram	24	hour	003017778004.CEL
+2158	kidney	Rattus norvegicus	captopril	High	1000	milligram per kilogram	24	hour	003017778005.CEL
+2159	kidney	Rattus norvegicus	captopril	High	1000	milligram per kilogram	24	hour	003017778006.CEL
+2164	hepatocyte	Rattus norvegicus	captopril	Control	0	micromolar	24	hour	003017303030.CEL
+2165	hepatocyte	Rattus norvegicus	captopril	Control	0	micromolar	24	hour	003017304025.CEL
+2182	hepatocyte	Rattus norvegicus	captopril	High	10000	micromolar	24	hour	003017304030.CEL
+2183	hepatocyte	Rattus norvegicus	captopril	High	10000	micromolar	24	hour	003017305001.CEL
+2188	hepatocyte	Homo sapiens	carbamazepine	Control	0	micromolar	24	hour	003016021029.CEL
+2189	hepatocyte	Homo sapiens	carbamazepine	Control	0	micromolar	24	hour	003016021030.CEL
+2206	hepatocyte	Homo sapiens	carbamazepine	High	300	micromolar	24	hour	003016022005.CEL
+2207	hepatocyte	Homo sapiens	carbamazepine	High	300	micromolar	24	hour	003016022006.CEL
+2217	liver	Rattus norvegicus	carbamazepine	Control	0	milligram per kilogram	24	hour	003017677029.CEL
+2218	liver	Rattus norvegicus	carbamazepine	Control	0	milligram per kilogram	24	hour	003017677030.CEL
+2219	liver	Rattus norvegicus	carbamazepine	Control	0	milligram per kilogram	24	hour	003017678001.CEL
+2253	liver	Rattus norvegicus	carbamazepine	High	300	milligram per kilogram	24	hour	003017678008.CEL
+2254	liver	Rattus norvegicus	carbamazepine	High	300	milligram per kilogram	24	hour	003017678009.CEL
+2255	liver	Rattus norvegicus	carbamazepine	High	300	milligram per kilogram	24	hour	003017678010.CEL
+2260	hepatocyte	Rattus norvegicus	carbamazepine	Control	0	micromolar	24	hour	003017035017.CEL
+2261	hepatocyte	Rattus norvegicus	carbamazepine	Control	0	micromolar	24	hour	003017035018.CEL
+2278	hepatocyte	Rattus norvegicus	carbamazepine	High	300	micromolar	24	hour	003017035023.CEL
+2279	hepatocyte	Rattus norvegicus	carbamazepine	High	300	micromolar	24	hour	003017035024.CEL
+2284	hepatocyte	Homo sapiens	carbon tetrachloride	Control	0	micromolar	24	hour	003016018020.CEL
+2285	hepatocyte	Homo sapiens	carbon tetrachloride	Control	0	micromolar	24	hour	003016018021.CEL
+2302	hepatocyte	Homo sapiens	carbon tetrachloride	High	7500	micromolar	24	hour	003016018026.CEL
+2303	hepatocyte	Homo sapiens	carbon tetrachloride	High	7500	micromolar	24	hour	003016018027.CEL
+2313	liver	Rattus norvegicus	carbon tetrachloride	Control	0	milligram per kilogram	24	hour	003017662024.CEL
+2314	liver	Rattus norvegicus	carbon tetrachloride	Control	0	milligram per kilogram	24	hour	003017662025.CEL
+2315	liver	Rattus norvegicus	carbon tetrachloride	Control	0	milligram per kilogram	24	hour	003017662026.CEL
+2349	liver	Rattus norvegicus	carbon tetrachloride	High	300	milligram per kilogram	24	hour	003017663003.CEL
+2350	liver	Rattus norvegicus	carbon tetrachloride	High	300	milligram per kilogram	24	hour	003017663004.CEL
+2351	liver	Rattus norvegicus	carbon tetrachloride	High	300	milligram per kilogram	24	hour	003017663005.CEL
+2356	hepatocyte	Rattus norvegicus	carbon tetrachloride	Control	0	micromolar	24	hour	003017723007.CEL
+2357	hepatocyte	Rattus norvegicus	carbon tetrachloride	Control	0	micromolar	24	hour	003017723008.CEL
+2381	liver	Rattus norvegicus	carboplatin	Control	0	milligram per kilogram	24	hour	003017522019.CEL
+2382	liver	Rattus norvegicus	carboplatin	Control	0	milligram per kilogram	24	hour	003017522020.CEL
+2383	liver	Rattus norvegicus	carboplatin	Control	0	milligram per kilogram	24	hour	003017522021.CEL
+2417	liver	Rattus norvegicus	carboplatin	High	100	milligram per kilogram	24	hour	003017522028.CEL
+2418	liver	Rattus norvegicus	carboplatin	High	100	milligram per kilogram	24	hour	003017522029.CEL
+2419	liver	Rattus norvegicus	carboplatin	High	100	milligram per kilogram	24	hour	003017522030.CEL
+2429	kidney	Rattus norvegicus	carboplatin	Control	0	milligram per kilogram	24	hour	003017467014.CEL
+2430	kidney	Rattus norvegicus	carboplatin	Control	0	milligram per kilogram	24	hour	003017513015.CEL
+2431	kidney	Rattus norvegicus	carboplatin	Control	0	milligram per kilogram	24	hour	003017513016.CEL
+2465	kidney	Rattus norvegicus	carboplatin	High	100	milligram per kilogram	24	hour	003017467022.CEL
+2466	kidney	Rattus norvegicus	carboplatin	High	100	milligram per kilogram	24	hour	003017467023.CEL
+2467	kidney	Rattus norvegicus	carboplatin	High	100	milligram per kilogram	24	hour	003017513021.CEL
+2472	hepatocyte	Rattus norvegicus	carboplatin	Control	0	micromolar	24	hour	003017368010.CEL
+2473	hepatocyte	Rattus norvegicus	carboplatin	Control	0	micromolar	24	hour	003017368011.CEL
+2490	hepatocyte	Rattus norvegicus	carboplatin	High	3000	micromolar	24	hour	003017368016.CEL
+2491	hepatocyte	Rattus norvegicus	carboplatin	High	3000	micromolar	24	hour	003017368017.CEL
+2501	liver	Rattus norvegicus	cephalothin	Control	0	milligram per kilogram	24	hour	003017565007.CEL
+2502	liver	Rattus norvegicus	cephalothin	Control	0	milligram per kilogram	24	hour	003017565008.CEL
+2503	liver	Rattus norvegicus	cephalothin	Control	0	milligram per kilogram	24	hour	003017565009.CEL
+2537	liver	Rattus norvegicus	cephalothin	High	2000	milligram per kilogram	24	hour	003017565016.CEL
+2538	liver	Rattus norvegicus	cephalothin	High	2000	milligram per kilogram	24	hour	003017565017.CEL
+2539	liver	Rattus norvegicus	cephalothin	High	2000	milligram per kilogram	24	hour	003017565018.CEL
+2549	kidney	Rattus norvegicus	cephalothin	Control	0	milligram per kilogram	24	hour	003017543013.CEL
+2550	kidney	Rattus norvegicus	cephalothin	Control	0	milligram per kilogram	24	hour	003017543014.CEL
+2551	kidney	Rattus norvegicus	cephalothin	Control	0	milligram per kilogram	24	hour	003017543015.CEL
+2585	kidney	Rattus norvegicus	cephalothin	High	2000	milligram per kilogram	24	hour	003017543022.CEL
+2586	kidney	Rattus norvegicus	cephalothin	High	2000	milligram per kilogram	24	hour	003017543023.CEL
+2587	kidney	Rattus norvegicus	cephalothin	High	2000	milligram per kilogram	24	hour	003017543024.CEL
+2592	hepatocyte	Rattus norvegicus	cephalothin	Control	0	micromolar	24	hour	003017548023.CEL
+2593	hepatocyte	Rattus norvegicus	cephalothin	Control	0	micromolar	24	hour	003017548024.CEL
+2610	hepatocyte	Rattus norvegicus	cephalothin	High	3000	micromolar	24	hour	003017548029.CEL
+2611	hepatocyte	Rattus norvegicus	cephalothin	High	3000	micromolar	24	hour	003017548030.CEL
+2614	hepatocyte	Homo sapiens	chloramphenicol	Control	0	micromolar	24	hour	003016064020.CEL
+2615	hepatocyte	Homo sapiens	chloramphenicol	Control	0	micromolar	24	hour	003016064021.CEL
+2622	hepatocyte	Homo sapiens	chloramphenicol	High	450	micromolar	24	hour	003016064024.CEL
+2623	hepatocyte	Homo sapiens	chloramphenicol	High	450	micromolar	24	hour	003016064025.CEL
+2633	liver	Rattus norvegicus	chloramphenicol	Control	0	milligram per kilogram	24	hour	003017127030.CEL
+2634	liver	Rattus norvegicus	chloramphenicol	Control	0	milligram per kilogram	24	hour	003017128001.CEL
+2635	liver	Rattus norvegicus	chloramphenicol	Control	0	milligram per kilogram	24	hour	003017128002.CEL
+2669	liver	Rattus norvegicus	chloramphenicol	High	1000	milligram per kilogram	24	hour	003017128009.CEL
+2670	liver	Rattus norvegicus	chloramphenicol	High	1000	milligram per kilogram	24	hour	003017128010.CEL
+2671	liver	Rattus norvegicus	chloramphenicol	High	1000	milligram per kilogram	24	hour	003017128011.CEL
+2676	hepatocyte	Rattus norvegicus	chloramphenicol	Control	0	micromolar	24	hour	003017218027.CEL
+2677	hepatocyte	Rattus norvegicus	chloramphenicol	Control	0	micromolar	24	hour	003017218028.CEL
+2694	hepatocyte	Rattus norvegicus	chloramphenicol	High	450	micromolar	24	hour	003017219003.CEL
+2695	hepatocyte	Rattus norvegicus	chloramphenicol	High	450	micromolar	24	hour	003017219004.CEL
+2698	hepatocyte	Homo sapiens	chlormadinone	Control	0	micromolar	24	hour	003016079027.CEL
+2699	hepatocyte	Homo sapiens	chlormadinone	Control	0	micromolar	24	hour	003016079028.CEL
+2706	hepatocyte	Homo sapiens	chlormadinone	High	40	micromolar	24	hour	003016080001.CEL
+2707	hepatocyte	Homo sapiens	chlormadinone	High	40	micromolar	24	hour	003016080002.CEL
+2717	liver	Rattus norvegicus	chlormadinone	Control	0	milligram per kilogram	24	hour	003017453025.CEL
+2718	liver	Rattus norvegicus	chlormadinone	Control	0	milligram per kilogram	24	hour	003017453026.CEL
+2719	liver	Rattus norvegicus	chlormadinone	Control	0	milligram per kilogram	24	hour	003017453027.CEL
+2753	liver	Rattus norvegicus	chlormadinone	High	2000	milligram per kilogram	24	hour	003017454004.CEL
+2754	liver	Rattus norvegicus	chlormadinone	High	2000	milligram per kilogram	24	hour	003017454005.CEL
+2755	liver	Rattus norvegicus	chlormadinone	High	2000	milligram per kilogram	24	hour	003017454006.CEL
+2760	hepatocyte	Rattus norvegicus	chlormadinone	Control	0	micromolar	24	hour	003017355015.CEL
+2761	hepatocyte	Rattus norvegicus	chlormadinone	Control	0	micromolar	24	hour	003017355016.CEL
+2778	hepatocyte	Rattus norvegicus	chlormadinone	High	40	micromolar	24	hour	003017355021.CEL
+2779	hepatocyte	Rattus norvegicus	chlormadinone	High	40	micromolar	24	hour	003017355022.CEL
+2782	hepatocyte	Homo sapiens	chlormezanone	Control	0	micromolar	24	hour	003016059026.CEL
+2783	hepatocyte	Homo sapiens	chlormezanone	Control	0	micromolar	24	hour	003016059027.CEL
+2790	hepatocyte	Homo sapiens	chlormezanone	High	250	micromolar	24	hour	003016059030.CEL
+2791	hepatocyte	Homo sapiens	chlormezanone	High	250	micromolar	24	hour	003016060013.CEL
+2801	liver	Rattus norvegicus	chlormezanone	Control	0	milligram per kilogram	24	hour	003017016001.CEL
+2802	liver	Rattus norvegicus	chlormezanone	Control	0	milligram per kilogram	24	hour	003017026010.CEL
+2803	liver	Rattus norvegicus	chlormezanone	Control	0	milligram per kilogram	24	hour	003017081003.CEL
+2837	liver	Rattus norvegicus	chlormezanone	High	500	milligram per kilogram	24	hour	003017016010.CEL
+2838	liver	Rattus norvegicus	chlormezanone	High	500	milligram per kilogram	24	hour	003017016011.CEL
+2839	liver	Rattus norvegicus	chlormezanone	High	500	milligram per kilogram	24	hour	003017081006.CEL
+2844	hepatocyte	Rattus norvegicus	chlormezanone	Control	0	micromolar	24	hour	003017131010.CEL
+2845	hepatocyte	Rattus norvegicus	chlormezanone	Control	0	micromolar	24	hour	003017131011.CEL
+2862	hepatocyte	Rattus norvegicus	chlormezanone	High	250	micromolar	24	hour	003017131016.CEL
+2863	hepatocyte	Rattus norvegicus	chlormezanone	High	250	micromolar	24	hour	003017131017.CEL
+2866	hepatocyte	Homo sapiens	chlorpheniramine	Control	0	micromolar	24	hour	003016077019.CEL
+2867	hepatocyte	Homo sapiens	chlorpheniramine	Control	0	micromolar	24	hour	003016077020.CEL
+2874	hepatocyte	Homo sapiens	chlorpheniramine	High	90	micromolar	24	hour	003016077023.CEL
+2875	hepatocyte	Homo sapiens	chlorpheniramine	High	90	micromolar	24	hour	003016077024.CEL
+2885	liver	Rattus norvegicus	chlorpheniramine	Control	0	milligram per kilogram	24	hour	003017228009.CEL
+2886	liver	Rattus norvegicus	chlorpheniramine	Control	0	milligram per kilogram	24	hour	003017228010.CEL
+2887	liver	Rattus norvegicus	chlorpheniramine	Control	0	milligram per kilogram	24	hour	003017228011.CEL
+2921	liver	Rattus norvegicus	chlorpheniramine	High	30	milligram per kilogram	24	hour	003017228018.CEL
+2922	liver	Rattus norvegicus	chlorpheniramine	High	30	milligram per kilogram	24	hour	003017228019.CEL
+2923	liver	Rattus norvegicus	chlorpheniramine	High	30	milligram per kilogram	24	hour	003017228020.CEL
+2928	hepatocyte	Rattus norvegicus	chlorpheniramine	Control	0	micromolar	24	hour	003017284008.CEL
+2929	hepatocyte	Rattus norvegicus	chlorpheniramine	Control	0	micromolar	24	hour	003017284009.CEL
+2946	hepatocyte	Rattus norvegicus	chlorpheniramine	High	200	micromolar	24	hour	003017284014.CEL
+2947	hepatocyte	Rattus norvegicus	chlorpheniramine	High	200	micromolar	24	hour	003017284015.CEL
+2952	hepatocyte	Homo sapiens	chlorpromazine	Control	0	micromolar	24	hour	003016015014.CEL
+2953	hepatocyte	Homo sapiens	chlorpromazine	Control	0	micromolar	24	hour	003016015015.CEL
+2970	hepatocyte	Homo sapiens	chlorpromazine	High	20	micromolar	24	hour	003016015020.CEL
+2971	hepatocyte	Homo sapiens	chlorpromazine	High	20	micromolar	24	hour	003016015021.CEL
+2981	liver	Rattus norvegicus	chlorpromazine	Control	0	milligram per kilogram	24	hour	003017627010.CEL
+2982	liver	Rattus norvegicus	chlorpromazine	Control	0	milligram per kilogram	24	hour	003017627011.CEL
+2983	liver	Rattus norvegicus	chlorpromazine	Control	0	milligram per kilogram	24	hour	003017627012.CEL
+3012	hepatocyte	Rattus norvegicus	chlorpromazine	Control	0	micromolar	24	hour	003017030008.CEL
+3013	hepatocyte	Rattus norvegicus	chlorpromazine	Control	0	micromolar	24	hour	003017030009.CEL
+3030	hepatocyte	Rattus norvegicus	chlorpromazine	High	20	micromolar	24	hour	003017030014.CEL
+3031	hepatocyte	Rattus norvegicus	chlorpromazine	High	20	micromolar	24	hour	003017030015.CEL
+3034	hepatocyte	Homo sapiens	chlorpropamide	Control	0	micromolar	24	hour	003016068008.CEL
+3035	hepatocyte	Homo sapiens	chlorpropamide	Control	0	micromolar	24	hour	003016068009.CEL
+3042	hepatocyte	Homo sapiens	chlorpropamide	High	750	micromolar	24	hour	003016068012.CEL
+3043	hepatocyte	Homo sapiens	chlorpropamide	High	750	micromolar	24	hour	003016068013.CEL
+3053	liver	Rattus norvegicus	chlorpropamide	Control	0	milligram per kilogram	24	hour	003017432020.CEL
+3054	liver	Rattus norvegicus	chlorpropamide	Control	0	milligram per kilogram	24	hour	003017432021.CEL
+3055	liver	Rattus norvegicus	chlorpropamide	Control	0	milligram per kilogram	24	hour	003017432022.CEL
+3089	liver	Rattus norvegicus	chlorpropamide	High	300	milligram per kilogram	24	hour	003017432029.CEL
+3090	liver	Rattus norvegicus	chlorpropamide	High	300	milligram per kilogram	24	hour	003017432030.CEL
+3091	liver	Rattus norvegicus	chlorpropamide	High	300	milligram per kilogram	24	hour	003017433006.CEL
+3096	hepatocyte	Rattus norvegicus	chlorpropamide	Control	0	micromolar	24	hour	003017250006.CEL
+3097	hepatocyte	Rattus norvegicus	chlorpropamide	Control	0	micromolar	24	hour	003017250007.CEL
+3114	hepatocyte	Rattus norvegicus	chlorpropamide	High	750	micromolar	24	hour	003017250012.CEL
+3115	hepatocyte	Rattus norvegicus	chlorpropamide	High	750	micromolar	24	hour	003017250013.CEL
+3120	hepatocyte	Homo sapiens	cimetidine	Control	0	micromolar	24	hour	003016022023.CEL
+3121	hepatocyte	Homo sapiens	cimetidine	Control	0	micromolar	24	hour	003016022024.CEL
+3138	hepatocyte	Homo sapiens	cimetidine	High	300	micromolar	24	hour	003016022029.CEL
+3139	hepatocyte	Homo sapiens	cimetidine	High	300	micromolar	24	hour	003016022030.CEL
+3149	liver	Rattus norvegicus	cimetidine	Control	0	milligram per kilogram	24	hour	003017702012.CEL
+3150	liver	Rattus norvegicus	cimetidine	Control	0	milligram per kilogram	24	hour	003017702013.CEL
+3151	liver	Rattus norvegicus	cimetidine	Control	0	milligram per kilogram	24	hour	003017702014.CEL
+3185	liver	Rattus norvegicus	cimetidine	High	1000	milligram per kilogram	24	hour	003017702021.CEL
+3186	liver	Rattus norvegicus	cimetidine	High	1000	milligram per kilogram	24	hour	003017702022.CEL
+3187	liver	Rattus norvegicus	cimetidine	High	1000	milligram per kilogram	24	hour	003017702023.CEL
+3192	hepatocyte	Rattus norvegicus	cimetidine	Control	0	micromolar	24	hour	003017139017.CEL
+3193	hepatocyte	Rattus norvegicus	cimetidine	Control	0	micromolar	24	hour	003017139018.CEL
+3210	hepatocyte	Rattus norvegicus	cimetidine	High	300	micromolar	24	hour	003017139023.CEL
+3211	hepatocyte	Rattus norvegicus	cimetidine	High	300	micromolar	24	hour	003017139024.CEL
+3214	hepatocyte	Homo sapiens	ciprofloxacin	Control	0	micromolar	24	hour	003016059002.CEL
+3215	hepatocyte	Homo sapiens	ciprofloxacin	Control	0	micromolar	24	hour	003016059003.CEL
+3222	hepatocyte	Homo sapiens	ciprofloxacin	High	25	micromolar	24	hour	003016059006.CEL
+3223	hepatocyte	Homo sapiens	ciprofloxacin	High	25	micromolar	24	hour	003016059007.CEL
+3233	liver	Rattus norvegicus	ciprofloxacin	Control	0	milligram per kilogram	24	hour	003017091013.CEL
+3234	liver	Rattus norvegicus	ciprofloxacin	Control	0	milligram per kilogram	24	hour	003017091014.CEL
+3235	liver	Rattus norvegicus	ciprofloxacin	Control	0	milligram per kilogram	24	hour	003017091022.CEL
+3269	liver	Rattus norvegicus	ciprofloxacin	High	1000	milligram per kilogram	24	hour	003017091021.CEL
+3270	liver	Rattus norvegicus	ciprofloxacin	High	1000	milligram per kilogram	24	hour	003017091023.CEL
+3271	liver	Rattus norvegicus	ciprofloxacin	High	1000	milligram per kilogram	24	hour	003017091024.CEL
+3281	kidney	Rattus norvegicus	ciprofloxacin	Control	0	milligram per kilogram	24	hour	003017838004.CEL
+3282	kidney	Rattus norvegicus	ciprofloxacin	Control	0	milligram per kilogram	24	hour	003017838005.CEL
+3283	kidney	Rattus norvegicus	ciprofloxacin	Control	0	milligram per kilogram	24	hour	003017838006.CEL
+3317	kidney	Rattus norvegicus	ciprofloxacin	High	1000	milligram per kilogram	24	hour	003017838013.CEL
+3318	kidney	Rattus norvegicus	ciprofloxacin	High	1000	milligram per kilogram	24	hour	003017838014.CEL
+3319	kidney	Rattus norvegicus	ciprofloxacin	High	1000	milligram per kilogram	24	hour	003017838015.CEL
+3324	hepatocyte	Rattus norvegicus	ciprofloxacin	Control	0	micromolar	24	hour	003017121022.CEL
+3325	hepatocyte	Rattus norvegicus	ciprofloxacin	Control	0	micromolar	24	hour	003017121023.CEL
+3342	hepatocyte	Rattus norvegicus	ciprofloxacin	High	25	micromolar	24	hour	003017121028.CEL
+3343	hepatocyte	Rattus norvegicus	ciprofloxacin	High	25	micromolar	24	hour	003017121029.CEL
+3353	liver	Rattus norvegicus	cisplatin	Control	0	milligram per kilogram	24	hour	003017471014.CEL
+3354	liver	Rattus norvegicus	cisplatin	Control	0	milligram per kilogram	24	hour	003017471015.CEL
+3355	liver	Rattus norvegicus	cisplatin	Control	0	milligram per kilogram	24	hour	003017471016.CEL
+3389	liver	Rattus norvegicus	cisplatin	High	3	milligram per kilogram	24	hour	003017471023.CEL
+3390	liver	Rattus norvegicus	cisplatin	High	3	milligram per kilogram	24	hour	003017471024.CEL
+3391	liver	Rattus norvegicus	cisplatin	High	3	milligram per kilogram	24	hour	003017471025.CEL
+3401	kidney	Rattus norvegicus	cisplatin	Control	0	milligram per kilogram	24	hour	003017460028.CEL
+3402	kidney	Rattus norvegicus	cisplatin	Control	0	milligram per kilogram	24	hour	003017460029.CEL
+3403	kidney	Rattus norvegicus	cisplatin	Control	0	milligram per kilogram	24	hour	003017460030.CEL
+3437	kidney	Rattus norvegicus	cisplatin	High	3	milligram per kilogram	24	hour	003017461007.CEL
+3438	kidney	Rattus norvegicus	cisplatin	High	3	milligram per kilogram	24	hour	003017461008.CEL
+3439	kidney	Rattus norvegicus	cisplatin	High	3	milligram per kilogram	24	hour	003017461009.CEL
+3444	hepatocyte	Rattus norvegicus	cisplatin	Control	0	micromolar	24	hour	003017463014.CEL
+3445	hepatocyte	Rattus norvegicus	cisplatin	Control	0	micromolar	24	hour	003017463015.CEL
+3462	hepatocyte	Rattus norvegicus	cisplatin	High	200	micromolar	24	hour	003017594025.CEL
+3463	hepatocyte	Rattus norvegicus	cisplatin	High	200	micromolar	24	hour	003017594026.CEL
+3468	hepatocyte	Homo sapiens	clofibrate	Control	0	micromolar	24	hour	003016017026.CEL
+3469	hepatocyte	Homo sapiens	clofibrate	Control	0	micromolar	24	hour	003016017027.CEL
+3486	hepatocyte	Homo sapiens	clofibrate	High	300	micromolar	24	hour	003016018002.CEL
+3487	hepatocyte	Homo sapiens	clofibrate	High	300	micromolar	24	hour	003016018003.CEL
+3497	liver	Rattus norvegicus	clofibrate	Control	0	milligram per kilogram	24	hour	003017660012.CEL
+3498	liver	Rattus norvegicus	clofibrate	Control	0	milligram per kilogram	24	hour	003017660013.CEL
+3499	liver	Rattus norvegicus	clofibrate	Control	0	milligram per kilogram	24	hour	003017660014.CEL
+3533	liver	Rattus norvegicus	clofibrate	High	300	milligram per kilogram	24	hour	003017660021.CEL
+3534	liver	Rattus norvegicus	clofibrate	High	300	milligram per kilogram	24	hour	003017660022.CEL
+3535	liver	Rattus norvegicus	clofibrate	High	300	milligram per kilogram	24	hour	003017660023.CEL
+3545	kidney	Rattus norvegicus	clofibrate	Control	0	milligram per kilogram	24	hour	003017830025.CEL
+3546	kidney	Rattus norvegicus	clofibrate	Control	0	milligram per kilogram	24	hour	003017830026.CEL
+3547	kidney	Rattus norvegicus	clofibrate	Control	0	milligram per kilogram	24	hour	003017830027.CEL
+3581	kidney	Rattus norvegicus	clofibrate	High	300	milligram per kilogram	24	hour	003017831004.CEL
+3582	kidney	Rattus norvegicus	clofibrate	High	300	milligram per kilogram	24	hour	003017831005.CEL
+3583	kidney	Rattus norvegicus	clofibrate	High	300	milligram per kilogram	24	hour	003017831006.CEL
+3588	hepatocyte	Rattus norvegicus	clofibrate	Control	0	micromolar	24	hour	003017007030.CEL
+3589	hepatocyte	Rattus norvegicus	clofibrate	Control	0	micromolar	24	hour	003017008001.CEL
+3606	hepatocyte	Rattus norvegicus	clofibrate	High	300	micromolar	24	hour	003017008006.CEL
+3607	hepatocyte	Rattus norvegicus	clofibrate	High	300	micromolar	24	hour	003017008007.CEL
+3610	hepatocyte	Homo sapiens	clomipramine	Control	0	micromolar	24	hour	003016085015.CEL
+3611	hepatocyte	Homo sapiens	clomipramine	Control	0	micromolar	24	hour	003016085016.CEL
+3618	hepatocyte	Homo sapiens	clomipramine	High	10	micromolar	24	hour	003016085019.CEL
+3619	hepatocyte	Homo sapiens	clomipramine	High	10	micromolar	24	hour	003016085020.CEL
+3629	liver	Rattus norvegicus	clomipramine	Control	0	milligram per kilogram	24	hour	003017518016.CEL
+3630	liver	Rattus norvegicus	clomipramine	Control	0	milligram per kilogram	24	hour	003017518017.CEL
+3631	liver	Rattus norvegicus	clomipramine	Control	0	milligram per kilogram	24	hour	003017518018.CEL
+3665	liver	Rattus norvegicus	clomipramine	High	100	milligram per kilogram	24	hour	003017518025.CEL
+3666	liver	Rattus norvegicus	clomipramine	High	100	milligram per kilogram	24	hour	003017518026.CEL
+3667	liver	Rattus norvegicus	clomipramine	High	100	milligram per kilogram	24	hour	003017518027.CEL
+3672	hepatocyte	Rattus norvegicus	clomipramine	Control	0	micromolar	24	hour	003017373003.CEL
+3673	hepatocyte	Rattus norvegicus	clomipramine	Control	0	micromolar	24	hour	003017373004.CEL
+3690	hepatocyte	Rattus norvegicus	clomipramine	High	40	micromolar	24	hour	003017373009.CEL
+3691	hepatocyte	Rattus norvegicus	clomipramine	High	40	micromolar	24	hour	003017373010.CEL
+3694	hepatocyte	Homo sapiens	colchicine	Control	0	micromolar	24	hour	003016075030.CEL
+3695	hepatocyte	Homo sapiens	colchicine	Control	0	micromolar	24	hour	003016076030.CEL
+3702	hepatocyte	Homo sapiens	colchicine	High	4000	micromolar	24	hour	003016076004.CEL
+3703	hepatocyte	Homo sapiens	colchicine	High	4000	micromolar	24	hour	003016076005.CEL
+3713	liver	Rattus norvegicus	colchicine	Control	0	milligram per kilogram	24	hour	003017358017.CEL
+3714	liver	Rattus norvegicus	colchicine	Control	0	milligram per kilogram	24	hour	003017358018.CEL
+3715	liver	Rattus norvegicus	colchicine	Control	0	milligram per kilogram	24	hour	003017358019.CEL
+3749	liver	Rattus norvegicus	colchicine	High	15	milligram per kilogram	24	hour	003017358026.CEL
+3750	liver	Rattus norvegicus	colchicine	High	15	milligram per kilogram	24	hour	003017358027.CEL
+3751	liver	Rattus norvegicus	colchicine	High	15	milligram per kilogram	24	hour	003017358028.CEL
+3756	hepatocyte	Rattus norvegicus	colchicine	Control	0	micromolar	24	hour	003017329019.CEL
+3757	hepatocyte	Rattus norvegicus	colchicine	Control	0	micromolar	24	hour	003017329020.CEL
+3774	hepatocyte	Rattus norvegicus	colchicine	High	5000	micromolar	24	hour	003017329025.CEL
+3775	hepatocyte	Rattus norvegicus	colchicine	High	5000	micromolar	24	hour	003017329026.CEL
+3780	hepatocyte	Homo sapiens	coumarin	Control	0	micromolar	24	hour	003016040019.CEL
+3781	hepatocyte	Homo sapiens	coumarin	Control	0	micromolar	24	hour	003016040020.CEL
+3798	hepatocyte	Homo sapiens	coumarin	High	300	micromolar	24	hour	003016040025.CEL
+3799	hepatocyte	Homo sapiens	coumarin	High	300	micromolar	24	hour	003016040026.CEL
+3809	liver	Rattus norvegicus	coumarin	Control	0	milligram per kilogram	24	hour	003017685029.CEL
+3810	liver	Rattus norvegicus	coumarin	Control	0	milligram per kilogram	24	hour	003017685030.CEL
+3811	liver	Rattus norvegicus	coumarin	Control	0	milligram per kilogram	24	hour	003017686001.CEL
+3845	liver	Rattus norvegicus	coumarin	High	150	milligram per kilogram	24	hour	003017686008.CEL
+3846	liver	Rattus norvegicus	coumarin	High	150	milligram per kilogram	24	hour	003017686009.CEL
+3847	liver	Rattus norvegicus	coumarin	High	150	milligram per kilogram	24	hour	003017686010.CEL
+3852	hepatocyte	Rattus norvegicus	coumarin	Control	0	micromolar	24	hour	003017069017.CEL
+3853	hepatocyte	Rattus norvegicus	coumarin	Control	0	micromolar	24	hour	003017069018.CEL
+3870	hepatocyte	Rattus norvegicus	coumarin	High	300	micromolar	24	hour	003017068005.CEL
+3871	hepatocyte	Rattus norvegicus	coumarin	High	300	micromolar	24	hour	003017068006.CEL
+3876	hepatocyte	Homo sapiens	cyclophosphamide	Control	0	micromolar	24	hour	003016035022.CEL
+3877	hepatocyte	Homo sapiens	cyclophosphamide	Control	0	micromolar	24	hour	003016035023.CEL
+3894	hepatocyte	Homo sapiens	cyclophosphamide	High	2000	micromolar	24	hour	003016035028.CEL
+3895	hepatocyte	Homo sapiens	cyclophosphamide	High	2000	micromolar	24	hour	003016035029.CEL
+3905	liver	Rattus norvegicus	cyclophosphamide	Control	0	milligram per kilogram	24	hour	003017621027.CEL
+3906	liver	Rattus norvegicus	cyclophosphamide	Control	0	milligram per kilogram	24	hour	003017621028.CEL
+3907	liver	Rattus norvegicus	cyclophosphamide	Control	0	milligram per kilogram	24	hour	003017621029.CEL
+3941	liver	Rattus norvegicus	cyclophosphamide	High	150	milligram per kilogram	24	hour	003017622006.CEL
+3942	liver	Rattus norvegicus	cyclophosphamide	High	150	milligram per kilogram	24	hour	003017622007.CEL
+3943	liver	Rattus norvegicus	cyclophosphamide	High	150	milligram per kilogram	24	hour	003017622008.CEL
+3953	kidney	Rattus norvegicus	cyclophosphamide	Control	0	milligram per kilogram	24	hour	003017232008.CEL
+3954	kidney	Rattus norvegicus	cyclophosphamide	Control	0	milligram per kilogram	24	hour	003017232009.CEL
+3955	kidney	Rattus norvegicus	cyclophosphamide	Control	0	milligram per kilogram	24	hour	003017232010.CEL
+3989	kidney	Rattus norvegicus	cyclophosphamide	High	15	milligram per kilogram	24	hour	003017232017.CEL
+3990	kidney	Rattus norvegicus	cyclophosphamide	High	15	milligram per kilogram	24	hour	003017232018.CEL
+3991	kidney	Rattus norvegicus	cyclophosphamide	High	15	milligram per kilogram	24	hour	003017232019.CEL
+3996	hepatocyte	Rattus norvegicus	cyclophosphamide	Control	0	micromolar	24	hour	003017057027.CEL
+3997	hepatocyte	Rattus norvegicus	cyclophosphamide	Control	0	micromolar	24	hour	003017057028.CEL
+4014	hepatocyte	Rattus norvegicus	cyclophosphamide	High	200	micromolar	24	hour	003017058003.CEL
+4015	hepatocyte	Rattus norvegicus	cyclophosphamide	High	200	micromolar	24	hour	003017058004.CEL
+4025	liver	Rattus norvegicus	cyclosporine A	Control	0	milligram per kilogram	24	hour	003017590013.CEL
+4026	liver	Rattus norvegicus	cyclosporine A	Control	0	milligram per kilogram	24	hour	003017590014.CEL
+4027	liver	Rattus norvegicus	cyclosporine A	Control	0	milligram per kilogram	24	hour	003017590015.CEL
+4061	liver	Rattus norvegicus	cyclosporine A	High	300	milligram per kilogram	24	hour	003017590022.CEL
+4062	liver	Rattus norvegicus	cyclosporine A	High	300	milligram per kilogram	24	hour	003017590023.CEL
+4063	liver	Rattus norvegicus	cyclosporine A	High	300	milligram per kilogram	24	hour	003017590024.CEL
+4073	kidney	Rattus norvegicus	cyclosporine A	Control	0	milligram per kilogram	24	hour	003017568025.CEL
+4074	kidney	Rattus norvegicus	cyclosporine A	Control	0	milligram per kilogram	24	hour	003017568026.CEL
+4075	kidney	Rattus norvegicus	cyclosporine A	Control	0	milligram per kilogram	24	hour	003017568027.CEL
+4109	kidney	Rattus norvegicus	cyclosporine A	High	300	milligram per kilogram	24	hour	003017569004.CEL
+4110	kidney	Rattus norvegicus	cyclosporine A	High	300	milligram per kilogram	24	hour	003017569005.CEL
+4111	kidney	Rattus norvegicus	cyclosporine A	High	300	milligram per kilogram	24	hour	003017569006.CEL
+4116	hepatocyte	Rattus norvegicus	cyclosporine A	Control	0	micromolar	24	hour	003017361027.CEL
+4117	hepatocyte	Rattus norvegicus	cyclosporine A	Control	0	micromolar	24	hour	003017361028.CEL
+4134	hepatocyte	Rattus norvegicus	cyclosporine A	High	6	micromolar	24	hour	003017362003.CEL
+4135	hepatocyte	Rattus norvegicus	cyclosporine A	High	6	micromolar	24	hour	003017362004.CEL
+4138	hepatocyte	Homo sapiens	danazol	Control	0	micromolar	24	hour	003016086021.CEL
+4139	hepatocyte	Homo sapiens	danazol	Control	0	micromolar	24	hour	003016086022.CEL
+4146	hepatocyte	Homo sapiens	danazol	High	35	micromolar	24	hour	003016086025.CEL
+4147	hepatocyte	Homo sapiens	danazol	High	35	micromolar	24	hour	003016086026.CEL
+4157	liver	Rattus norvegicus	danazol	Control	0	milligram per kilogram	24	hour	003017480012.CEL
+4158	liver	Rattus norvegicus	danazol	Control	0	milligram per kilogram	24	hour	003017480013.CEL
+4159	liver	Rattus norvegicus	danazol	Control	0	milligram per kilogram	24	hour	003017480014.CEL
+4193	liver	Rattus norvegicus	danazol	High	2000	milligram per kilogram	24	hour	003017480021.CEL
+4194	liver	Rattus norvegicus	danazol	High	2000	milligram per kilogram	24	hour	003017480022.CEL
+4195	liver	Rattus norvegicus	danazol	High	2000	milligram per kilogram	24	hour	003017480023.CEL
+4200	hepatocyte	Rattus norvegicus	danazol	Control	0	micromolar	24	hour	003017357003.CEL
+4201	hepatocyte	Rattus norvegicus	danazol	Control	0	micromolar	24	hour	003017357004.CEL
+4218	hepatocyte	Rattus norvegicus	danazol	High	35	micromolar	24	hour	003017357009.CEL
+4219	hepatocyte	Rattus norvegicus	danazol	High	35	micromolar	24	hour	003017357010.CEL
+4222	hepatocyte	Homo sapiens	dantrolene	Control	0	micromolar	24	hour	003016085003.CEL
+4223	hepatocyte	Homo sapiens	dantrolene	Control	0	micromolar	24	hour	003016085004.CEL
+4230	hepatocyte	Homo sapiens	dantrolene	High	10	micromolar	24	hour	003016085007.CEL
+4231	hepatocyte	Homo sapiens	dantrolene	High	10	micromolar	24	hour	003016085008.CEL
+4241	liver	Rattus norvegicus	dantrolene	Control	0	milligram per kilogram	24	hour	003017390017.CEL
+4242	liver	Rattus norvegicus	dantrolene	Control	0	milligram per kilogram	24	hour	003017390018.CEL
+4243	liver	Rattus norvegicus	dantrolene	Control	0	milligram per kilogram	24	hour	003017390019.CEL
+4277	liver	Rattus norvegicus	dantrolene	High	250	milligram per kilogram	24	hour	003017390026.CEL
+4278	liver	Rattus norvegicus	dantrolene	High	250	milligram per kilogram	24	hour	003017390027.CEL
+4279	liver	Rattus norvegicus	dantrolene	High	250	milligram per kilogram	24	hour	003017390028.CEL
+4284	hepatocyte	Rattus norvegicus	dantrolene	Control	0	micromolar	24	hour	003017346021.CEL
+4285	hepatocyte	Rattus norvegicus	dantrolene	Control	0	micromolar	24	hour	003017346022.CEL
+4302	hepatocyte	Rattus norvegicus	dantrolene	High	10	micromolar	24	hour	003017346027.CEL
+4303	hepatocyte	Rattus norvegicus	dantrolene	High	10	micromolar	24	hour	003017346028.CEL
+4308	hepatocyte	Homo sapiens	diazepam	Control	0	micromolar	24	hour	003016031023.CEL
+4309	hepatocyte	Homo sapiens	diazepam	Control	0	micromolar	24	hour	003016031024.CEL
+4326	hepatocyte	Homo sapiens	diazepam	High	250	micromolar	24	hour	003016031029.CEL
+4327	hepatocyte	Homo sapiens	diazepam	High	250	micromolar	24	hour	003016031030.CEL
+4337	liver	Rattus norvegicus	diazepam	Control	0	milligram per kilogram	24	hour	003017683017.CEL
+4338	liver	Rattus norvegicus	diazepam	Control	0	milligram per kilogram	24	hour	003017683018.CEL
+4339	liver	Rattus norvegicus	diazepam	Control	0	milligram per kilogram	24	hour	003017683019.CEL
+4373	liver	Rattus norvegicus	diazepam	High	250	milligram per kilogram	24	hour	003017683026.CEL
+4374	liver	Rattus norvegicus	diazepam	High	250	milligram per kilogram	24	hour	003017683027.CEL
+4375	liver	Rattus norvegicus	diazepam	High	250	milligram per kilogram	24	hour	003017683028.CEL
+4380	hepatocyte	Rattus norvegicus	diazepam	Control	0	micromolar	24	hour	003017063017.CEL
+4381	hepatocyte	Rattus norvegicus	diazepam	Control	0	micromolar	24	hour	003017063018.CEL
+4398	hepatocyte	Rattus norvegicus	diazepam	High	125	micromolar	24	hour	003017063023.CEL
+4399	hepatocyte	Rattus norvegicus	diazepam	High	125	micromolar	24	hour	003017063024.CEL
+4404	hepatocyte	Homo sapiens	diclofenac	Control	0	micromolar	24	hour	003016039001.CEL
+4405	hepatocyte	Homo sapiens	diclofenac	Control	0	micromolar	24	hour	003016039002.CEL
+4422	hepatocyte	Homo sapiens	diclofenac	High	400	micromolar	24	hour	003016039007.CEL
+4423	hepatocyte	Homo sapiens	diclofenac	High	400	micromolar	24	hour	003016039008.CEL
+4433	liver	Rattus norvegicus	diclofenac	Control	0	milligram per kilogram	24	hour	003017641011.CEL
+4434	liver	Rattus norvegicus	diclofenac	Control	0	milligram per kilogram	24	hour	003017641012.CEL
+4435	liver	Rattus norvegicus	diclofenac	Control	0	milligram per kilogram	24	hour	003017641013.CEL
+4469	liver	Rattus norvegicus	diclofenac	High	100	milligram per kilogram	24	hour	003017641020.CEL
+4470	liver	Rattus norvegicus	diclofenac	High	100	milligram per kilogram	24	hour	003017641021.CEL
+4471	liver	Rattus norvegicus	diclofenac	High	100	milligram per kilogram	24	hour	003017641022.CEL
+4476	hepatocyte	Rattus norvegicus	diclofenac	Control	0	micromolar	24	hour	003017033005.CEL
+4477	hepatocyte	Rattus norvegicus	diclofenac	Control	0	micromolar	24	hour	003017033006.CEL
+4494	hepatocyte	Rattus norvegicus	diclofenac	High	400	micromolar	24	hour	003017034005.CEL
+4495	hepatocyte	Rattus norvegicus	diclofenac	High	400	micromolar	24	hour	003017034006.CEL
+4498	hepatocyte	Homo sapiens	diltiazem	Control	0	micromolar	24	hour	003016077007.CEL
+4499	hepatocyte	Homo sapiens	diltiazem	Control	0	micromolar	24	hour	003016077008.CEL
+4506	hepatocyte	Homo sapiens	diltiazem	High	150	micromolar	24	hour	003016077011.CEL
+4507	hepatocyte	Homo sapiens	diltiazem	High	150	micromolar	24	hour	003016077012.CEL
+4517	liver	Rattus norvegicus	diltiazem	Control	0	milligram per kilogram	24	hour	003017295028.CEL
+4518	liver	Rattus norvegicus	diltiazem	Control	0	milligram per kilogram	24	hour	003017295029.CEL
+4519	liver	Rattus norvegicus	diltiazem	Control	0	milligram per kilogram	24	hour	003017295030.CEL
+4553	liver	Rattus norvegicus	diltiazem	High	800	milligram per kilogram	24	hour	003017296006.CEL
+4554	liver	Rattus norvegicus	diltiazem	High	800	milligram per kilogram	24	hour	003017296007.CEL
+4555	liver	Rattus norvegicus	diltiazem	High	800	milligram per kilogram	24	hour	003017296008.CEL
+4560	hepatocyte	Rattus norvegicus	diltiazem	Control	0	micromolar	24	hour	003017299017.CEL
+4561	hepatocyte	Rattus norvegicus	diltiazem	Control	0	micromolar	24	hour	003017299018.CEL
+4578	hepatocyte	Rattus norvegicus	diltiazem	High	250	micromolar	24	hour	003017299023.CEL
+4579	hepatocyte	Rattus norvegicus	diltiazem	High	250	micromolar	24	hour	003017299024.CEL
+4582	hepatocyte	Homo sapiens	disopyramide	Control	0	micromolar	24	hour	003016074012.CEL
+4583	hepatocyte	Homo sapiens	disopyramide	Control	0	micromolar	24	hour	003016074013.CEL
+4590	hepatocyte	Homo sapiens	disopyramide	High	3500	micromolar	24	hour	003016074016.CEL
+4591	hepatocyte	Homo sapiens	disopyramide	High	3500	micromolar	24	hour	003016074017.CEL
+4601	liver	Rattus norvegicus	disopyramide	Control	0	milligram per kilogram	24	hour	003017229015.CEL
+4602	liver	Rattus norvegicus	disopyramide	Control	0	milligram per kilogram	24	hour	003017229016.CEL
+4603	liver	Rattus norvegicus	disopyramide	Control	0	milligram per kilogram	24	hour	003017229017.CEL
+4637	liver	Rattus norvegicus	disopyramide	High	400	milligram per kilogram	24	hour	003017229024.CEL
+4638	liver	Rattus norvegicus	disopyramide	High	400	milligram per kilogram	24	hour	003017229025.CEL
+4639	liver	Rattus norvegicus	disopyramide	High	400	milligram per kilogram	24	hour	003017229026.CEL
+4644	hepatocyte	Rattus norvegicus	disopyramide	Control	0	micromolar	24	hour	003017258019.CEL
+4645	hepatocyte	Rattus norvegicus	disopyramide	Control	0	micromolar	24	hour	003017258020.CEL
+4662	hepatocyte	Rattus norvegicus	disopyramide	High	2500	micromolar	24	hour	003017258025.CEL
+4663	hepatocyte	Rattus norvegicus	disopyramide	High	2500	micromolar	24	hour	003017258026.CEL
+4666	hepatocyte	Homo sapiens	disulfiram	Control	0	micromolar	24	hour	003016075018.CEL
+4667	hepatocyte	Homo sapiens	disulfiram	Control	0	micromolar	24	hour	003016075019.CEL
+4674	hepatocyte	Homo sapiens	disulfiram	High	60	micromolar	24	hour	003016075022.CEL
+4675	hepatocyte	Homo sapiens	disulfiram	High	60	micromolar	24	hour	003016075023.CEL
+4685	liver	Rattus norvegicus	disulfiram	Control	0	milligram per kilogram	24	hour	003017328021.CEL
+4686	liver	Rattus norvegicus	disulfiram	Control	0	milligram per kilogram	24	hour	003017328022.CEL
+4687	liver	Rattus norvegicus	disulfiram	Control	0	milligram per kilogram	24	hour	003017328023.CEL
+4721	liver	Rattus norvegicus	disulfiram	High	600	milligram per kilogram	24	hour	003017328030.CEL
+4722	liver	Rattus norvegicus	disulfiram	High	600	milligram per kilogram	24	hour	003017329001.CEL
+4723	liver	Rattus norvegicus	disulfiram	High	600	milligram per kilogram	24	hour	003017329002.CEL
+4728	hepatocyte	Rattus norvegicus	disulfiram	Control	0	micromolar	24	hour	003017326013.CEL
+4729	hepatocyte	Rattus norvegicus	disulfiram	Control	0	micromolar	24	hour	003017326014.CEL
+4746	hepatocyte	Rattus norvegicus	disulfiram	High	60	micromolar	24	hour	003017326019.CEL
+4747	hepatocyte	Rattus norvegicus	disulfiram	High	60	micromolar	24	hour	003017326020.CEL
+4757	liver	Rattus norvegicus	doxorubicin	Control	0	milligram per kilogram	24	hour	003017604001.CEL
+4758	liver	Rattus norvegicus	doxorubicin	Control	0	milligram per kilogram	24	hour	003017604002.CEL
+4759	liver	Rattus norvegicus	doxorubicin	Control	0	milligram per kilogram	24	hour	003017604003.CEL
+4793	liver	Rattus norvegicus	doxorubicin	High	10	milligram per kilogram	24	hour	003017604010.CEL
+4794	liver	Rattus norvegicus	doxorubicin	High	10	milligram per kilogram	24	hour	003017604011.CEL
+4795	liver	Rattus norvegicus	doxorubicin	High	10	milligram per kilogram	24	hour	003017604012.CEL
+4805	kidney	Rattus norvegicus	doxorubicin	Control	0	milligram per kilogram	24	hour	003017599013.CEL
+4806	kidney	Rattus norvegicus	doxorubicin	Control	0	milligram per kilogram	24	hour	003017599014.CEL
+4807	kidney	Rattus norvegicus	doxorubicin	Control	0	milligram per kilogram	24	hour	003017599015.CEL
+4841	kidney	Rattus norvegicus	doxorubicin	High	10	milligram per kilogram	24	hour	003017599022.CEL
+4842	kidney	Rattus norvegicus	doxorubicin	High	10	milligram per kilogram	24	hour	003017599023.CEL
+4843	kidney	Rattus norvegicus	doxorubicin	High	10	milligram per kilogram	24	hour	003017599024.CEL
+4848	hepatocyte	Rattus norvegicus	doxorubicin	Control	0	micromolar	24	hour	003017474022.CEL
+4849	hepatocyte	Rattus norvegicus	doxorubicin	Control	0	micromolar	24	hour	003017474023.CEL
+4866	hepatocyte	Rattus norvegicus	doxorubicin	High	2	micromolar	24	hour	003017474028.CEL
+4867	hepatocyte	Rattus norvegicus	doxorubicin	High	2	micromolar	24	hour	003017474029.CEL
+4870	hepatocyte	Homo sapiens	enalapril	Control	0	micromolar	24	hour	003016072021.CEL
+4871	hepatocyte	Homo sapiens	enalapril	Control	0	micromolar	24	hour	003016072022.CEL
+4878	hepatocyte	Homo sapiens	enalapril	High	2000	micromolar	24	hour	003016072025.CEL
+4879	hepatocyte	Homo sapiens	enalapril	High	2000	micromolar	24	hour	003016072026.CEL
+4889	liver	Rattus norvegicus	enalapril	Control	0	milligram per kilogram	24	hour	003017310013.CEL
+4890	liver	Rattus norvegicus	enalapril	Control	0	milligram per kilogram	24	hour	003017310014.CEL
+4891	liver	Rattus norvegicus	enalapril	Control	0	milligram per kilogram	24	hour	003017310015.CEL
+4925	liver	Rattus norvegicus	enalapril	High	600	milligram per kilogram	24	hour	003017310022.CEL
+4926	liver	Rattus norvegicus	enalapril	High	600	milligram per kilogram	24	hour	003017310023.CEL
+4927	liver	Rattus norvegicus	enalapril	High	600	milligram per kilogram	24	hour	003017310024.CEL
+4937	kidney	Rattus norvegicus	enalapril	Control	0	milligram per kilogram	24	hour	003017781012.CEL
+4938	kidney	Rattus norvegicus	enalapril	Control	0	milligram per kilogram	24	hour	003017781013.CEL
+4939	kidney	Rattus norvegicus	enalapril	Control	0	milligram per kilogram	24	hour	003017781014.CEL
+4973	kidney	Rattus norvegicus	enalapril	High	600	milligram per kilogram	24	hour	003017781021.CEL
+4974	kidney	Rattus norvegicus	enalapril	High	600	milligram per kilogram	24	hour	003017781022.CEL
+4975	kidney	Rattus norvegicus	enalapril	High	600	milligram per kilogram	24	hour	003017781023.CEL
+4980	hepatocyte	Rattus norvegicus	enalapril	Control	0	micromolar	24	hour	003017293027.CEL
+4981	hepatocyte	Rattus norvegicus	enalapril	Control	0	micromolar	24	hour	003017293028.CEL
+4998	hepatocyte	Rattus norvegicus	enalapril	High	2000	micromolar	24	hour	003017294003.CEL
+4999	hepatocyte	Rattus norvegicus	enalapril	High	2000	micromolar	24	hour	003017294004.CEL
+5002	hepatocyte	Homo sapiens	erythromycin ethylsuccinate	Control	0	micromolar	24	hour	003016069002.CEL
+5003	hepatocyte	Homo sapiens	erythromycin ethylsuccinate	Control	0	micromolar	24	hour	003016069003.CEL
+5010	hepatocyte	Homo sapiens	erythromycin ethylsuccinate	High	5	micromolar	24	hour	003016069006.CEL
+5011	hepatocyte	Homo sapiens	erythromycin ethylsuccinate	High	5	micromolar	24	hour	003016069007.CEL
+5021	liver	Rattus norvegicus	erythromycin ethylsuccinate	Control	0	milligram per kilogram	24	hour	003017189026.CEL
+5022	liver	Rattus norvegicus	erythromycin ethylsuccinate	Control	0	milligram per kilogram	24	hour	003017189027.CEL
+5023	liver	Rattus norvegicus	erythromycin ethylsuccinate	Control	0	milligram per kilogram	24	hour	003017189028.CEL
+5057	liver	Rattus norvegicus	erythromycin ethylsuccinate	High	1000	milligram per kilogram	24	hour	003017190028.CEL
+5058	liver	Rattus norvegicus	erythromycin ethylsuccinate	High	1000	milligram per kilogram	24	hour	003017190029.CEL
+5059	liver	Rattus norvegicus	erythromycin ethylsuccinate	High	1000	milligram per kilogram	24	hour	003017190030.CEL
+5069	kidney	Rattus norvegicus	erythromycin ethylsuccinate	Control	0	milligram per kilogram	24	hour	003017840017.CEL
+5070	kidney	Rattus norvegicus	erythromycin ethylsuccinate	Control	0	milligram per kilogram	24	hour	003017840018.CEL
+5071	kidney	Rattus norvegicus	erythromycin ethylsuccinate	Control	0	milligram per kilogram	24	hour	003017840019.CEL
+5105	kidney	Rattus norvegicus	erythromycin ethylsuccinate	High	1000	milligram per kilogram	24	hour	003017840026.CEL
+5106	kidney	Rattus norvegicus	erythromycin ethylsuccinate	High	1000	milligram per kilogram	24	hour	003017840027.CEL
+5107	kidney	Rattus norvegicus	erythromycin ethylsuccinate	High	1000	milligram per kilogram	24	hour	003017840028.CEL
+5112	hepatocyte	Rattus norvegicus	erythromycin ethylsuccinate	Control	0	micromolar	24	hour	003017259013.CEL
+5113	hepatocyte	Rattus norvegicus	erythromycin ethylsuccinate	Control	0	micromolar	24	hour	003017259014.CEL
+5130	hepatocyte	Rattus norvegicus	erythromycin ethylsuccinate	High	75	micromolar	24	hour	003017259019.CEL
+5131	hepatocyte	Rattus norvegicus	erythromycin ethylsuccinate	High	75	micromolar	24	hour	003017259020.CEL
+5134	hepatocyte	Homo sapiens	ethambutol	Control	0	micromolar	24	hour	003016069014.CEL
+5135	hepatocyte	Homo sapiens	ethambutol	Control	0	micromolar	24	hour	003016069015.CEL
+5142	hepatocyte	Homo sapiens	ethambutol	High	4000	micromolar	24	hour	003016069018.CEL
+5143	hepatocyte	Homo sapiens	ethambutol	High	4000	micromolar	24	hour	003016069019.CEL
+5153	liver	Rattus norvegicus	ethambutol	Control	0	milligram per kilogram	24	hour	003017201014.CEL
+5154	liver	Rattus norvegicus	ethambutol	Control	0	milligram per kilogram	24	hour	003017201015.CEL
+5155	liver	Rattus norvegicus	ethambutol	Control	0	milligram per kilogram	24	hour	003017201016.CEL
+5189	liver	Rattus norvegicus	ethambutol	High	1000	milligram per kilogram	24	hour	003017201023.CEL
+5190	liver	Rattus norvegicus	ethambutol	High	1000	milligram per kilogram	24	hour	003017201024.CEL
+5191	liver	Rattus norvegicus	ethambutol	High	1000	milligram per kilogram	24	hour	003017201025.CEL
+5196	hepatocyte	Rattus norvegicus	ethambutol	Control	0	micromolar	24	hour	003017257012.CEL
+5197	hepatocyte	Rattus norvegicus	ethambutol	Control	0	micromolar	24	hour	003017257013.CEL
+5214	hepatocyte	Rattus norvegicus	ethambutol	High	4000	micromolar	24	hour	003017257018.CEL
+5215	hepatocyte	Rattus norvegicus	ethambutol	High	4000	micromolar	24	hour	003017257019.CEL
+5218	hepatocyte	Homo sapiens	ethanol	Control	0	micromolar	24	hour	003016081015.CEL
+5219	hepatocyte	Homo sapiens	ethanol	Control	0	micromolar	24	hour	003016081016.CEL
+5226	hepatocyte	Homo sapiens	ethanol	High	10000	micromolar	24	hour	003016081019.CEL
+5227	hepatocyte	Homo sapiens	ethanol	High	10000	micromolar	24	hour	003016081020.CEL
+5237	liver	Rattus norvegicus	ethanol	Control	0	milligram per kilogram	24	hour	003017545013.CEL
+5238	liver	Rattus norvegicus	ethanol	Control	0	milligram per kilogram	24	hour	003017545014.CEL
+5239	liver	Rattus norvegicus	ethanol	Control	0	milligram per kilogram	24	hour	003017545015.CEL
+5273	liver	Rattus norvegicus	ethanol	High	4000	milligram per kilogram	24	hour	003017545022.CEL
+5274	liver	Rattus norvegicus	ethanol	High	4000	milligram per kilogram	24	hour	003017545023.CEL
+5275	liver	Rattus norvegicus	ethanol	High	4000	milligram per kilogram	24	hour	003017545024.CEL
+5280	hepatocyte	Rattus norvegicus	ethanol	Control	0	micromolar	24	hour	003017549017.CEL
+5281	hepatocyte	Rattus norvegicus	ethanol	Control	0	micromolar	24	hour	003017549018.CEL
+5298	hepatocyte	Rattus norvegicus	ethanol	High	10000	micromolar	24	hour	003017549023.CEL
+5299	hepatocyte	Rattus norvegicus	ethanol	High	10000	micromolar	24	hour	003017549024.CEL
+5302	hepatocyte	Homo sapiens	ethinylestradiol	Control	0	micromolar	24	hour	003016061002.CEL
+5303	hepatocyte	Homo sapiens	ethinylestradiol	Control	0	micromolar	24	hour	003016061003.CEL
+5310	hepatocyte	Homo sapiens	ethinylestradiol	High	15	micromolar	24	hour	003016061006.CEL
+5311	hepatocyte	Homo sapiens	ethinylestradiol	High	15	micromolar	24	hour	003016061007.CEL
+5321	liver	Rattus norvegicus	ethinylestradiol	Control	0	milligram per kilogram	24	hour	003017064013.CEL
+5322	liver	Rattus norvegicus	ethinylestradiol	Control	0	milligram per kilogram	24	hour	003017064014.CEL
+5323	liver	Rattus norvegicus	ethinylestradiol	Control	0	milligram per kilogram	24	hour	003017064015.CEL
+5357	liver	Rattus norvegicus	ethinylestradiol	High	10	milligram per kilogram	24	hour	003017064022.CEL
+5358	liver	Rattus norvegicus	ethinylestradiol	High	10	milligram per kilogram	24	hour	003017064023.CEL
+5359	liver	Rattus norvegicus	ethinylestradiol	High	10	milligram per kilogram	24	hour	003017064024.CEL
+5369	kidney	Rattus norvegicus	ethinylestradiol	Control	0	milligram per kilogram	24	hour	003017446005.CEL
+5370	kidney	Rattus norvegicus	ethinylestradiol	Control	0	milligram per kilogram	24	hour	003017446006.CEL
+5371	kidney	Rattus norvegicus	ethinylestradiol	Control	0	milligram per kilogram	24	hour	003017446007.CEL
+5405	kidney	Rattus norvegicus	ethinylestradiol	High	10	milligram per kilogram	24	hour	003017446014.CEL
+5406	kidney	Rattus norvegicus	ethinylestradiol	High	10	milligram per kilogram	24	hour	003017446015.CEL
+5407	kidney	Rattus norvegicus	ethinylestradiol	High	10	milligram per kilogram	24	hour	003017446016.CEL
+5412	hepatocyte	Rattus norvegicus	ethinylestradiol	Control	0	micromolar	24	hour	003017145017.CEL
+5413	hepatocyte	Rattus norvegicus	ethinylestradiol	Control	0	micromolar	24	hour	003017145018.CEL
+5430	hepatocyte	Rattus norvegicus	ethinylestradiol	High	15	micromolar	24	hour	003017145023.CEL
+5431	hepatocyte	Rattus norvegicus	ethinylestradiol	High	15	micromolar	24	hour	003017145024.CEL
+5434	hepatocyte	Homo sapiens	ethionamide	Control	0	micromolar	24	hour	003016080021.CEL
+5435	hepatocyte	Homo sapiens	ethionamide	Control	0	micromolar	24	hour	003016080022.CEL
+5442	hepatocyte	Homo sapiens	ethionamide	High	600	micromolar	24	hour	003016080025.CEL
+5443	hepatocyte	Homo sapiens	ethionamide	High	600	micromolar	24	hour	003016080026.CEL
+5453	liver	Rattus norvegicus	ethionamide	Control	0	milligram per kilogram	24	hour	003017542006.CEL
+5454	liver	Rattus norvegicus	ethionamide	Control	0	milligram per kilogram	24	hour	003017542007.CEL
+5455	liver	Rattus norvegicus	ethionamide	Control	0	milligram per kilogram	24	hour	003017542008.CEL
+5489	liver	Rattus norvegicus	ethionamide	High	1000	milligram per kilogram	24	hour	003017542015.CEL
+5490	liver	Rattus norvegicus	ethionamide	High	1000	milligram per kilogram	24	hour	003017542016.CEL
+5491	liver	Rattus norvegicus	ethionamide	High	1000	milligram per kilogram	24	hour	003017542017.CEL
+5496	hepatocyte	Rattus norvegicus	ethionamide	Control	0	micromolar	24	hour	003017389027.CEL
+5497	hepatocyte	Rattus norvegicus	ethionamide	Control	0	micromolar	24	hour	003017389028.CEL
+5514	hepatocyte	Rattus norvegicus	ethionamide	High	600	micromolar	24	hour	003017390003.CEL
+5515	hepatocyte	Rattus norvegicus	ethionamide	High	600	micromolar	24	hour	003017390004.CEL
+5520	hepatocyte	Homo sapiens	ethionine	Control	0	micromolar	24	hour	003016020024.CEL
+5521	hepatocyte	Homo sapiens	ethionine	Control	0	micromolar	24	hour	003016020025.CEL
+5538	hepatocyte	Homo sapiens	ethionine	High	10000	micromolar	24	hour	003016020030.CEL
+5539	hepatocyte	Homo sapiens	ethionine	High	10000	micromolar	24	hour	003016030010.CEL
+5549	liver	Rattus norvegicus	ethionine	Control	0	milligram per kilogram	24	hour	003017671017.CEL
+5550	liver	Rattus norvegicus	ethionine	Control	0	milligram per kilogram	24	hour	003017671018.CEL
+5551	liver	Rattus norvegicus	ethionine	Control	0	milligram per kilogram	24	hour	003017671019.CEL
+5585	liver	Rattus norvegicus	ethionine	High	250	milligram per kilogram	24	hour	003017671026.CEL
+5586	liver	Rattus norvegicus	ethionine	High	250	milligram per kilogram	24	hour	003017671027.CEL
+5587	liver	Rattus norvegicus	ethionine	High	250	milligram per kilogram	24	hour	003017671028.CEL
+5597	kidney	Rattus norvegicus	ethionine	Control	0	milligram per kilogram	24	hour	003017484012.CEL
+5598	kidney	Rattus norvegicus	ethionine	Control	0	milligram per kilogram	24	hour	003017484013.CEL
+5599	kidney	Rattus norvegicus	ethionine	Control	0	milligram per kilogram	24	hour	003017484014.CEL
+5633	kidney	Rattus norvegicus	ethionine	High	250	milligram per kilogram	24	hour	003017484021.CEL
+5634	kidney	Rattus norvegicus	ethionine	High	250	milligram per kilogram	24	hour	003017484022.CEL
+5635	kidney	Rattus norvegicus	ethionine	High	250	milligram per kilogram	24	hour	003017484023.CEL
+5640	hepatocyte	Rattus norvegicus	ethionine	Control	0	micromolar	24	hour	003017027026.CEL
+5641	hepatocyte	Rattus norvegicus	ethionine	Control	0	micromolar	24	hour	003017027027.CEL
+5658	hepatocyte	Rattus norvegicus	ethionine	High	10000	micromolar	24	hour	003017028002.CEL
+5659	hepatocyte	Rattus norvegicus	ethionine	High	10000	micromolar	24	hour	003017028003.CEL
+5662	hepatocyte	Homo sapiens	etoposide	Control	0	micromolar	24	hour	003016087003.CEL
+5663	hepatocyte	Homo sapiens	etoposide	Control	0	micromolar	24	hour	003016087004.CEL
+5670	hepatocyte	Homo sapiens	etoposide	High	330	micromolar	24	hour	003016087007.CEL
+5671	hepatocyte	Homo sapiens	etoposide	High	330	micromolar	24	hour	003016087008.CEL
+5681	liver	Rattus norvegicus	etoposide	Control	0	milligram per kilogram	24	hour	003017530014.CEL
+5682	liver	Rattus norvegicus	etoposide	Control	0	milligram per kilogram	24	hour	003017530015.CEL
+5683	liver	Rattus norvegicus	etoposide	Control	0	milligram per kilogram	24	hour	003017530016.CEL
+5717	liver	Rattus norvegicus	etoposide	High	1000	milligram per kilogram	24	hour	003017530025.CEL
+5718	liver	Rattus norvegicus	etoposide	High	1000	milligram per kilogram	24	hour	003017558004.CEL
+5719	liver	Rattus norvegicus	etoposide	High	1000	milligram per kilogram	24	hour	003017558005.CEL
+5724	hepatocyte	Rattus norvegicus	etoposide	Control	0	micromolar	24	hour	003017367016.CEL
+5725	hepatocyte	Rattus norvegicus	etoposide	Control	0	micromolar	24	hour	003017367017.CEL
+5742	hepatocyte	Rattus norvegicus	etoposide	High	350	micromolar	24	hour	003017367022.CEL
+5743	hepatocyte	Rattus norvegicus	etoposide	High	350	micromolar	24	hour	003017367023.CEL
+5746	hepatocyte	Homo sapiens	famotidine	Control	0	micromolar	24	hour	003016070008.CEL
+5747	hepatocyte	Homo sapiens	famotidine	Control	0	micromolar	24	hour	003016070009.CEL
+5754	hepatocyte	Homo sapiens	famotidine	High	700	micromolar	24	hour	003016070012.CEL
+5755	hepatocyte	Homo sapiens	famotidine	High	700	micromolar	24	hour	003016070013.CEL
+5765	liver	Rattus norvegicus	famotidine	Control	0	milligram per kilogram	24	hour	003017188008.CEL
+5766	liver	Rattus norvegicus	famotidine	Control	0	milligram per kilogram	24	hour	003017188009.CEL
+5767	liver	Rattus norvegicus	famotidine	Control	0	milligram per kilogram	24	hour	003017188010.CEL
+5801	liver	Rattus norvegicus	famotidine	High	1000	milligram per kilogram	24	hour	003017188017.CEL
+5802	liver	Rattus norvegicus	famotidine	High	1000	milligram per kilogram	24	hour	003017188018.CEL
+5803	liver	Rattus norvegicus	famotidine	High	1000	milligram per kilogram	24	hour	003017188019.CEL
+5808	hepatocyte	Rattus norvegicus	famotidine	Control	0	micromolar	24	hour	003017254006.CEL
+5809	hepatocyte	Rattus norvegicus	famotidine	Control	0	micromolar	24	hour	003017254007.CEL
+5826	hepatocyte	Rattus norvegicus	famotidine	High	700	micromolar	24	hour	003017254012.CEL
+5827	hepatocyte	Rattus norvegicus	famotidine	High	700	micromolar	24	hour	003017254013.CEL
+5830	hepatocyte	Homo sapiens	fenofibrate	Control	0	micromolar	24	hour	003016067026.CEL
+5831	hepatocyte	Homo sapiens	fenofibrate	Control	0	micromolar	24	hour	003016067027.CEL
+5838	hepatocyte	Homo sapiens	fenofibrate	High	30	micromolar	24	hour	003016067030.CEL
+5839	hepatocyte	Homo sapiens	fenofibrate	High	30	micromolar	24	hour	003016068001.CEL
+5849	liver	Rattus norvegicus	fenofibrate	Control	0	milligram per kilogram	24	hour	003017413012.CEL
+5850	liver	Rattus norvegicus	fenofibrate	Control	0	milligram per kilogram	24	hour	003017413013.CEL
+5851	liver	Rattus norvegicus	fenofibrate	Control	0	milligram per kilogram	24	hour	003017413014.CEL
+5885	liver	Rattus norvegicus	fenofibrate	High	1000	milligram per kilogram	24	hour	003017413021.CEL
+5886	liver	Rattus norvegicus	fenofibrate	High	1000	milligram per kilogram	24	hour	003017413022.CEL
+5887	liver	Rattus norvegicus	fenofibrate	High	1000	milligram per kilogram	24	hour	003017413023.CEL
+5892	hepatocyte	Rattus norvegicus	fenofibrate	Control	0	micromolar	24	hour	003017250030.CEL
+5893	hepatocyte	Rattus norvegicus	fenofibrate	Control	0	micromolar	24	hour	003017251001.CEL
+5910	hepatocyte	Rattus norvegicus	fenofibrate	High	30	micromolar	24	hour	003017251006.CEL
+5911	hepatocyte	Rattus norvegicus	fenofibrate	High	30	micromolar	24	hour	003017251007.CEL
+5916	hepatocyte	Homo sapiens	fluphenazine	Control	0	micromolar	24	hour	003016023017.CEL
+5917	hepatocyte	Homo sapiens	fluphenazine	Control	0	micromolar	24	hour	003016023018.CEL
+5934	hepatocyte	Homo sapiens	fluphenazine	High	20	micromolar	24	hour	003016023023.CEL
+5935	hepatocyte	Homo sapiens	fluphenazine	High	20	micromolar	24	hour	003016023024.CEL
+5945	liver	Rattus norvegicus	fluphenazine	Control	0	milligram per kilogram	24	hour	003017038002.CEL
+5946	liver	Rattus norvegicus	fluphenazine	Control	0	milligram per kilogram	24	hour	003017038003.CEL
+5947	liver	Rattus norvegicus	fluphenazine	Control	0	milligram per kilogram	24	hour	003017038004.CEL
+5981	liver	Rattus norvegicus	fluphenazine	High	20	milligram per kilogram	24	hour	003017038011.CEL
+5982	liver	Rattus norvegicus	fluphenazine	High	20	milligram per kilogram	24	hour	003017038012.CEL
+5983	liver	Rattus norvegicus	fluphenazine	High	20	milligram per kilogram	24	hour	003017038013.CEL
+5988	hepatocyte	Rattus norvegicus	fluphenazine	Control	0	micromolar	24	hour	003017125017.CEL
+5989	hepatocyte	Rattus norvegicus	fluphenazine	Control	0	micromolar	24	hour	003017125018.CEL
+6006	hepatocyte	Rattus norvegicus	fluphenazine	High	30	micromolar	24	hour	003017125023.CEL
+6007	hepatocyte	Rattus norvegicus	fluphenazine	High	30	micromolar	24	hour	003017125024.CEL
+6012	hepatocyte	Homo sapiens	flutamide	Control	0	micromolar	24	hour	003016043007.CEL
+6013	hepatocyte	Homo sapiens	flutamide	Control	0	micromolar	24	hour	003016043008.CEL
+6030	hepatocyte	Homo sapiens	flutamide	High	50	micromolar	24	hour	003016043013.CEL
+6031	hepatocyte	Homo sapiens	flutamide	High	50	micromolar	24	hour	003016043014.CEL
+6041	liver	Rattus norvegicus	flutamide	Control	0	milligram per kilogram	24	hour	003017047013.CEL
+6042	liver	Rattus norvegicus	flutamide	Control	0	milligram per kilogram	24	hour	003017047014.CEL
+6043	liver	Rattus norvegicus	flutamide	Control	0	milligram per kilogram	24	hour	003017047015.CEL
+6077	liver	Rattus norvegicus	flutamide	High	150	milligram per kilogram	24	hour	003017047022.CEL
+6078	liver	Rattus norvegicus	flutamide	High	150	milligram per kilogram	24	hour	003017047023.CEL
+6079	liver	Rattus norvegicus	flutamide	High	150	milligram per kilogram	24	hour	003017047024.CEL
+6084	hepatocyte	Rattus norvegicus	flutamide	Control	0	micromolar	24	hour	003017141003.CEL
+6085	hepatocyte	Rattus norvegicus	flutamide	Control	0	micromolar	24	hour	003017141004.CEL
+6102	hepatocyte	Rattus norvegicus	flutamide	High	75	micromolar	24	hour	003017143003.CEL
+6103	hepatocyte	Rattus norvegicus	flutamide	High	75	micromolar	24	hour	003017143004.CEL
+6106	hepatocyte	Homo sapiens	furosemide	Control	0	micromolar	24	hour	003016067014.CEL
+6107	hepatocyte	Homo sapiens	furosemide	Control	0	micromolar	24	hour	003016067015.CEL
+6114	hepatocyte	Homo sapiens	furosemide	High	2500	micromolar	24	hour	003016067018.CEL
+6115	hepatocyte	Homo sapiens	furosemide	High	2500	micromolar	24	hour	003016067019.CEL
+6125	liver	Rattus norvegicus	furosemide	Control	0	milligram per kilogram	24	hour	003017193025.CEL
+6126	liver	Rattus norvegicus	furosemide	Control	0	milligram per kilogram	24	hour	003017193026.CEL
+6127	liver	Rattus norvegicus	furosemide	Control	0	milligram per kilogram	24	hour	003017193027.CEL
+6161	liver	Rattus norvegicus	furosemide	High	300	milligram per kilogram	24	hour	003017194004.CEL
+6162	liver	Rattus norvegicus	furosemide	High	300	milligram per kilogram	24	hour	003017194005.CEL
+6163	liver	Rattus norvegicus	furosemide	High	300	milligram per kilogram	24	hour	003017194006.CEL
+6168	hepatocyte	Rattus norvegicus	furosemide	Control	0	micromolar	24	hour	003017255024.CEL
+6169	hepatocyte	Rattus norvegicus	furosemide	Control	0	micromolar	24	hour	003017255025.CEL
+6186	hepatocyte	Rattus norvegicus	furosemide	High	2500	micromolar	24	hour	003017255030.CEL
+6187	hepatocyte	Rattus norvegicus	furosemide	High	2500	micromolar	24	hour	003017256001.CEL
+6192	hepatocyte	Homo sapiens	gemfibrozil	Control	0	micromolar	24	hour	003016025029.CEL
+6193	hepatocyte	Homo sapiens	gemfibrozil	Control	0	micromolar	24	hour	003016030011.CEL
+6210	hepatocyte	Homo sapiens	gemfibrozil	High	100	micromolar	24	hour	003016026004.CEL
+6211	hepatocyte	Homo sapiens	gemfibrozil	High	100	micromolar	24	hour	003016026005.CEL
+6221	liver	Rattus norvegicus	gemfibrozil	Control	0	milligram per kilogram	24	hour	003017695026.CEL
+6222	liver	Rattus norvegicus	gemfibrozil	Control	0	milligram per kilogram	24	hour	003017695027.CEL
+6223	liver	Rattus norvegicus	gemfibrozil	Control	0	milligram per kilogram	24	hour	003017695028.CEL
+6257	liver	Rattus norvegicus	gemfibrozil	High	300	milligram per kilogram	24	hour	003017696005.CEL
+6258	liver	Rattus norvegicus	gemfibrozil	High	300	milligram per kilogram	24	hour	003017696006.CEL
+6259	liver	Rattus norvegicus	gemfibrozil	High	300	milligram per kilogram	24	hour	003017696007.CEL
+6264	hepatocyte	Rattus norvegicus	gemfibrozil	Control	0	micromolar	24	hour	003017098013.CEL
+6265	hepatocyte	Rattus norvegicus	gemfibrozil	Control	0	micromolar	24	hour	003017098014.CEL
+6282	hepatocyte	Rattus norvegicus	gemfibrozil	High	100	micromolar	24	hour	003017098019.CEL
+6283	hepatocyte	Rattus norvegicus	gemfibrozil	High	100	micromolar	24	hour	003017098020.CEL
+6293	liver	Rattus norvegicus	gentamicin	Control	0	milligram per kilogram	24	hour	003017592025.CEL
+6294	liver	Rattus norvegicus	gentamicin	Control	0	milligram per kilogram	24	hour	003017592026.CEL
+6295	liver	Rattus norvegicus	gentamicin	Control	0	milligram per kilogram	24	hour	003017592027.CEL
+6329	liver	Rattus norvegicus	gentamicin	High	100	milligram per kilogram	24	hour	003017593004.CEL
+6330	liver	Rattus norvegicus	gentamicin	High	100	milligram per kilogram	24	hour	003017593005.CEL
+6331	liver	Rattus norvegicus	gentamicin	High	100	milligram per kilogram	24	hour	003017593006.CEL
+6341	kidney	Rattus norvegicus	gentamicin	Control	0	milligram per kilogram	24	hour	003017581020.CEL
+6342	kidney	Rattus norvegicus	gentamicin	Control	0	milligram per kilogram	24	hour	003017581021.CEL
+6343	kidney	Rattus norvegicus	gentamicin	Control	0	milligram per kilogram	24	hour	003017581022.CEL
+6377	kidney	Rattus norvegicus	gentamicin	High	100	milligram per kilogram	24	hour	003017581029.CEL
+6378	kidney	Rattus norvegicus	gentamicin	High	100	milligram per kilogram	24	hour	003017581030.CEL
+6379	kidney	Rattus norvegicus	gentamicin	High	100	milligram per kilogram	24	hour	003017582025.CEL
+6384	hepatocyte	Rattus norvegicus	gentamicin	Control	0	milligram per milliliter	24	hour	003017558023.CEL
+6385	hepatocyte	Rattus norvegicus	gentamicin	Control	0	milligram per milliliter	24	hour	003017558024.CEL
+6402	hepatocyte	Rattus norvegicus	gentamicin	High	30	milligram per milliliter	24	hour	003017558029.CEL
+6403	hepatocyte	Rattus norvegicus	gentamicin	High	30	milligram per milliliter	24	hour	003017558030.CEL
+6408	hepatocyte	Homo sapiens	glibenclamide	Control	0	micromolar	24	hour	003016044001.CEL
+6409	hepatocyte	Homo sapiens	glibenclamide	Control	0	micromolar	24	hour	003016044002.CEL
+6426	hepatocyte	Homo sapiens	glibenclamide	High	20	micromolar	24	hour	003016044007.CEL
+6427	hepatocyte	Homo sapiens	glibenclamide	High	20	micromolar	24	hour	003016044008.CEL
+6437	liver	Rattus norvegicus	glibenclamide	Control	0	milligram per kilogram	24	hour	003017693014.CEL
+6438	liver	Rattus norvegicus	glibenclamide	Control	0	milligram per kilogram	24	hour	003017693015.CEL
+6439	liver	Rattus norvegicus	glibenclamide	Control	0	milligram per kilogram	24	hour	003017693016.CEL
+6473	liver	Rattus norvegicus	glibenclamide	High	1000	milligram per kilogram	24	hour	003017693023.CEL
+6474	liver	Rattus norvegicus	glibenclamide	High	1000	milligram per kilogram	24	hour	003017693024.CEL
+6475	liver	Rattus norvegicus	glibenclamide	High	1000	milligram per kilogram	24	hour	003017693025.CEL
+6480	hepatocyte	Rattus norvegicus	glibenclamide	Control	0	micromolar	24	hour	003017126016.CEL
+6481	hepatocyte	Rattus norvegicus	glibenclamide	Control	0	micromolar	24	hour	003017126017.CEL
+6498	hepatocyte	Rattus norvegicus	glibenclamide	High	60	micromolar	24	hour	003017126022.CEL
+6499	hepatocyte	Rattus norvegicus	glibenclamide	High	60	micromolar	24	hour	003017126023.CEL
+6504	hepatocyte	Homo sapiens	griseofulvin	Control	0	micromolar	24	hour	003016032016.CEL
+6505	hepatocyte	Homo sapiens	griseofulvin	Control	0	micromolar	24	hour	003016032017.CEL
+6522	hepatocyte	Homo sapiens	griseofulvin	High	20	micromolar	24	hour	003016032022.CEL
+6523	hepatocyte	Homo sapiens	griseofulvin	High	20	micromolar	24	hour	003016032023.CEL
+6533	liver	Rattus norvegicus	griseofulvin	Control	0	milligram per kilogram	24	hour	003017039018.CEL
+6534	liver	Rattus norvegicus	griseofulvin	Control	0	milligram per kilogram	24	hour	003017039019.CEL
+6535	liver	Rattus norvegicus	griseofulvin	Control	0	milligram per kilogram	24	hour	003017039020.CEL
+6569	liver	Rattus norvegicus	griseofulvin	High	1000	milligram per kilogram	24	hour	003017039027.CEL
+6570	liver	Rattus norvegicus	griseofulvin	High	1000	milligram per kilogram	24	hour	003017039028.CEL
+6571	liver	Rattus norvegicus	griseofulvin	High	1000	milligram per kilogram	24	hour	003017039029.CEL
+6576	hepatocyte	Rattus norvegicus	griseofulvin	Control	0	micromolar	24	hour	003017101012.CEL
+6577	hepatocyte	Rattus norvegicus	griseofulvin	Control	0	micromolar	24	hour	003017101013.CEL
+6594	hepatocyte	Rattus norvegicus	griseofulvin	High	30	micromolar	24	hour	003017101018.CEL
+6595	hepatocyte	Rattus norvegicus	griseofulvin	High	30	micromolar	24	hour	003017101019.CEL
+6600	hepatocyte	Homo sapiens	haloperidol	Control	0	micromolar	24	hour	003016041013.CEL
+6601	hepatocyte	Homo sapiens	haloperidol	Control	0	micromolar	24	hour	003016041014.CEL
+6618	hepatocyte	Homo sapiens	haloperidol	High	20	micromolar	24	hour	003016041019.CEL
+6619	hepatocyte	Homo sapiens	haloperidol	High	20	micromolar	24	hour	003016041020.CEL
+6629	liver	Rattus norvegicus	haloperidol	Control	0	milligram per kilogram	24	hour	003017002006.CEL
+6630	liver	Rattus norvegicus	haloperidol	Control	0	milligram per kilogram	24	hour	003017002007.CEL
+6631	liver	Rattus norvegicus	haloperidol	Control	0	milligram per kilogram	24	hour	003017002008.CEL
+6665	liver	Rattus norvegicus	haloperidol	High	30	milligram per kilogram	24	hour	003017002015.CEL
+6666	liver	Rattus norvegicus	haloperidol	High	30	milligram per kilogram	24	hour	003017002016.CEL
+6667	liver	Rattus norvegicus	haloperidol	High	30	milligram per kilogram	24	hour	003017002017.CEL
+6672	hepatocyte	Rattus norvegicus	haloperidol	Control	0	micromolar	24	hour	003017137004.CEL
+6673	hepatocyte	Rattus norvegicus	haloperidol	Control	0	micromolar	24	hour	003017137005.CEL
+6690	hepatocyte	Rattus norvegicus	haloperidol	High	50	micromolar	24	hour	003017137010.CEL
+6691	hepatocyte	Rattus norvegicus	haloperidol	High	50	micromolar	24	hour	003017137011.CEL
+6696	hepatocyte	Homo sapiens	hexachlorobenzene	Control	0	micromolar	24	hour	003016027016.CEL
+6697	hepatocyte	Homo sapiens	hexachlorobenzene	Control	0	micromolar	24	hour	003016027017.CEL
+6714	hepatocyte	Homo sapiens	hexachlorobenzene	High	30	micromolar	24	hour	003016027022.CEL
+6715	hepatocyte	Homo sapiens	hexachlorobenzene	High	30	micromolar	24	hour	003016027023.CEL
+6725	liver	Rattus norvegicus	hexachlorobenzene	Control	0	milligram per kilogram	24	hour	003017638007.CEL
+6726	liver	Rattus norvegicus	hexachlorobenzene	Control	0	milligram per kilogram	24	hour	003017638008.CEL
+6727	liver	Rattus norvegicus	hexachlorobenzene	Control	0	milligram per kilogram	24	hour	003017638009.CEL
+6761	liver	Rattus norvegicus	hexachlorobenzene	High	2000	milligram per kilogram	24	hour	003017638016.CEL
+6762	liver	Rattus norvegicus	hexachlorobenzene	High	2000	milligram per kilogram	24	hour	003017638017.CEL
+6763	liver	Rattus norvegicus	hexachlorobenzene	High	2000	milligram per kilogram	24	hour	003017638018.CEL
+6773	kidney	Rattus norvegicus	hexachlorobenzene	Control	0	milligram per kilogram	24	hour	003017794017.CEL
+6774	kidney	Rattus norvegicus	hexachlorobenzene	Control	0	milligram per kilogram	24	hour	003017794018.CEL
+6775	kidney	Rattus norvegicus	hexachlorobenzene	Control	0	milligram per kilogram	24	hour	003017794019.CEL
+6809	kidney	Rattus norvegicus	hexachlorobenzene	High	2000	milligram per kilogram	24	hour	003017794026.CEL
+6810	kidney	Rattus norvegicus	hexachlorobenzene	High	2000	milligram per kilogram	24	hour	003017794027.CEL
+6811	kidney	Rattus norvegicus	hexachlorobenzene	High	2000	milligram per kilogram	24	hour	003017794028.CEL
+6816	hepatocyte	Rattus norvegicus	hexachlorobenzene	Control	0	micromolar	24	hour	003017061028.CEL
+6817	hepatocyte	Rattus norvegicus	hexachlorobenzene	Control	0	micromolar	24	hour	003017061029.CEL
+6834	hepatocyte	Rattus norvegicus	hexachlorobenzene	High	15	micromolar	24	hour	003017062004.CEL
+6835	hepatocyte	Rattus norvegicus	hexachlorobenzene	High	15	micromolar	24	hour	003017062005.CEL
+6838	hepatocyte	Homo sapiens	hydroxyzine	Control	0	micromolar	24	hour	003016066008.CEL
+6839	hepatocyte	Homo sapiens	hydroxyzine	Control	0	micromolar	24	hour	003016066009.CEL
+6846	hepatocyte	Homo sapiens	hydroxyzine	High	40	micromolar	24	hour	003016066012.CEL
+6847	hepatocyte	Homo sapiens	hydroxyzine	High	40	micromolar	24	hour	003016066013.CEL
+6857	liver	Rattus norvegicus	hydroxyzine	Control	0	milligram per kilogram	24	hour	003017182019.CEL
+6858	liver	Rattus norvegicus	hydroxyzine	Control	0	milligram per kilogram	24	hour	003017182020.CEL
+6859	liver	Rattus norvegicus	hydroxyzine	Control	0	milligram per kilogram	24	hour	003017182021.CEL
+6893	liver	Rattus norvegicus	hydroxyzine	High	100	milligram per kilogram	24	hour	003017182028.CEL
+6894	liver	Rattus norvegicus	hydroxyzine	High	100	milligram per kilogram	24	hour	003017182029.CEL
+6895	liver	Rattus norvegicus	hydroxyzine	High	100	milligram per kilogram	24	hour	003017182030.CEL
+6900	hepatocyte	Rattus norvegicus	hydroxyzine	Control	0	micromolar	24	hour	003017230017.CEL
+6901	hepatocyte	Rattus norvegicus	hydroxyzine	Control	0	micromolar	24	hour	003017230018.CEL
+6918	hepatocyte	Rattus norvegicus	hydroxyzine	High	150	micromolar	24	hour	003017230023.CEL
+6919	hepatocyte	Rattus norvegicus	hydroxyzine	High	150	micromolar	24	hour	003017230024.CEL
+6922	hepatocyte	Homo sapiens	ibuprofen	Control	0	micromolar	24	hour	003016066020.CEL
+6923	hepatocyte	Homo sapiens	ibuprofen	Control	0	micromolar	24	hour	003016066021.CEL
+6930	hepatocyte	Homo sapiens	ibuprofen	High	150	micromolar	24	hour	003016066024.CEL
+6931	hepatocyte	Homo sapiens	ibuprofen	High	150	micromolar	24	hour	003016066025.CEL
+6941	liver	Rattus norvegicus	ibuprofen	Control	0	milligram per kilogram	24	hour	003017120012.CEL
+6942	liver	Rattus norvegicus	ibuprofen	Control	0	milligram per kilogram	24	hour	003017120013.CEL
+6943	liver	Rattus norvegicus	ibuprofen	Control	0	milligram per kilogram	24	hour	003017120014.CEL
+6977	liver	Rattus norvegicus	ibuprofen	High	400	milligram per kilogram	24	hour	003017120021.CEL
+6978	liver	Rattus norvegicus	ibuprofen	High	400	milligram per kilogram	24	hour	003017120022.CEL
+6979	liver	Rattus norvegicus	ibuprofen	High	400	milligram per kilogram	24	hour	003017120023.CEL
+6984	hepatocyte	Rattus norvegicus	ibuprofen	Control	0	micromolar	24	hour	003017280012.CEL
+6985	hepatocyte	Rattus norvegicus	ibuprofen	Control	0	micromolar	24	hour	003017280013.CEL
+7002	hepatocyte	Rattus norvegicus	ibuprofen	High	1000	micromolar	24	hour	003017280018.CEL
+7003	hepatocyte	Rattus norvegicus	ibuprofen	High	1000	micromolar	24	hour	003017280019.CEL
+7006	hepatocyte	Homo sapiens	imipramine	Control	0	micromolar	24	hour	003016065014.CEL
+7007	hepatocyte	Homo sapiens	imipramine	Control	0	micromolar	24	hour	003016065015.CEL
+7014	hepatocyte	Homo sapiens	imipramine	High	15	micromolar	24	hour	003016065018.CEL
+7015	hepatocyte	Homo sapiens	imipramine	High	15	micromolar	24	hour	003016065019.CEL
+7025	liver	Rattus norvegicus	imipramine	Control	0	milligram per kilogram	24	hour	003017153014.CEL
+7026	liver	Rattus norvegicus	imipramine	Control	0	milligram per kilogram	24	hour	003017153015.CEL
+7027	liver	Rattus norvegicus	imipramine	Control	0	milligram per kilogram	24	hour	003017153016.CEL
+7061	liver	Rattus norvegicus	imipramine	High	100	milligram per kilogram	24	hour	003017153023.CEL
+7062	liver	Rattus norvegicus	imipramine	High	100	milligram per kilogram	24	hour	003017153024.CEL
+7063	liver	Rattus norvegicus	imipramine	High	100	milligram per kilogram	24	hour	003017153025.CEL
+7073	kidney	Rattus norvegicus	imipramine	Control	0	milligram per kilogram	24	hour	003017460004.CEL
+7074	kidney	Rattus norvegicus	imipramine	Control	0	milligram per kilogram	24	hour	003017460005.CEL
+7075	kidney	Rattus norvegicus	imipramine	Control	0	milligram per kilogram	24	hour	003017460006.CEL
+7109	kidney	Rattus norvegicus	imipramine	High	100	milligram per kilogram	24	hour	003017460013.CEL
+7110	kidney	Rattus norvegicus	imipramine	High	100	milligram per kilogram	24	hour	003017460014.CEL
+7111	kidney	Rattus norvegicus	imipramine	High	100	milligram per kilogram	24	hour	003017460015.CEL
+7116	hepatocyte	Rattus norvegicus	imipramine	Control	0	micromolar	24	hour	003017217009.CEL
+7117	hepatocyte	Rattus norvegicus	imipramine	Control	0	micromolar	24	hour	003017217010.CEL
+7134	hepatocyte	Rattus norvegicus	imipramine	High	100	micromolar	24	hour	003017217015.CEL
+7135	hepatocyte	Rattus norvegicus	imipramine	High	100	micromolar	24	hour	003017217016.CEL
+7140	hepatocyte	Homo sapiens	indomethacin	Control	0	micromolar	24	hour	003016014020.CEL
+7141	hepatocyte	Homo sapiens	indomethacin	Control	0	micromolar	24	hour	003016014021.CEL
+7158	hepatocyte	Homo sapiens	indomethacin	High	200	micromolar	24	hour	003016014026.CEL
+7159	hepatocyte	Homo sapiens	indomethacin	High	200	micromolar	24	hour	003016014027.CEL
+7169	liver	Rattus norvegicus	indomethacin	Control	0	milligram per kilogram	24	hour	003017639001.CEL
+7170	liver	Rattus norvegicus	indomethacin	Control	0	milligram per kilogram	24	hour	003017639002.CEL
+7171	liver	Rattus norvegicus	indomethacin	Control	0	milligram per kilogram	24	hour	003017639003.CEL
+7205	liver	Rattus norvegicus	indomethacin	High	50	milligram per kilogram	24	hour	003017639010.CEL
+7206	liver	Rattus norvegicus	indomethacin	High	50	milligram per kilogram	24	hour	003017639011.CEL
+7207	liver	Rattus norvegicus	indomethacin	High	50	milligram per kilogram	24	hour	003017639012.CEL
+7217	kidney	Rattus norvegicus	indomethacin	Control	0	milligram per kilogram	24	hour	003017283010.CEL
+7218	kidney	Rattus norvegicus	indomethacin	Control	0	milligram per kilogram	24	hour	003017283011.CEL
+7219	kidney	Rattus norvegicus	indomethacin	Control	0	milligram per kilogram	24	hour	003017283012.CEL
+7253	kidney	Rattus norvegicus	indomethacin	High	5	milligram per kilogram	24	hour	003017283019.CEL
+7254	kidney	Rattus norvegicus	indomethacin	High	5	milligram per kilogram	24	hour	003017283020.CEL
+7255	kidney	Rattus norvegicus	indomethacin	High	5	milligram per kilogram	24	hour	003017283021.CEL
+7260	hepatocyte	Rattus norvegicus	indomethacin	Control	0	micromolar	24	hour	003017031014.CEL
+7261	hepatocyte	Rattus norvegicus	indomethacin	Control	0	micromolar	24	hour	003017031015.CEL
+7278	hepatocyte	Rattus norvegicus	indomethacin	High	300	micromolar	24	hour	003017031020.CEL
+7279	hepatocyte	Rattus norvegicus	indomethacin	High	300	micromolar	24	hour	003017031021.CEL
+7282	hepatocyte	Homo sapiens	iproniazid	Control	0	micromolar	24	hour	003016064008.CEL
+7283	hepatocyte	Homo sapiens	iproniazid	Control	0	micromolar	24	hour	003016064009.CEL
+7290	hepatocyte	Homo sapiens	iproniazid	High	1200	micromolar	24	hour	003016064012.CEL
+7291	hepatocyte	Homo sapiens	iproniazid	High	1200	micromolar	24	hour	003016064013.CEL
+7301	liver	Rattus norvegicus	iproniazid	Control	0	milligram per kilogram	24	hour	003017119018.CEL
+7302	liver	Rattus norvegicus	iproniazid	Control	0	milligram per kilogram	24	hour	003017119019.CEL
+7303	liver	Rattus norvegicus	iproniazid	Control	0	milligram per kilogram	24	hour	003017119020.CEL
+7337	liver	Rattus norvegicus	iproniazid	High	60	milligram per kilogram	24	hour	003017119027.CEL
+7338	liver	Rattus norvegicus	iproniazid	High	60	milligram per kilogram	24	hour	003017119028.CEL
+7339	liver	Rattus norvegicus	iproniazid	High	60	milligram per kilogram	24	hour	003017119029.CEL
+7344	hepatocyte	Rattus norvegicus	iproniazid	Control	0	micromolar	24	hour	003017237017.CEL
+7345	hepatocyte	Rattus norvegicus	iproniazid	Control	0	micromolar	24	hour	003017237018.CEL
+7362	hepatocyte	Rattus norvegicus	iproniazid	High	2000	micromolar	24	hour	003017237023.CEL
+7363	hepatocyte	Rattus norvegicus	iproniazid	High	2000	micromolar	24	hour	003017237024.CEL
+7368	hepatocyte	Homo sapiens	isoniazid	Control	0	micromolar	24	hour	003016017008.CEL
+7369	hepatocyte	Homo sapiens	isoniazid	Control	0	micromolar	24	hour	003016017009.CEL
+7386	hepatocyte	Homo sapiens	isoniazid	High	10000	micromolar	24	hour	003016016029.CEL
+7387	hepatocyte	Homo sapiens	isoniazid	High	10000	micromolar	24	hour	003016016030.CEL
+7397	liver	Rattus norvegicus	isoniazid	Control	0	milligram per kilogram	24	hour	003017630030.CEL
+7398	liver	Rattus norvegicus	isoniazid	Control	0	milligram per kilogram	24	hour	003017631001.CEL
+7399	liver	Rattus norvegicus	isoniazid	Control	0	milligram per kilogram	24	hour	003017631002.CEL
+7433	liver	Rattus norvegicus	isoniazid	High	2000	milligram per kilogram	24	hour	003017631009.CEL
+7434	liver	Rattus norvegicus	isoniazid	High	2000	milligram per kilogram	24	hour	003017631010.CEL
+7435	liver	Rattus norvegicus	isoniazid	High	2000	milligram per kilogram	24	hour	003017631011.CEL
+7440	hepatocyte	Rattus norvegicus	isoniazid	Control	0	micromolar	24	hour	003017005018.CEL
+7441	hepatocyte	Rattus norvegicus	isoniazid	Control	0	micromolar	24	hour	003017005019.CEL
+7458	hepatocyte	Rattus norvegicus	isoniazid	High	10000	micromolar	24	hour	003017005024.CEL
+7459	hepatocyte	Rattus norvegicus	isoniazid	High	10000	micromolar	24	hour	003017005025.CEL
+7464	hepatocyte	Homo sapiens	ketoconazole	Control	0	micromolar	24	hour	003016051016.CEL
+7465	hepatocyte	Homo sapiens	ketoconazole	Control	0	micromolar	24	hour	003016051017.CEL
+7482	hepatocyte	Homo sapiens	ketoconazole	High	15	micromolar	24	hour	003016051022.CEL
+7483	hepatocyte	Homo sapiens	ketoconazole	High	15	micromolar	24	hour	003016051023.CEL
+7493	liver	Rattus norvegicus	ketoconazole	Control	0	milligram per kilogram	24	hour	003017012020.CEL
+7494	liver	Rattus norvegicus	ketoconazole	Control	0	milligram per kilogram	24	hour	003017012021.CEL
+7495	liver	Rattus norvegicus	ketoconazole	Control	0	milligram per kilogram	24	hour	003017012022.CEL
+7529	liver	Rattus norvegicus	ketoconazole	High	100	milligram per kilogram	24	hour	003017012029.CEL
+7530	liver	Rattus norvegicus	ketoconazole	High	100	milligram per kilogram	24	hour	003017012030.CEL
+7531	liver	Rattus norvegicus	ketoconazole	High	100	milligram per kilogram	24	hour	003017013002.CEL
+7541	kidney	Rattus norvegicus	ketoconazole	Control	0	milligram per kilogram	24	hour	003017831023.CEL
+7542	kidney	Rattus norvegicus	ketoconazole	Control	0	milligram per kilogram	24	hour	003017831024.CEL
+7543	kidney	Rattus norvegicus	ketoconazole	Control	0	milligram per kilogram	24	hour	003017831025.CEL
+7577	kidney	Rattus norvegicus	ketoconazole	High	100	milligram per kilogram	24	hour	003017832002.CEL
+7578	kidney	Rattus norvegicus	ketoconazole	High	100	milligram per kilogram	24	hour	003017832003.CEL
+7579	kidney	Rattus norvegicus	ketoconazole	High	100	milligram per kilogram	24	hour	003017832004.CEL
+7584	hepatocyte	Rattus norvegicus	ketoconazole	Control	0	micromolar	24	hour	003017127010.CEL
+7585	hepatocyte	Rattus norvegicus	ketoconazole	Control	0	micromolar	24	hour	003017127011.CEL
+7602	hepatocyte	Rattus norvegicus	ketoconazole	High	15	micromolar	24	hour	003017127016.CEL
+7603	hepatocyte	Rattus norvegicus	ketoconazole	High	15	micromolar	24	hour	003017127017.CEL
+7608	hepatocyte	Homo sapiens	labetalol	Control	0	micromolar	24	hour	003016026022.CEL
+7609	hepatocyte	Homo sapiens	labetalol	Control	0	micromolar	24	hour	003016026023.CEL
+7626	hepatocyte	Homo sapiens	labetalol	High	140	micromolar	24	hour	003016026028.CEL
+7627	hepatocyte	Homo sapiens	labetalol	High	140	micromolar	24	hour	003016026029.CEL
+7637	liver	Rattus norvegicus	labetalol	Control	0	milligram per kilogram	24	hour	003017004019.CEL
+7638	liver	Rattus norvegicus	labetalol	Control	0	milligram per kilogram	24	hour	003017004020.CEL
+7639	liver	Rattus norvegicus	labetalol	Control	0	milligram per kilogram	24	hour	003017004021.CEL
+7673	liver	Rattus norvegicus	labetalol	High	450	milligram per kilogram	24	hour	003017004028.CEL
+7674	liver	Rattus norvegicus	labetalol	High	450	milligram per kilogram	24	hour	003017004029.CEL
+7675	liver	Rattus norvegicus	labetalol	High	450	milligram per kilogram	24	hour	003017005001.CEL
+7680	hepatocyte	Rattus norvegicus	labetalol	Control	0	micromolar	24	hour	003017111017.CEL
+7681	hepatocyte	Rattus norvegicus	labetalol	Control	0	micromolar	24	hour	003017111018.CEL
+7698	hepatocyte	Rattus norvegicus	labetalol	High	140	micromolar	24	hour	003017111023.CEL
+7699	hepatocyte	Rattus norvegicus	labetalol	High	140	micromolar	24	hour	003017111024.CEL
+7704	hepatocyte	Homo sapiens	lomustine	Control	0	micromolar	24	hour	003016049028.CEL
+7705	hepatocyte	Homo sapiens	lomustine	Control	0	micromolar	24	hour	003016049029.CEL
+7722	hepatocyte	Homo sapiens	lomustine	High	120	micromolar	24	hour	003016050004.CEL
+7723	hepatocyte	Homo sapiens	lomustine	High	120	micromolar	24	hour	003016050005.CEL
+7733	liver	Rattus norvegicus	lomustine	Control	0	milligram per kilogram	24	hour	003017075002.CEL
+7734	liver	Rattus norvegicus	lomustine	Control	0	milligram per kilogram	24	hour	003017096005.CEL
+7735	liver	Rattus norvegicus	lomustine	Control	0	milligram per kilogram	24	hour	003017096006.CEL
+7769	liver	Rattus norvegicus	lomustine	High	6	milligram per kilogram	24	hour	003017075012.CEL
+7770	liver	Rattus norvegicus	lomustine	High	6	milligram per kilogram	24	hour	003017096011.CEL
+7771	liver	Rattus norvegicus	lomustine	High	6	milligram per kilogram	24	hour	003017096012.CEL
+7781	kidney	Rattus norvegicus	lomustine	Control	0	milligram per kilogram	24	hour	003017449011.CEL
+7782	kidney	Rattus norvegicus	lomustine	Control	0	milligram per kilogram	24	hour	003017449012.CEL
+7783	kidney	Rattus norvegicus	lomustine	Control	0	milligram per kilogram	24	hour	003017449013.CEL
+7817	kidney	Rattus norvegicus	lomustine	High	6	milligram per kilogram	24	hour	003017449020.CEL
+7818	kidney	Rattus norvegicus	lomustine	High	6	milligram per kilogram	24	hour	003017449021.CEL
+7819	kidney	Rattus norvegicus	lomustine	High	6	milligram per kilogram	24	hour	003017449022.CEL
+7824	hepatocyte	Rattus norvegicus	lomustine	Control	0	micromolar	24	hour	003017170025.CEL
+7825	hepatocyte	Rattus norvegicus	lomustine	Control	0	micromolar	24	hour	003017170026.CEL
+7842	hepatocyte	Rattus norvegicus	lomustine	High	120	micromolar	24	hour	003017171001.CEL
+7843	hepatocyte	Rattus norvegicus	lomustine	High	120	micromolar	24	hour	003017171002.CEL
+7846	hepatocyte	Homo sapiens	lornoxicam	Control	0	micromolar	24	hour	003016086009.CEL
+7847	hepatocyte	Homo sapiens	lornoxicam	Control	0	micromolar	24	hour	003016086010.CEL
+7854	hepatocyte	Homo sapiens	lornoxicam	High	15	micromolar	24	hour	003016086013.CEL
+7855	hepatocyte	Homo sapiens	lornoxicam	High	15	micromolar	24	hour	003016086014.CEL
+7865	liver	Rattus norvegicus	lornoxicam	Control	0	milligram per kilogram	24	hour	003017498007.CEL
+7866	liver	Rattus norvegicus	lornoxicam	Control	0	milligram per kilogram	24	hour	003017498008.CEL
+7867	liver	Rattus norvegicus	lornoxicam	Control	0	milligram per kilogram	24	hour	003017498009.CEL
+7901	liver	Rattus norvegicus	lornoxicam	High	10	milligram per kilogram	24	hour	003017498016.CEL
+7902	liver	Rattus norvegicus	lornoxicam	High	10	milligram per kilogram	24	hour	003017498017.CEL
+7903	liver	Rattus norvegicus	lornoxicam	High	10	milligram per kilogram	24	hour	003017498018.CEL
+7908	hepatocyte	Rattus norvegicus	lornoxicam	Control	0	micromolar	24	hour	003017353003.CEL
+7909	hepatocyte	Rattus norvegicus	lornoxicam	Control	0	micromolar	24	hour	003017353004.CEL
+7926	hepatocyte	Rattus norvegicus	lornoxicam	High	15	micromolar	24	hour	003017353009.CEL
+7927	hepatocyte	Rattus norvegicus	lornoxicam	High	15	micromolar	24	hour	003017353010.CEL
+7930	hepatocyte	Homo sapiens	mefenamic acid	Control	0	micromolar	24	hour	003016069026.CEL
+7931	hepatocyte	Homo sapiens	mefenamic acid	Control	0	micromolar	24	hour	003016069027.CEL
+7938	hepatocyte	Homo sapiens	mefenamic acid	High	150	micromolar	24	hour	003016069030.CEL
+7939	hepatocyte	Homo sapiens	mefenamic acid	High	150	micromolar	24	hour	003016070001.CEL
+7949	liver	Rattus norvegicus	mefenamic acid	Control	0	milligram per kilogram	24	hour	003017175014.CEL
+7950	liver	Rattus norvegicus	mefenamic acid	Control	0	milligram per kilogram	24	hour	003017175015.CEL
+7951	liver	Rattus norvegicus	mefenamic acid	Control	0	milligram per kilogram	24	hour	003017175016.CEL
+7985	liver	Rattus norvegicus	mefenamic acid	High	300	milligram per kilogram	24	hour	003017175023.CEL
+7986	liver	Rattus norvegicus	mefenamic acid	High	300	milligram per kilogram	24	hour	003017175024.CEL
+7987	liver	Rattus norvegicus	mefenamic acid	High	300	milligram per kilogram	24	hour	003017175025.CEL
+7992	hepatocyte	Rattus norvegicus	mefenamic acid	Control	0	micromolar	24	hour	003017256018.CEL
+7993	hepatocyte	Rattus norvegicus	mefenamic acid	Control	0	micromolar	24	hour	003017256019.CEL
+8010	hepatocyte	Rattus norvegicus	mefenamic acid	High	150	micromolar	24	hour	003017256023.CEL
+8011	hepatocyte	Rattus norvegicus	mefenamic acid	High	150	micromolar	24	hour	003017256024.CEL
+8014	hepatocyte	Homo sapiens	meloxicam	Control	0	micromolar	24	hour	003016079010.CEL
+8015	hepatocyte	Homo sapiens	meloxicam	Control	0	micromolar	24	hour	003016079011.CEL
+8022	hepatocyte	Homo sapiens	meloxicam	High	50	micromolar	24	hour	003016079014.CEL
+8023	hepatocyte	Homo sapiens	meloxicam	High	50	micromolar	24	hour	003016079015.CEL
+8033	liver	Rattus norvegicus	meloxicam	Control	0	milligram per kilogram	24	hour	003017407002.CEL
+8034	liver	Rattus norvegicus	meloxicam	Control	0	milligram per kilogram	24	hour	003017423030.CEL
+8035	liver	Rattus norvegicus	meloxicam	Control	0	milligram per kilogram	24	hour	003017424001.CEL
+8069	liver	Rattus norvegicus	meloxicam	High	100	milligram per kilogram	24	hour	003017424006.CEL
+8070	liver	Rattus norvegicus	meloxicam	High	100	milligram per kilogram	24	hour	003017424007.CEL
+8071	liver	Rattus norvegicus	meloxicam	High	100	milligram per kilogram	24	hour	003017424008.CEL
+8076	hepatocyte	Rattus norvegicus	meloxicam	Control	0	micromolar	24	hour	003017357027.CEL
+8077	hepatocyte	Rattus norvegicus	meloxicam	Control	0	micromolar	24	hour	003017357028.CEL
+8094	hepatocyte	Rattus norvegicus	meloxicam	High	50	micromolar	24	hour	003017358003.CEL
+8095	hepatocyte	Rattus norvegicus	meloxicam	High	50	micromolar	24	hour	003017358004.CEL
+8098	hepatocyte	Homo sapiens	metformin	Control	0	micromolar	24	hour	003016060007.CEL
+8099	hepatocyte	Homo sapiens	metformin	Control	0	micromolar	24	hour	003016060008.CEL
+8106	hepatocyte	Homo sapiens	metformin	High	1000	micromolar	24	hour	003016060011.CEL
+8107	hepatocyte	Homo sapiens	metformin	High	1000	micromolar	24	hour	003016060012.CEL
+8117	liver	Rattus norvegicus	metformin	Control	0	milligram per kilogram	24	hour	003017044005.CEL
+8118	liver	Rattus norvegicus	metformin	Control	0	milligram per kilogram	24	hour	003017044006.CEL
+8119	liver	Rattus norvegicus	metformin	Control	0	milligram per kilogram	24	hour	003017197025.CEL
+8153	liver	Rattus norvegicus	metformin	High	1000	milligram per kilogram	24	hour	003017044013.CEL
+8154	liver	Rattus norvegicus	metformin	High	1000	milligram per kilogram	24	hour	003017044014.CEL
+8155	liver	Rattus norvegicus	metformin	High	1000	milligram per kilogram	24	hour	003017044015.CEL
+8160	hepatocyte	Rattus norvegicus	metformin	Control	0	micromolar	24	hour	003017133010.CEL
+8161	hepatocyte	Rattus norvegicus	metformin	Control	0	micromolar	24	hour	003017133011.CEL
+8178	hepatocyte	Rattus norvegicus	metformin	High	1000	micromolar	24	hour	003017133016.CEL
+8179	hepatocyte	Rattus norvegicus	metformin	High	1000	micromolar	24	hour	003017133017.CEL
+8184	hepatocyte	Homo sapiens	methapyrilene	Control	0	micromolar	24	hour	003016020008.CEL
+8185	hepatocyte	Homo sapiens	methapyrilene	Control	0	micromolar	24	hour	003016020009.CEL
+8202	hepatocyte	Homo sapiens	methapyrilene	High	600	micromolar	24	hour	003016020014.CEL
+8203	hepatocyte	Homo sapiens	methapyrilene	High	600	micromolar	24	hour	003016020015.CEL
+8213	liver	Rattus norvegicus	methapyrilene	Control	0	milligram per kilogram	24	hour	003017647012.CEL
+8214	liver	Rattus norvegicus	methapyrilene	Control	0	milligram per kilogram	24	hour	003017647013.CEL
+8215	liver	Rattus norvegicus	methapyrilene	Control	0	milligram per kilogram	24	hour	003017647014.CEL
+8249	liver	Rattus norvegicus	methapyrilene	High	100	milligram per kilogram	24	hour	003017647021.CEL
+8250	liver	Rattus norvegicus	methapyrilene	High	100	milligram per kilogram	24	hour	003017647022.CEL
+8251	liver	Rattus norvegicus	methapyrilene	High	100	milligram per kilogram	24	hour	003017647023.CEL
+8256	hepatocyte	Rattus norvegicus	methapyrilene	Control	0	micromolar	24	hour	003017066023.CEL
+8257	hepatocyte	Rattus norvegicus	methapyrilene	Control	0	micromolar	24	hour	003017066024.CEL
+8274	hepatocyte	Rattus norvegicus	methapyrilene	High	15	micromolar	24	hour	003017066029.CEL
+8275	hepatocyte	Rattus norvegicus	methapyrilene	High	15	micromolar	24	hour	003017066030.CEL
+8278	hepatocyte	Homo sapiens	methimazole	Control	0	micromolar	24	hour	003016061026.CEL
+8279	hepatocyte	Homo sapiens	methimazole	Control	0	micromolar	24	hour	003016061027.CEL
+8286	hepatocyte	Homo sapiens	methimazole	High	10000	micromolar	24	hour	003016061030.CEL
+8287	hepatocyte	Homo sapiens	methimazole	High	10000	micromolar	24	hour	003016062001.CEL
+8297	liver	Rattus norvegicus	methimazole	Control	0	milligram per kilogram	24	hour	003017043013.CEL
+8298	liver	Rattus norvegicus	methimazole	Control	0	milligram per kilogram	24	hour	003017043014.CEL
+8299	liver	Rattus norvegicus	methimazole	Control	0	milligram per kilogram	24	hour	003017043015.CEL
+8333	liver	Rattus norvegicus	methimazole	High	100	milligram per kilogram	24	hour	003017043022.CEL
+8334	liver	Rattus norvegicus	methimazole	High	100	milligram per kilogram	24	hour	003017043023.CEL
+8335	liver	Rattus norvegicus	methimazole	High	100	milligram per kilogram	24	hour	003017043024.CEL
+8340	hepatocyte	Rattus norvegicus	methimazole	Control	0	micromolar	24	hour	003017171019.CEL
+8341	hepatocyte	Rattus norvegicus	methimazole	Control	0	micromolar	24	hour	003017171020.CEL
+8358	hepatocyte	Rattus norvegicus	methimazole	High	10000	micromolar	24	hour	003017171025.CEL
+8359	hepatocyte	Rattus norvegicus	methimazole	High	10000	micromolar	24	hour	003017171026.CEL
+8362	hepatocyte	Homo sapiens	methyldopa	Control	0	micromolar	24	hour	003016061014.CEL
+8363	hepatocyte	Homo sapiens	methyldopa	Control	0	micromolar	24	hour	003016061015.CEL
+8370	hepatocyte	Homo sapiens	methyldopa	High	50	micromolar	24	hour	003016061018.CEL
+8371	hepatocyte	Homo sapiens	methyldopa	High	50	micromolar	24	hour	003016061019.CEL
+8381	liver	Rattus norvegicus	methyldopa	Control	0	milligram per kilogram	24	hour	003017079011.CEL
+8382	liver	Rattus norvegicus	methyldopa	Control	0	milligram per kilogram	24	hour	003017079012.CEL
+8383	liver	Rattus norvegicus	methyldopa	Control	0	milligram per kilogram	24	hour	003017079013.CEL
+8417	liver	Rattus norvegicus	methyldopa	High	600	milligram per kilogram	24	hour	003017080003.CEL
+8418	liver	Rattus norvegicus	methyldopa	High	600	milligram per kilogram	24	hour	003017080004.CEL
+8419	liver	Rattus norvegicus	methyldopa	High	600	milligram per kilogram	24	hour	003017096030.CEL
+8424	hepatocyte	Rattus norvegicus	methyldopa	Control	0	micromolar	24	hour	003017160016.CEL
+8425	hepatocyte	Rattus norvegicus	methyldopa	Control	0	micromolar	24	hour	003017160017.CEL
+8442	hepatocyte	Rattus norvegicus	methyldopa	High	50	micromolar	24	hour	003017160022.CEL
+8443	hepatocyte	Rattus norvegicus	methyldopa	High	50	micromolar	24	hour	003017160023.CEL
+8448	hepatocyte	Homo sapiens	methyltestosterone	Control	0	micromolar	24	hour	003016049004.CEL
+8449	hepatocyte	Homo sapiens	methyltestosterone	Control	0	micromolar	24	hour	003016049005.CEL
+8466	hepatocyte	Homo sapiens	methyltestosterone	High	20	micromolar	24	hour	003016049010.CEL
+8467	hepatocyte	Homo sapiens	methyltestosterone	High	20	micromolar	24	hour	003016049011.CEL
+8477	liver	Rattus norvegicus	methyltestosterone	Control	0	milligram per kilogram	24	hour	003017025021.CEL
+8478	liver	Rattus norvegicus	methyltestosterone	Control	0	milligram per kilogram	24	hour	003017025022.CEL
+8479	liver	Rattus norvegicus	methyltestosterone	Control	0	milligram per kilogram	24	hour	003017025023.CEL
+8513	liver	Rattus norvegicus	methyltestosterone	High	300	milligram per kilogram	24	hour	003017025030.CEL
+8514	liver	Rattus norvegicus	methyltestosterone	High	300	milligram per kilogram	24	hour	003017026001.CEL
+8515	liver	Rattus norvegicus	methyltestosterone	High	300	milligram per kilogram	24	hour	003017026002.CEL
+8525	kidney	Rattus norvegicus	methyltestosterone	Control	0	milligram per kilogram	24	hour	003017179013.CEL
+8526	kidney	Rattus norvegicus	methyltestosterone	Control	0	milligram per kilogram	24	hour	003017179014.CEL
+8527	kidney	Rattus norvegicus	methyltestosterone	Control	0	milligram per kilogram	24	hour	003017179015.CEL
+8561	kidney	Rattus norvegicus	methyltestosterone	High	300	milligram per kilogram	24	hour	003017178028.CEL
+8562	kidney	Rattus norvegicus	methyltestosterone	High	300	milligram per kilogram	24	hour	003017178029.CEL
+8563	kidney	Rattus norvegicus	methyltestosterone	High	300	milligram per kilogram	24	hour	003017178030.CEL
+8568	hepatocyte	Rattus norvegicus	methyltestosterone	Control	0	micromolar	24	hour	003017099007.CEL
+8569	hepatocyte	Rattus norvegicus	methyltestosterone	Control	0	micromolar	24	hour	003017099008.CEL
+8586	hepatocyte	Rattus norvegicus	methyltestosterone	High	40	micromolar	24	hour	003017099013.CEL
+8587	hepatocyte	Rattus norvegicus	methyltestosterone	High	40	micromolar	24	hour	003017099014.CEL
+8590	hepatocyte	Homo sapiens	mexiletine	Control	0	micromolar	24	hour	003016074024.CEL
+8591	hepatocyte	Homo sapiens	mexiletine	Control	0	micromolar	24	hour	003016074025.CEL
+8598	hepatocyte	Homo sapiens	mexiletine	High	300	micromolar	24	hour	003016074028.CEL
+8599	hepatocyte	Homo sapiens	mexiletine	High	300	micromolar	24	hour	003016074029.CEL
+8609	liver	Rattus norvegicus	mexiletine	Control	0	milligram per kilogram	24	hour	003017257020.CEL
+8610	liver	Rattus norvegicus	mexiletine	Control	0	milligram per kilogram	24	hour	003017257021.CEL
+8611	liver	Rattus norvegicus	mexiletine	Control	0	milligram per kilogram	24	hour	003017257022.CEL
+8645	liver	Rattus norvegicus	mexiletine	High	400	milligram per kilogram	24	hour	003017257029.CEL
+8646	liver	Rattus norvegicus	mexiletine	High	400	milligram per kilogram	24	hour	003017257030.CEL
+8647	liver	Rattus norvegicus	mexiletine	High	400	milligram per kilogram	24	hour	003017258001.CEL
+8652	hepatocyte	Rattus norvegicus	mexiletine	Control	0	micromolar	24	hour	003017259023.CEL
+8653	hepatocyte	Rattus norvegicus	mexiletine	Control	0	micromolar	24	hour	003017284019.CEL
+8670	hepatocyte	Rattus norvegicus	mexiletine	High	15	micromolar	24	hour	003017259029.CEL
+8671	hepatocyte	Rattus norvegicus	mexiletine	High	15	micromolar	24	hour	003017259030.CEL
+8674	hepatocyte	Homo sapiens	monocrotaline	Control	0	micromolar	24	hour	003016062008.CEL
+8675	hepatocyte	Homo sapiens	monocrotaline	Control	0	micromolar	24	hour	003016062009.CEL
+8682	hepatocyte	Homo sapiens	monocrotaline	High	90	micromolar	24	hour	003016062012.CEL
+8683	hepatocyte	Homo sapiens	monocrotaline	High	90	micromolar	24	hour	003016062013.CEL
+8693	liver	Rattus norvegicus	monocrotaline	Control	0	milligram per kilogram	24	hour	003017048003.CEL
+8694	liver	Rattus norvegicus	monocrotaline	Control	0	milligram per kilogram	24	hour	003017048004.CEL
+8695	liver	Rattus norvegicus	monocrotaline	Control	0	milligram per kilogram	24	hour	003017048005.CEL
+8729	liver	Rattus norvegicus	monocrotaline	High	30	milligram per kilogram	24	hour	003017048012.CEL
+8730	liver	Rattus norvegicus	monocrotaline	High	30	milligram per kilogram	24	hour	003017048013.CEL
+8731	liver	Rattus norvegicus	monocrotaline	High	30	milligram per kilogram	24	hour	003017048014.CEL
+8741	kidney	Rattus norvegicus	monocrotaline	Control	0	milligram per kilogram	24	hour	003017266014.CEL
+8742	kidney	Rattus norvegicus	monocrotaline	Control	0	milligram per kilogram	24	hour	003017266015.CEL
+8743	kidney	Rattus norvegicus	monocrotaline	Control	0	milligram per kilogram	24	hour	003017266016.CEL
+8777	kidney	Rattus norvegicus	monocrotaline	High	30	milligram per kilogram	24	hour	003017266023.CEL
+8778	kidney	Rattus norvegicus	monocrotaline	High	30	milligram per kilogram	24	hour	003017266024.CEL
+8779	kidney	Rattus norvegicus	monocrotaline	High	30	milligram per kilogram	24	hour	003017266025.CEL
+8784	hepatocyte	Rattus norvegicus	monocrotaline	Control	0	micromolar	24	hour	003017170001.CEL
+8785	hepatocyte	Rattus norvegicus	monocrotaline	Control	0	micromolar	24	hour	003017170002.CEL
+8802	hepatocyte	Rattus norvegicus	monocrotaline	High	90	micromolar	24	hour	003017170007.CEL
+8803	hepatocyte	Rattus norvegicus	monocrotaline	High	90	micromolar	24	hour	003017170008.CEL
+8806	hepatocyte	Homo sapiens	moxisylyte	Control	0	micromolar	24	hour	003016063026.CEL
+8807	hepatocyte	Homo sapiens	moxisylyte	Control	0	micromolar	24	hour	003016063027.CEL
+8814	hepatocyte	Homo sapiens	moxisylyte	High	400	micromolar	24	hour	003016063030.CEL
+8815	hepatocyte	Homo sapiens	moxisylyte	High	400	micromolar	24	hour	003016064001.CEL
+8825	liver	Rattus norvegicus	moxisylyte	Control	0	milligram per kilogram	24	hour	003017075026.CEL
+8826	liver	Rattus norvegicus	moxisylyte	Control	0	milligram per kilogram	24	hour	003017075027.CEL
+8827	liver	Rattus norvegicus	moxisylyte	Control	0	milligram per kilogram	24	hour	003017075028.CEL
+8861	liver	Rattus norvegicus	moxisylyte	High	500	milligram per kilogram	24	hour	003017076005.CEL
+8862	liver	Rattus norvegicus	moxisylyte	High	500	milligram per kilogram	24	hour	003017076006.CEL
+8863	liver	Rattus norvegicus	moxisylyte	High	500	milligram per kilogram	24	hour	003017077025.CEL
+8868	hepatocyte	Rattus norvegicus	moxisylyte	Control	0	micromolar	24	hour	003017241020.CEL
+8869	hepatocyte	Rattus norvegicus	moxisylyte	Control	0	micromolar	24	hour	003017241021.CEL
+8886	hepatocyte	Rattus norvegicus	moxisylyte	High	600	micromolar	24	hour	003017241026.CEL
+8887	hepatocyte	Rattus norvegicus	moxisylyte	High	600	micromolar	24	hour	003017241027.CEL
+8892	hepatocyte	Homo sapiens	naphthyl isothiocyanate	Control	0	micromolar	24	hour	003016012008.CEL
+8893	hepatocyte	Homo sapiens	naphthyl isothiocyanate	Control	0	micromolar	24	hour	003016012009.CEL
+8910	hepatocyte	Homo sapiens	naphthyl isothiocyanate	High	200	micromolar	24	hour	003016012014.CEL
+8911	hepatocyte	Homo sapiens	naphthyl isothiocyanate	High	200	micromolar	24	hour	003016012015.CEL
+8921	liver	Rattus norvegicus	naphthyl isothiocyanate	Control	0	milligram per kilogram	24	hour	003017631024.CEL
+8922	liver	Rattus norvegicus	naphthyl isothiocyanate	Control	0	milligram per kilogram	24	hour	003017631025.CEL
+8923	liver	Rattus norvegicus	naphthyl isothiocyanate	Control	0	milligram per kilogram	24	hour	003017631026.CEL
+8957	liver	Rattus norvegicus	naphthyl isothiocyanate	High	150	milligram per kilogram	24	hour	003017632003.CEL
+8958	liver	Rattus norvegicus	naphthyl isothiocyanate	High	150	milligram per kilogram	24	hour	003017632004.CEL
+8959	liver	Rattus norvegicus	naphthyl isothiocyanate	High	150	milligram per kilogram	24	hour	003017632005.CEL
+8964	hepatocyte	Rattus norvegicus	naphthyl isothiocyanate	Control	0	micromolar	24	hour	003017021024.CEL
+8965	hepatocyte	Rattus norvegicus	naphthyl isothiocyanate	Control	0	micromolar	24	hour	003017021025.CEL
+8982	hepatocyte	Rattus norvegicus	naphthyl isothiocyanate	High	200	micromolar	24	hour	003017021030.CEL
+8983	hepatocyte	Rattus norvegicus	naphthyl isothiocyanate	High	200	micromolar	24	hour	003017022001.CEL
+8986	hepatocyte	Homo sapiens	naproxen	Control	0	micromolar	24	hour	003016067002.CEL
+8987	hepatocyte	Homo sapiens	naproxen	Control	0	micromolar	24	hour	003016067003.CEL
+8994	hepatocyte	Homo sapiens	naproxen	High	600	micromolar	24	hour	003016067006.CEL
+8995	hepatocyte	Homo sapiens	naproxen	High	600	micromolar	24	hour	003016067007.CEL
+9005	liver	Rattus norvegicus	naproxen	Control	0	milligram per kilogram	24	hour	003017165006.CEL
+9006	liver	Rattus norvegicus	naproxen	Control	0	milligram per kilogram	24	hour	003017165007.CEL
+9007	liver	Rattus norvegicus	naproxen	Control	0	milligram per kilogram	24	hour	003017165008.CEL
+9041	liver	Rattus norvegicus	naproxen	High	200	milligram per kilogram	24	hour	003017165015.CEL
+9042	liver	Rattus norvegicus	naproxen	High	200	milligram per kilogram	24	hour	003017165016.CEL
+9043	liver	Rattus norvegicus	naproxen	High	200	milligram per kilogram	24	hour	003017165017.CEL
+9048	hepatocyte	Rattus norvegicus	naproxen	Control	0	micromolar	24	hour	003017242014.CEL
+9049	hepatocyte	Rattus norvegicus	naproxen	Control	0	micromolar	24	hour	003017242015.CEL
+9066	hepatocyte	Rattus norvegicus	naproxen	High	2000	micromolar	24	hour	003017242019.CEL
+9067	hepatocyte	Rattus norvegicus	naproxen	High	2000	micromolar	24	hour	003017242020.CEL
+9070	hepatocyte	Homo sapiens	nicotinic acid	Control	0	micromolar	24	hour	003016068020.CEL
+9071	hepatocyte	Homo sapiens	nicotinic acid	Control	0	micromolar	24	hour	003016068021.CEL
+9078	hepatocyte	Homo sapiens	nicotinic acid	High	10000	micromolar	24	hour	003016068024.CEL
+9079	hepatocyte	Homo sapiens	nicotinic acid	High	10000	micromolar	24	hour	003016068025.CEL
+9089	liver	Rattus norvegicus	nicotinic acid	Control	0	milligram per kilogram	24	hour	003017174020.CEL
+9090	liver	Rattus norvegicus	nicotinic acid	Control	0	milligram per kilogram	24	hour	003017174021.CEL
+9091	liver	Rattus norvegicus	nicotinic acid	Control	0	milligram per kilogram	24	hour	003017174022.CEL
+9125	liver	Rattus norvegicus	nicotinic acid	High	1000	milligram per kilogram	24	hour	003017174029.CEL
+9126	liver	Rattus norvegicus	nicotinic acid	High	1000	milligram per kilogram	24	hour	003017174030.CEL
+9127	liver	Rattus norvegicus	nicotinic acid	High	1000	milligram per kilogram	24	hour	003017175001.CEL
+9132	hepatocyte	Rattus norvegicus	nicotinic acid	Control	0	micromolar	24	hour	003017253012.CEL
+9133	hepatocyte	Rattus norvegicus	nicotinic acid	Control	0	micromolar	24	hour	003017253013.CEL
+9150	hepatocyte	Rattus norvegicus	nicotinic acid	High	10000	micromolar	24	hour	003017253018.CEL
+9151	hepatocyte	Rattus norvegicus	nicotinic acid	High	10000	micromolar	24	hour	003017253019.CEL
+9154	hepatocyte	Homo sapiens	nifedipine	Control	0	micromolar	24	hour	003016076024.CEL
+9155	hepatocyte	Homo sapiens	nifedipine	Control	0	micromolar	24	hour	003016076025.CEL
+9162	hepatocyte	Homo sapiens	nifedipine	High	150	micromolar	24	hour	003016076028.CEL
+9163	hepatocyte	Homo sapiens	nifedipine	High	150	micromolar	24	hour	003016076029.CEL
+9173	liver	Rattus norvegicus	nifedipine	Control	0	milligram per kilogram	24	hour	003017286020.CEL
+9174	liver	Rattus norvegicus	nifedipine	Control	0	milligram per kilogram	24	hour	003017286021.CEL
+9175	liver	Rattus norvegicus	nifedipine	Control	0	milligram per kilogram	24	hour	003017286022.CEL
+9209	liver	Rattus norvegicus	nifedipine	High	1000	milligram per kilogram	24	hour	003017286028.CEL
+9210	liver	Rattus norvegicus	nifedipine	High	1000	milligram per kilogram	24	hour	003017286029.CEL
+9211	liver	Rattus norvegicus	nifedipine	High	1000	milligram per kilogram	24	hour	003017286030.CEL
+9216	hepatocyte	Rattus norvegicus	nifedipine	Control	0	micromolar	24	hour	003017281030.CEL
+9217	hepatocyte	Rattus norvegicus	nifedipine	Control	0	micromolar	24	hour	003017282001.CEL
+9234	hepatocyte	Rattus norvegicus	nifedipine	High	250	micromolar	24	hour	003017282006.CEL
+9235	hepatocyte	Rattus norvegicus	nifedipine	High	250	micromolar	24	hour	003017282007.CEL
+9238	hepatocyte	Homo sapiens	nimesulide	Control	0	micromolar	24	hour	003016081003.CEL
+9239	hepatocyte	Homo sapiens	nimesulide	Control	0	micromolar	24	hour	003016081004.CEL
+9246	hepatocyte	Homo sapiens	nimesulide	High	330	micromolar	24	hour	003016081007.CEL
+9247	hepatocyte	Homo sapiens	nimesulide	High	330	micromolar	24	hour	003016081008.CEL
+9257	liver	Rattus norvegicus	nimesulide	Control	0	milligram per kilogram	24	hour	003017547001.CEL
+9258	liver	Rattus norvegicus	nimesulide	Control	0	milligram per kilogram	24	hour	003017547002.CEL
+9259	liver	Rattus norvegicus	nimesulide	Control	0	milligram per kilogram	24	hour	003017547003.CEL
+9293	liver	Rattus norvegicus	nimesulide	High	300	milligram per kilogram	24	hour	003017547010.CEL
+9294	liver	Rattus norvegicus	nimesulide	High	300	milligram per kilogram	24	hour	003017547011.CEL
+9295	liver	Rattus norvegicus	nimesulide	High	300	milligram per kilogram	24	hour	003017547012.CEL
+9300	hepatocyte	Rattus norvegicus	nimesulide	Control	0	micromolar	24	hour	003017465024.CEL
+9301	hepatocyte	Rattus norvegicus	nimesulide	Control	0	micromolar	24	hour	003017465025.CEL
+9318	hepatocyte	Rattus norvegicus	nimesulide	High	75	micromolar	24	hour	003017465030.CEL
+9319	hepatocyte	Rattus norvegicus	nimesulide	High	75	micromolar	24	hour	003017466001.CEL
+9324	hepatocyte	Homo sapiens	nitrofurantoin	Control	0	micromolar	24	hour	003016030029.CEL
+9325	hepatocyte	Homo sapiens	nitrofurantoin	Control	0	micromolar	24	hour	003016030030.CEL
+9342	hepatocyte	Homo sapiens	nitrofurantoin	High	125	micromolar	24	hour	003016031005.CEL
+9343	hepatocyte	Homo sapiens	nitrofurantoin	High	125	micromolar	24	hour	003016031006.CEL
+9353	liver	Rattus norvegicus	nitrofurantoin	Control	0	milligram per kilogram	24	hour	003017791022.CEL
+9354	liver	Rattus norvegicus	nitrofurantoin	Control	0	milligram per kilogram	24	hour	003017791023.CEL
+9355	liver	Rattus norvegicus	nitrofurantoin	Control	0	milligram per kilogram	24	hour	003017791024.CEL
+9389	liver	Rattus norvegicus	nitrofurantoin	High	600	milligram per kilogram	24	hour	003017792001.CEL
+9390	liver	Rattus norvegicus	nitrofurantoin	High	600	milligram per kilogram	24	hour	003017792002.CEL
+9391	liver	Rattus norvegicus	nitrofurantoin	High	600	milligram per kilogram	24	hour	003017792003.CEL
+9401	kidney	Rattus norvegicus	nitrofurantoin	Control	0	milligram per kilogram	24	hour	003017205019.CEL
+9402	kidney	Rattus norvegicus	nitrofurantoin	Control	0	milligram per kilogram	24	hour	003017205020.CEL
+9403	kidney	Rattus norvegicus	nitrofurantoin	Control	0	milligram per kilogram	24	hour	003017205021.CEL
+9437	kidney	Rattus norvegicus	nitrofurantoin	High	100	milligram per kilogram	24	hour	003017205028.CEL
+9438	kidney	Rattus norvegicus	nitrofurantoin	High	100	milligram per kilogram	24	hour	003017205029.CEL
+9439	kidney	Rattus norvegicus	nitrofurantoin	High	100	milligram per kilogram	24	hour	003017205030.CEL
+9444	hepatocyte	Rattus norvegicus	nitrofurantoin	Control	0	micromolar	24	hour	003017128028.CEL
+9445	hepatocyte	Rattus norvegicus	nitrofurantoin	Control	0	micromolar	24	hour	003017128029.CEL
+9462	hepatocyte	Rattus norvegicus	nitrofurantoin	High	125	micromolar	24	hour	003017130004.CEL
+9463	hepatocyte	Rattus norvegicus	nitrofurantoin	High	125	micromolar	24	hour	003017130005.CEL
+9466	hepatocyte	Homo sapiens	nitrofurazone	Control	0	micromolar	24	hour	003016065002.CEL
+9467	hepatocyte	Homo sapiens	nitrofurazone	Control	0	micromolar	24	hour	003016065003.CEL
+9474	hepatocyte	Homo sapiens	nitrofurazone	High	50	micromolar	24	hour	003016065006.CEL
+9475	hepatocyte	Homo sapiens	nitrofurazone	High	50	micromolar	24	hour	003016065007.CEL
+9485	liver	Rattus norvegicus	nitrofurazone	Control	0	milligram per kilogram	24	hour	003017131030.CEL
+9486	liver	Rattus norvegicus	nitrofurazone	Control	0	milligram per kilogram	24	hour	003017132001.CEL
+9487	liver	Rattus norvegicus	nitrofurazone	Control	0	milligram per kilogram	24	hour	003017132002.CEL
+9521	liver	Rattus norvegicus	nitrofurazone	High	300	milligram per kilogram	24	hour	003017132009.CEL
+9522	liver	Rattus norvegicus	nitrofurazone	High	300	milligram per kilogram	24	hour	003017132010.CEL
+9523	liver	Rattus norvegicus	nitrofurazone	High	300	milligram per kilogram	24	hour	003017132011.CEL
+9528	hepatocyte	Rattus norvegicus	nitrofurazone	Control	0	micromolar	24	hour	003017268030.CEL
+9529	hepatocyte	Rattus norvegicus	nitrofurazone	Control	0	micromolar	24	hour	003017269001.CEL
+9546	hepatocyte	Rattus norvegicus	nitrofurazone	High	300	micromolar	24	hour	003017269007.CEL
+9547	hepatocyte	Rattus norvegicus	nitrofurazone	High	300	micromolar	24	hour	003017353022.CEL
+9550	hepatocyte	Homo sapiens	nitrosodiethylamine	Control	0	micromolar	24	hour	003016089006.CEL
+9551	hepatocyte	Homo sapiens	nitrosodiethylamine	Control	0	micromolar	24	hour	003016089007.CEL
+9558	hepatocyte	Homo sapiens	nitrosodiethylamine	High	10000	micromolar	24	hour	003016089010.CEL
+9559	hepatocyte	Homo sapiens	nitrosodiethylamine	High	10000	micromolar	24	hour	003016089011.CEL
+9569	liver	Rattus norvegicus	nitrosodiethylamine	Control	0	milligram per kilogram	24	hour	003017528026.CEL
+9570	liver	Rattus norvegicus	nitrosodiethylamine	Control	0	milligram per kilogram	24	hour	003017528027.CEL
+9571	liver	Rattus norvegicus	nitrosodiethylamine	Control	0	milligram per kilogram	24	hour	003017528028.CEL
+9605	liver	Rattus norvegicus	nitrosodiethylamine	High	100	milligram per kilogram	24	hour	003017529005.CEL
+9606	liver	Rattus norvegicus	nitrosodiethylamine	High	100	milligram per kilogram	24	hour	003017529006.CEL
+9607	liver	Rattus norvegicus	nitrosodiethylamine	High	100	milligram per kilogram	24	hour	003017529007.CEL
+9612	hepatocyte	Rattus norvegicus	nitrosodiethylamine	Control	0	micromolar	24	hour	003017531012.CEL
+9613	hepatocyte	Rattus norvegicus	nitrosodiethylamine	Control	0	micromolar	24	hour	003017531013.CEL
+9630	hepatocyte	Rattus norvegicus	nitrosodiethylamine	High	10000	micromolar	24	hour	003017531018.CEL
+9631	hepatocyte	Rattus norvegicus	nitrosodiethylamine	High	10000	micromolar	24	hour	003017531019.CEL
+9636	hepatocyte	Homo sapiens	omeprazole	Control	0	micromolar	24	hour	003016036016.CEL
+9637	hepatocyte	Homo sapiens	omeprazole	Control	0	micromolar	24	hour	003016036017.CEL
+9654	hepatocyte	Homo sapiens	omeprazole	High	600	micromolar	24	hour	003016036022.CEL
+9655	hepatocyte	Homo sapiens	omeprazole	High	600	micromolar	24	hour	003016036023.CEL
+9665	liver	Rattus norvegicus	omeprazole	Control	0	milligram per kilogram	24	hour	003017668011.CEL
+9666	liver	Rattus norvegicus	omeprazole	Control	0	milligram per kilogram	24	hour	003017668012.CEL
+9667	liver	Rattus norvegicus	omeprazole	Control	0	milligram per kilogram	24	hour	003017668013.CEL
+9701	liver	Rattus norvegicus	omeprazole	High	1000	milligram per kilogram	24	hour	003017668020.CEL
+9702	liver	Rattus norvegicus	omeprazole	High	1000	milligram per kilogram	24	hour	003017668021.CEL
+9703	liver	Rattus norvegicus	omeprazole	High	1000	milligram per kilogram	24	hour	003017668022.CEL
+9713	kidney	Rattus norvegicus	omeprazole	Control	0	milligram per kilogram	24	hour	003017833011.CEL
+9714	kidney	Rattus norvegicus	omeprazole	Control	0	milligram per kilogram	24	hour	003017833012.CEL
+9715	kidney	Rattus norvegicus	omeprazole	Control	0	milligram per kilogram	24	hour	003017833013.CEL
+9749	kidney	Rattus norvegicus	omeprazole	High	1000	milligram per kilogram	24	hour	003017833020.CEL
+9750	kidney	Rattus norvegicus	omeprazole	High	1000	milligram per kilogram	24	hour	003017833021.CEL
+9751	kidney	Rattus norvegicus	omeprazole	High	1000	milligram per kilogram	24	hour	003017833022.CEL
+9756	hepatocyte	Rattus norvegicus	omeprazole	Control	0	micromolar	24	hour	003017027002.CEL
+9757	hepatocyte	Rattus norvegicus	omeprazole	Control	0	micromolar	24	hour	003017027003.CEL
+9774	hepatocyte	Rattus norvegicus	omeprazole	High	120	micromolar	24	hour	003017027008.CEL
+9775	hepatocyte	Rattus norvegicus	omeprazole	High	120	micromolar	24	hour	003017027009.CEL
+9778	hepatocyte	Homo sapiens	papaverine	Control	0	micromolar	24	hour	003016072009.CEL
+9779	hepatocyte	Homo sapiens	papaverine	Control	0	micromolar	24	hour	003016072010.CEL
+9786	hepatocyte	Homo sapiens	papaverine	High	60	micromolar	24	hour	003016072013.CEL
+9787	hepatocyte	Homo sapiens	papaverine	High	60	micromolar	24	hour	003016072014.CEL
+9797	liver	Rattus norvegicus	papaverine	Control	0	milligram per kilogram	24	hour	003017245022.CEL
+9798	liver	Rattus norvegicus	papaverine	Control	0	milligram per kilogram	24	hour	003017245023.CEL
+9799	liver	Rattus norvegicus	papaverine	Control	0	milligram per kilogram	24	hour	003017245024.CEL
+9833	liver	Rattus norvegicus	papaverine	High	400	milligram per kilogram	24	hour	003017246001.CEL
+9834	liver	Rattus norvegicus	papaverine	High	400	milligram per kilogram	24	hour	003017246002.CEL
+9835	liver	Rattus norvegicus	papaverine	High	400	milligram per kilogram	24	hour	003017246003.CEL
+9840	hepatocyte	Rattus norvegicus	papaverine	Control	0	micromolar	24	hour	003017261025.CEL
+9841	hepatocyte	Rattus norvegicus	papaverine	Control	0	micromolar	24	hour	003017261026.CEL
+9858	hepatocyte	Rattus norvegicus	papaverine	High	100	micromolar	24	hour	003017262001.CEL
+9859	hepatocyte	Rattus norvegicus	papaverine	High	100	micromolar	24	hour	003017262002.CEL
+9862	hepatocyte	Homo sapiens	pemoline	Control	0	micromolar	24	hour	003016059014.CEL
+9863	hepatocyte	Homo sapiens	pemoline	Control	0	micromolar	24	hour	003016059015.CEL
+9870	hepatocyte	Homo sapiens	pemoline	High	75	micromolar	24	hour	003016059018.CEL
+9871	hepatocyte	Homo sapiens	pemoline	High	75	micromolar	24	hour	003016059019.CEL
+9881	liver	Rattus norvegicus	pemoline	Control	0	milligram per kilogram	24	hour	003017028016.CEL
+9882	liver	Rattus norvegicus	pemoline	Control	0	milligram per kilogram	24	hour	003017028017.CEL
+9883	liver	Rattus norvegicus	pemoline	Control	0	milligram per kilogram	24	hour	003017028018.CEL
+9917	liver	Rattus norvegicus	pemoline	High	75	milligram per kilogram	24	hour	003017028025.CEL
+9918	liver	Rattus norvegicus	pemoline	High	75	milligram per kilogram	24	hour	003017028026.CEL
+9919	liver	Rattus norvegicus	pemoline	High	75	milligram per kilogram	24	hour	003017028027.CEL
+9924	hepatocyte	Rattus norvegicus	pemoline	Control	0	micromolar	24	hour	003017134017.CEL
+9925	hepatocyte	Rattus norvegicus	pemoline	Control	0	micromolar	24	hour	003017134018.CEL
+9942	hepatocyte	Rattus norvegicus	pemoline	High	75	micromolar	24	hour	003017134023.CEL
+9943	hepatocyte	Rattus norvegicus	pemoline	High	75	micromolar	24	hour	003017134024.CEL
+9946	hepatocyte	Homo sapiens	penicillamine	Control	0	micromolar	24	hour	003016073029.CEL
+9947	hepatocyte	Homo sapiens	penicillamine	Control	0	micromolar	24	hour	003016073030.CEL
+9954	hepatocyte	Homo sapiens	penicillamine	High	10000	micromolar	24	hour	003016074003.CEL
+9955	hepatocyte	Homo sapiens	penicillamine	High	10000	micromolar	24	hour	003016074004.CEL
+9965	liver	Rattus norvegicus	penicillamine	Control	0	milligram per kilogram	24	hour	003017316020.CEL
+9966	liver	Rattus norvegicus	penicillamine	Control	0	milligram per kilogram	24	hour	003017316021.CEL
+9967	liver	Rattus norvegicus	penicillamine	Control	0	milligram per kilogram	24	hour	003017316022.CEL
+10001	liver	Rattus norvegicus	penicillamine	High	1000	milligram per kilogram	24	hour	003017316029.CEL
+10002	liver	Rattus norvegicus	penicillamine	High	1000	milligram per kilogram	24	hour	003017316030.CEL
+10003	liver	Rattus norvegicus	penicillamine	High	1000	milligram per kilogram	24	hour	003017317001.CEL
+10008	hepatocyte	Rattus norvegicus	penicillamine	Control	0	micromolar	24	hour	003017275017.CEL
+10009	hepatocyte	Rattus norvegicus	penicillamine	Control	0	micromolar	24	hour	003017275018.CEL
+10026	hepatocyte	Rattus norvegicus	penicillamine	High	10000	micromolar	24	hour	003017275023.CEL
+10027	hepatocyte	Rattus norvegicus	penicillamine	High	10000	micromolar	24	hour	003017275024.CEL
+10032	hepatocyte	Homo sapiens	perhexiline	Control	0	micromolar	24	hour	003016045019.CEL
+10033	hepatocyte	Homo sapiens	perhexiline	Control	0	micromolar	24	hour	003016045020.CEL
+10050	hepatocyte	Homo sapiens	perhexiline	High	15	micromolar	24	hour	003016045025.CEL
+10051	hepatocyte	Homo sapiens	perhexiline	High	15	micromolar	24	hour	003016045026.CEL
+10061	liver	Rattus norvegicus	perhexiline	Control	0	milligram per kilogram	24	hour	003017703030.CEL
+10062	liver	Rattus norvegicus	perhexiline	Control	0	milligram per kilogram	24	hour	003017704001.CEL
+10063	liver	Rattus norvegicus	perhexiline	Control	0	milligram per kilogram	24	hour	003017704002.CEL
+10097	liver	Rattus norvegicus	perhexiline	High	150	milligram per kilogram	24	hour	003017704009.CEL
+10098	liver	Rattus norvegicus	perhexiline	High	150	milligram per kilogram	24	hour	003017704010.CEL
+10099	liver	Rattus norvegicus	perhexiline	High	150	milligram per kilogram	24	hour	003017704011.CEL
+10104	hepatocyte	Rattus norvegicus	perhexiline	Control	0	micromolar	24	hour	003017151017.CEL
+10105	hepatocyte	Rattus norvegicus	perhexiline	Control	0	micromolar	24	hour	003017151018.CEL
+10122	hepatocyte	Rattus norvegicus	perhexiline	High	10	micromolar	24	hour	003017151023.CEL
+10123	hepatocyte	Rattus norvegicus	perhexiline	High	10	micromolar	24	hour	003017151024.CEL
+10126	hepatocyte	Homo sapiens	phenacetin	Control	0	micromolar	24	hour	003016088024.CEL
+10127	hepatocyte	Homo sapiens	phenacetin	Control	0	micromolar	24	hour	003016088025.CEL
+10134	hepatocyte	Homo sapiens	phenacetin	High	600	micromolar	24	hour	003016088028.CEL
+10135	hepatocyte	Homo sapiens	phenacetin	High	600	micromolar	24	hour	003016088029.CEL
+10145	liver	Rattus norvegicus	phenacetin	Control	0	milligram per kilogram	24	hour	003017496004.CEL
+10146	liver	Rattus norvegicus	phenacetin	Control	0	milligram per kilogram	24	hour	003017496005.CEL
+10147	liver	Rattus norvegicus	phenacetin	Control	0	milligram per kilogram	24	hour	003017496006.CEL
+10181	liver	Rattus norvegicus	phenacetin	High	2000	milligram per kilogram	24	hour	003017496012.CEL
+10182	liver	Rattus norvegicus	phenacetin	High	2000	milligram per kilogram	24	hour	003017496013.CEL
+10183	liver	Rattus norvegicus	phenacetin	High	2000	milligram per kilogram	24	hour	003017496014.CEL
+10193	kidney	Rattus norvegicus	phenacetin	Control	0	milligram per kilogram	24	hour	003017514017.CEL
+10194	kidney	Rattus norvegicus	phenacetin	Control	0	milligram per kilogram	24	hour	003017514018.CEL
+10195	kidney	Rattus norvegicus	phenacetin	Control	0	milligram per kilogram	24	hour	003017514019.CEL
+10229	kidney	Rattus norvegicus	phenacetin	High	2000	milligram per kilogram	24	hour	003017514026.CEL
+10230	kidney	Rattus norvegicus	phenacetin	High	2000	milligram per kilogram	24	hour	003017514027.CEL
+10231	kidney	Rattus norvegicus	phenacetin	High	2000	milligram per kilogram	24	hour	003017514028.CEL
+10236	hepatocyte	Rattus norvegicus	phenacetin	Control	0	micromolar	24	hour	003017384027.CEL
+10237	hepatocyte	Rattus norvegicus	phenacetin	Control	0	micromolar	24	hour	003017384028.CEL
+10254	hepatocyte	Rattus norvegicus	phenacetin	High	600	micromolar	24	hour	003017386002.CEL
+10255	hepatocyte	Rattus norvegicus	phenacetin	High	600	micromolar	24	hour	003017386004.CEL
+10260	hepatocyte	Homo sapiens	phenobarbital	Control	0	micromolar	24	hour	003016019014.CEL
+10261	hepatocyte	Homo sapiens	phenobarbital	Control	0	micromolar	24	hour	003016019015.CEL
+10278	hepatocyte	Homo sapiens	phenobarbital	High	10000	micromolar	24	hour	003016019020.CEL
+10279	hepatocyte	Homo sapiens	phenobarbital	High	10000	micromolar	24	hour	003016019021.CEL
+10289	liver	Rattus norvegicus	phenobarbital	Control	0	milligram per kilogram	24	hour	003017657026.CEL
+10290	liver	Rattus norvegicus	phenobarbital	Control	0	milligram per kilogram	24	hour	003017657027.CEL
+10291	liver	Rattus norvegicus	phenobarbital	Control	0	milligram per kilogram	24	hour	003017657028.CEL
+10325	liver	Rattus norvegicus	phenobarbital	High	300	milligram per kilogram	24	hour	003017658005.CEL
+10326	liver	Rattus norvegicus	phenobarbital	High	300	milligram per kilogram	24	hour	003017658006.CEL
+10327	liver	Rattus norvegicus	phenobarbital	High	300	milligram per kilogram	24	hour	003017658007.CEL
+10332	hepatocyte	Rattus norvegicus	phenobarbital	Control	0	micromolar	24	hour	003017710014.CEL
+10333	hepatocyte	Rattus norvegicus	phenobarbital	Control	0	micromolar	24	hour	003017710015.CEL
+10350	hepatocyte	Rattus norvegicus	phenobarbital	High	10000	micromolar	24	hour	003017710020.CEL
+10351	hepatocyte	Rattus norvegicus	phenobarbital	High	10000	micromolar	24	hour	003017710021.CEL
+10354	hepatocyte	Homo sapiens	phenylanthranilic acid	Control	0	micromolar	24	hour	003016087015.CEL
+10355	hepatocyte	Homo sapiens	phenylanthranilic acid	Control	0	micromolar	24	hour	003016087016.CEL
+10362	hepatocyte	Homo sapiens	phenylanthranilic acid	High	200	micromolar	24	hour	003016087019.CEL
+10363	hepatocyte	Homo sapiens	phenylanthranilic acid	High	200	micromolar	24	hour	003016088017.CEL
+10373	liver	Rattus norvegicus	phenylanthranilic acid	Control	0	milligram per kilogram	24	hour	003017576007.CEL
+10374	liver	Rattus norvegicus	phenylanthranilic acid	Control	0	milligram per kilogram	24	hour	003017576008.CEL
+10375	liver	Rattus norvegicus	phenylanthranilic acid	Control	0	milligram per kilogram	24	hour	003017596008.CEL
+10409	liver	Rattus norvegicus	phenylanthranilic acid	High	2000	milligram per kilogram	24	hour	003017576016.CEL
+10410	liver	Rattus norvegicus	phenylanthranilic acid	High	2000	milligram per kilogram	24	hour	003017576017.CEL
+10411	liver	Rattus norvegicus	phenylanthranilic acid	High	2000	milligram per kilogram	24	hour	003017576018.CEL
+10421	kidney	Rattus norvegicus	phenylanthranilic acid	Control	0	milligram per kilogram	24	hour	003017592001.CEL
+10422	kidney	Rattus norvegicus	phenylanthranilic acid	Control	0	milligram per kilogram	24	hour	003017592002.CEL
+10423	kidney	Rattus norvegicus	phenylanthranilic acid	Control	0	milligram per kilogram	24	hour	003017613008.CEL
+10457	kidney	Rattus norvegicus	phenylanthranilic acid	High	2000	milligram per kilogram	24	hour	003017592009.CEL
+10458	kidney	Rattus norvegicus	phenylanthranilic acid	High	2000	milligram per kilogram	24	hour	003017592010.CEL
+10459	kidney	Rattus norvegicus	phenylanthranilic acid	High	2000	milligram per kilogram	24	hour	003017592011.CEL
+10464	hepatocyte	Rattus norvegicus	phenylanthranilic acid	Control	0	micromolar	24	hour	003017547029.CEL
+10465	hepatocyte	Rattus norvegicus	phenylanthranilic acid	Control	0	micromolar	24	hour	003017547030.CEL
+10482	hepatocyte	Rattus norvegicus	phenylanthranilic acid	High	200	micromolar	24	hour	003017548005.CEL
+10483	hepatocyte	Rattus norvegicus	phenylanthranilic acid	High	200	micromolar	24	hour	003017548006.CEL
+10488	hepatocyte	Homo sapiens	phenylbutazone	Control	0	micromolar	24	hour	003016013026.CEL
+10489	hepatocyte	Homo sapiens	phenylbutazone	Control	0	micromolar	24	hour	003016013027.CEL
+10506	hepatocyte	Homo sapiens	phenylbutazone	High	400	micromolar	24	hour	003016014002.CEL
+10507	hepatocyte	Homo sapiens	phenylbutazone	High	400	micromolar	24	hour	003016014003.CEL
+10517	liver	Rattus norvegicus	phenylbutazone	Control	0	milligram per kilogram	24	hour	003017675017.CEL
+10518	liver	Rattus norvegicus	phenylbutazone	Control	0	milligram per kilogram	24	hour	003017675018.CEL
+10519	liver	Rattus norvegicus	phenylbutazone	Control	0	milligram per kilogram	24	hour	003017675019.CEL
+10553	liver	Rattus norvegicus	phenylbutazone	High	200	milligram per kilogram	24	hour	003017675026.CEL
+10554	liver	Rattus norvegicus	phenylbutazone	High	200	milligram per kilogram	24	hour	003017675027.CEL
+10555	liver	Rattus norvegicus	phenylbutazone	High	200	milligram per kilogram	24	hour	003017675028.CEL
+10565	kidney	Rattus norvegicus	phenylbutazone	Control	0	milligram per kilogram	24	hour	003017294017.CEL
+10566	kidney	Rattus norvegicus	phenylbutazone	Control	0	milligram per kilogram	24	hour	003017294018.CEL
+10567	kidney	Rattus norvegicus	phenylbutazone	Control	0	milligram per kilogram	24	hour	003017294019.CEL
+10601	kidney	Rattus norvegicus	phenylbutazone	High	200	milligram per kilogram	24	hour	003017294026.CEL
+10602	kidney	Rattus norvegicus	phenylbutazone	High	200	milligram per kilogram	24	hour	003017294027.CEL
+10603	kidney	Rattus norvegicus	phenylbutazone	High	200	milligram per kilogram	24	hour	003017294028.CEL
+10608	hepatocyte	Rattus norvegicus	phenylbutazone	Control	0	micromolar	24	hour	003017023023.CEL
+10609	hepatocyte	Rattus norvegicus	phenylbutazone	Control	0	micromolar	24	hour	003017023024.CEL
+10626	hepatocyte	Rattus norvegicus	phenylbutazone	High	400	micromolar	24	hour	003017023029.CEL
+10627	hepatocyte	Rattus norvegicus	phenylbutazone	High	400	micromolar	24	hour	003017023030.CEL
+10632	hepatocyte	Homo sapiens	phenytoin	Control	0	micromolar	24	hour	003016046013.CEL
+10633	hepatocyte	Homo sapiens	phenytoin	Control	0	micromolar	24	hour	003016046014.CEL
+10650	hepatocyte	Homo sapiens	phenytoin	High	60	micromolar	24	hour	003016046019.CEL
+10651	hepatocyte	Homo sapiens	phenytoin	High	60	micromolar	24	hour	003016046020.CEL
+10661	liver	Rattus norvegicus	phenytoin	Control	0	milligram per kilogram	24	hour	003017624009.CEL
+10662	liver	Rattus norvegicus	phenytoin	Control	0	milligram per kilogram	24	hour	003017624010.CEL
+10663	liver	Rattus norvegicus	phenytoin	Control	0	milligram per kilogram	24	hour	003017624011.CEL
+10697	liver	Rattus norvegicus	phenytoin	High	2000	milligram per kilogram	24	hour	003017624018.CEL
+10698	liver	Rattus norvegicus	phenytoin	High	2000	milligram per kilogram	24	hour	003017624019.CEL
+10699	liver	Rattus norvegicus	phenytoin	High	2000	milligram per kilogram	24	hour	003017624020.CEL
+10704	hepatocyte	Rattus norvegicus	phenytoin	Control	0	micromolar	24	hour	003017067014.CEL
+10705	hepatocyte	Rattus norvegicus	phenytoin	Control	0	micromolar	24	hour	003017067015.CEL
+10722	hepatocyte	Rattus norvegicus	phenytoin	High	60	micromolar	24	hour	003017067020.CEL
+10723	hepatocyte	Rattus norvegicus	phenytoin	High	60	micromolar	24	hour	003017067021.CEL
+10726	hepatocyte	Homo sapiens	promethazine	Control	0	micromolar	24	hour	003016084008.CEL
+10727	hepatocyte	Homo sapiens	promethazine	Control	0	micromolar	24	hour	003016084009.CEL
+10734	hepatocyte	Homo sapiens	promethazine	High	35	micromolar	24	hour	003016084012.CEL
+10735	hepatocyte	Homo sapiens	promethazine	High	35	micromolar	24	hour	003016084013.CEL
+10745	liver	Rattus norvegicus	promethazine	Control	0	milligram per kilogram	24	hour	003017388005.CEL
+10746	liver	Rattus norvegicus	promethazine	Control	0	milligram per kilogram	24	hour	003017410007.CEL
+10747	liver	Rattus norvegicus	promethazine	Control	0	milligram per kilogram	24	hour	003017410008.CEL
+10781	liver	Rattus norvegicus	promethazine	High	200	milligram per kilogram	24	hour	003017388015.CEL
+10782	liver	Rattus norvegicus	promethazine	High	200	milligram per kilogram	24	hour	003017388016.CEL
+10783	liver	Rattus norvegicus	promethazine	High	200	milligram per kilogram	24	hour	003017410014.CEL
+10788	hepatocyte	Rattus norvegicus	promethazine	Control	0	micromolar	24	hour	003017325019.CEL
+10789	hepatocyte	Rattus norvegicus	promethazine	Control	0	micromolar	24	hour	003017325020.CEL
+10806	hepatocyte	Rattus norvegicus	promethazine	High	80	micromolar	24	hour	003017325025.CEL
+10807	hepatocyte	Rattus norvegicus	promethazine	High	80	micromolar	24	hour	003017325026.CEL
+10812	hepatocyte	Homo sapiens	propylthiouracil	Control	0	micromolar	24	hour	003016039025.CEL
+10813	hepatocyte	Homo sapiens	propylthiouracil	Control	0	micromolar	24	hour	003016039026.CEL
+10830	hepatocyte	Homo sapiens	propylthiouracil	High	4000	micromolar	24	hour	003016040001.CEL
+10831	hepatocyte	Homo sapiens	propylthiouracil	High	4000	micromolar	24	hour	003016040002.CEL
+10841	liver	Rattus norvegicus	propylthiouracil	Control	0	milligram per kilogram	24	hour	003017699030.CEL
+10842	liver	Rattus norvegicus	propylthiouracil	Control	0	milligram per kilogram	24	hour	003017700025.CEL
+10843	liver	Rattus norvegicus	propylthiouracil	Control	0	milligram per kilogram	24	hour	003017700026.CEL
+10877	liver	Rattus norvegicus	propylthiouracil	High	100	milligram per kilogram	24	hour	003017701003.CEL
+10878	liver	Rattus norvegicus	propylthiouracil	High	100	milligram per kilogram	24	hour	003017701004.CEL
+10879	liver	Rattus norvegicus	propylthiouracil	High	100	milligram per kilogram	24	hour	003017701005.CEL
+10884	hepatocyte	Rattus norvegicus	propylthiouracil	Control	0	micromolar	24	hour	003017074012.CEL
+10885	hepatocyte	Rattus norvegicus	propylthiouracil	Control	0	micromolar	24	hour	003017074013.CEL
+10902	hepatocyte	Rattus norvegicus	propylthiouracil	High	4000	micromolar	24	hour	003017074018.CEL
+10903	hepatocyte	Rattus norvegicus	propylthiouracil	High	4000	micromolar	24	hour	003017100001.CEL
+10913	liver	Rattus norvegicus	puromycin aminonucleoside	Control	0	milligram per kilogram	24	hour	003017577027.CEL
+10914	liver	Rattus norvegicus	puromycin aminonucleoside	Control	0	milligram per kilogram	24	hour	003017577028.CEL
+10915	liver	Rattus norvegicus	puromycin aminonucleoside	Control	0	milligram per kilogram	24	hour	003017577029.CEL
+10949	liver	Rattus norvegicus	puromycin aminonucleoside	High	120	milligram per kilogram	24	hour	003017578006.CEL
+10950	liver	Rattus norvegicus	puromycin aminonucleoside	High	120	milligram per kilogram	24	hour	003017578007.CEL
+10951	liver	Rattus norvegicus	puromycin aminonucleoside	High	120	milligram per kilogram	24	hour	003017578008.CEL
+10961	kidney	Rattus norvegicus	puromycin aminonucleoside	Control	0	milligram per kilogram	24	hour	003017563012.CEL
+10962	kidney	Rattus norvegicus	puromycin aminonucleoside	Control	0	milligram per kilogram	24	hour	003017563013.CEL
+10963	kidney	Rattus norvegicus	puromycin aminonucleoside	Control	0	milligram per kilogram	24	hour	003017563014.CEL
+10997	kidney	Rattus norvegicus	puromycin aminonucleoside	High	120	milligram per kilogram	24	hour	003017563021.CEL
+10998	kidney	Rattus norvegicus	puromycin aminonucleoside	High	120	milligram per kilogram	24	hour	003017563022.CEL
+10999	kidney	Rattus norvegicus	puromycin aminonucleoside	High	120	milligram per kilogram	24	hour	003017563023.CEL
+11004	hepatocyte	Rattus norvegicus	puromycin aminonucleoside	Control	0	micromolar	24	hour	003017525027.CEL
+11005	hepatocyte	Rattus norvegicus	puromycin aminonucleoside	Control	0	micromolar	24	hour	003017525028.CEL
+11022	hepatocyte	Rattus norvegicus	puromycin aminonucleoside	High	2500	micromolar	24	hour	003017526003.CEL
+11023	hepatocyte	Rattus norvegicus	puromycin aminonucleoside	High	2500	micromolar	24	hour	003017527017.CEL
+11026	hepatocyte	Homo sapiens	quinidine	Control	0	micromolar	24	hour	003016063002.CEL
+11027	hepatocyte	Homo sapiens	quinidine	Control	0	micromolar	24	hour	003016063003.CEL
+11034	hepatocyte	Homo sapiens	quinidine	High	50	micromolar	24	hour	003016063006.CEL
+11035	hepatocyte	Homo sapiens	quinidine	High	50	micromolar	24	hour	003016063007.CEL
+11045	liver	Rattus norvegicus	quinidine	Control	0	milligram per kilogram	24	hour	003017152008.CEL
+11046	liver	Rattus norvegicus	quinidine	Control	0	milligram per kilogram	24	hour	003017152009.CEL
+11047	liver	Rattus norvegicus	quinidine	Control	0	milligram per kilogram	24	hour	003017152010.CEL
+11081	liver	Rattus norvegicus	quinidine	High	200	milligram per kilogram	24	hour	003017152017.CEL
+11082	liver	Rattus norvegicus	quinidine	High	200	milligram per kilogram	24	hour	003017152018.CEL
+11083	liver	Rattus norvegicus	quinidine	High	200	milligram per kilogram	24	hour	003017152019.CEL
+11088	hepatocyte	Rattus norvegicus	quinidine	Control	0	micromolar	24	hour	003017267012.CEL
+11089	hepatocyte	Rattus norvegicus	quinidine	Control	0	micromolar	24	hour	003017267013.CEL
+11106	hepatocyte	Rattus norvegicus	quinidine	High	200	micromolar	24	hour	003017267018.CEL
+11107	hepatocyte	Rattus norvegicus	quinidine	High	200	micromolar	24	hour	003017267019.CEL
+11110	hepatocyte	Homo sapiens	ranitidine	Control	0	micromolar	24	hour	003016070020.CEL
+11111	hepatocyte	Homo sapiens	ranitidine	Control	0	micromolar	24	hour	003016070021.CEL
+11118	hepatocyte	Homo sapiens	ranitidine	High	4000	micromolar	24	hour	003016070024.CEL
+11119	hepatocyte	Homo sapiens	ranitidine	High	4000	micromolar	24	hour	003016070025.CEL
+11129	liver	Rattus norvegicus	ranitidine	Control	0	milligram per kilogram	24	hour	003017405025.CEL
+11130	liver	Rattus norvegicus	ranitidine	Control	0	milligram per kilogram	24	hour	003017405026.CEL
+11131	liver	Rattus norvegicus	ranitidine	Control	0	milligram per kilogram	24	hour	003017405027.CEL
+11165	liver	Rattus norvegicus	ranitidine	High	1000	milligram per kilogram	24	hour	003017406004.CEL
+11166	liver	Rattus norvegicus	ranitidine	High	1000	milligram per kilogram	24	hour	003017406005.CEL
+11167	liver	Rattus norvegicus	ranitidine	High	1000	milligram per kilogram	24	hour	003017406006.CEL
+11172	hepatocyte	Rattus norvegicus	ranitidine	Control	0	micromolar	24	hour	003017255001.CEL
+11173	hepatocyte	Rattus norvegicus	ranitidine	Control	0	micromolar	24	hour	003017255002.CEL
+11190	hepatocyte	Rattus norvegicus	ranitidine	High	4000	micromolar	24	hour	003017254030.CEL
+11191	hepatocyte	Rattus norvegicus	ranitidine	High	4000	micromolar	24	hour	003017255007.CEL
+11196	hepatocyte	Homo sapiens	rifampicin	Control	0	micromolar	24	hour	003016013017.CEL
+11197	hepatocyte	Homo sapiens	rifampicin	Control	0	micromolar	24	hour	003016013018.CEL
+11214	hepatocyte	Homo sapiens	rifampicin	High	70	micromolar	24	hour	003016013023.CEL
+11215	hepatocyte	Homo sapiens	rifampicin	High	70	micromolar	24	hour	003016013024.CEL
+11225	liver	Rattus norvegicus	rifampicin	Control	0	milligram per kilogram	24	hour	003017666013.CEL
+11226	liver	Rattus norvegicus	rifampicin	Control	0	milligram per kilogram	24	hour	003017666014.CEL
+11227	liver	Rattus norvegicus	rifampicin	Control	0	milligram per kilogram	24	hour	003017666015.CEL
+11261	liver	Rattus norvegicus	rifampicin	High	200	milligram per kilogram	24	hour	003017666022.CEL
+11262	liver	Rattus norvegicus	rifampicin	High	200	milligram per kilogram	24	hour	003017666023.CEL
+11263	liver	Rattus norvegicus	rifampicin	High	200	milligram per kilogram	24	hour	003017666024.CEL
+11273	kidney	Rattus norvegicus	rifampicin	Control	0	milligram per kilogram	24	hour	003017437014.CEL
+11274	kidney	Rattus norvegicus	rifampicin	Control	0	milligram per kilogram	24	hour	003017437015.CEL
+11275	kidney	Rattus norvegicus	rifampicin	Control	0	milligram per kilogram	24	hour	003017437016.CEL
+11309	kidney	Rattus norvegicus	rifampicin	High	200	milligram per kilogram	24	hour	003017437023.CEL
+11310	kidney	Rattus norvegicus	rifampicin	High	200	milligram per kilogram	24	hour	003017437024.CEL
+11311	kidney	Rattus norvegicus	rifampicin	High	200	milligram per kilogram	24	hour	003017437025.CEL
+11316	hepatocyte	Rattus norvegicus	rifampicin	Control	0	micromolar	24	hour	003017010029.CEL
+11317	hepatocyte	Rattus norvegicus	rifampicin	Control	0	micromolar	24	hour	003017010030.CEL
+11334	hepatocyte	Rattus norvegicus	rifampicin	High	70	micromolar	24	hour	003017011030.CEL
+11335	hepatocyte	Rattus norvegicus	rifampicin	High	70	micromolar	24	hour	003017037012.CEL
+11338	hepatocyte	Homo sapiens	simvastatin	Control	0	micromolar	24	hour	003016078029.CEL
+11339	hepatocyte	Homo sapiens	simvastatin	Control	0	micromolar	24	hour	003016079020.CEL
+11346	hepatocyte	Homo sapiens	simvastatin	High	30	micromolar	24	hour	003016079002.CEL
+11347	hepatocyte	Homo sapiens	simvastatin	High	30	micromolar	24	hour	003016079003.CEL
+11357	liver	Rattus norvegicus	simvastatin	Control	0	milligram per kilogram	24	hour	003017402010.CEL
+11358	liver	Rattus norvegicus	simvastatin	Control	0	milligram per kilogram	24	hour	003017402011.CEL
+11359	liver	Rattus norvegicus	simvastatin	Control	0	milligram per kilogram	24	hour	003017402012.CEL
+11393	liver	Rattus norvegicus	simvastatin	High	400	milligram per kilogram	24	hour	003017402017.CEL
+11394	liver	Rattus norvegicus	simvastatin	High	400	milligram per kilogram	24	hour	003017402018.CEL
+11395	liver	Rattus norvegicus	simvastatin	High	400	milligram per kilogram	24	hour	003017402019.CEL
+11400	hepatocyte	Rattus norvegicus	simvastatin	Control	0	micromolar	24	hour	003017335007.CEL
+11401	hepatocyte	Rattus norvegicus	simvastatin	Control	0	micromolar	24	hour	003017335008.CEL
+11418	hepatocyte	Rattus norvegicus	simvastatin	High	60	micromolar	24	hour	003017335013.CEL
+11419	hepatocyte	Rattus norvegicus	simvastatin	High	60	micromolar	24	hour	003017335014.CEL
+11424	hepatocyte	Homo sapiens	sulfasalazine	Control	0	micromolar	24	hour	003016034004.CEL
+11425	hepatocyte	Homo sapiens	sulfasalazine	Control	0	micromolar	24	hour	003016034005.CEL
+11442	hepatocyte	Homo sapiens	sulfasalazine	High	150	micromolar	24	hour	003016034010.CEL
+11443	hepatocyte	Homo sapiens	sulfasalazine	High	150	micromolar	24	hour	003016034011.CEL
+11453	liver	Rattus norvegicus	sulfasalazine	Control	0	milligram per kilogram	24	hour	003017685005.CEL
+11454	liver	Rattus norvegicus	sulfasalazine	Control	0	milligram per kilogram	24	hour	003017685006.CEL
+11455	liver	Rattus norvegicus	sulfasalazine	Control	0	milligram per kilogram	24	hour	003017685007.CEL
+11489	liver	Rattus norvegicus	sulfasalazine	High	1000	milligram per kilogram	24	hour	003017685014.CEL
+11490	liver	Rattus norvegicus	sulfasalazine	High	1000	milligram per kilogram	24	hour	003017685015.CEL
+11491	liver	Rattus norvegicus	sulfasalazine	High	1000	milligram per kilogram	24	hour	003017685016.CEL
+11496	hepatocyte	Rattus norvegicus	sulfasalazine	Control	0	micromolar	24	hour	003017118028.CEL
+11497	hepatocyte	Rattus norvegicus	sulfasalazine	Control	0	micromolar	24	hour	003017118029.CEL
+11514	hepatocyte	Rattus norvegicus	sulfasalazine	High	100	micromolar	24	hour	003017119004.CEL
+11515	hepatocyte	Rattus norvegicus	sulfasalazine	High	100	micromolar	24	hour	003017119005.CEL
+11518	hepatocyte	Homo sapiens	sulindac	Control	0	micromolar	24	hour	003016073017.CEL
+11519	hepatocyte	Homo sapiens	sulindac	Control	0	micromolar	24	hour	003016073018.CEL
+11526	hepatocyte	Homo sapiens	sulindac	High	3000	micromolar	24	hour	003016073021.CEL
+11527	hepatocyte	Homo sapiens	sulindac	High	3000	micromolar	24	hour	003016073022.CEL
+11537	liver	Rattus norvegicus	sulindac	Control	0	milligram per kilogram	24	hour	003017378017.CEL
+11538	liver	Rattus norvegicus	sulindac	Control	0	milligram per kilogram	24	hour	003017378018.CEL
+11539	liver	Rattus norvegicus	sulindac	Control	0	milligram per kilogram	24	hour	003017378019.CEL
+11573	liver	Rattus norvegicus	sulindac	High	150	milligram per kilogram	24	hour	003017378026.CEL
+11574	liver	Rattus norvegicus	sulindac	High	150	milligram per kilogram	24	hour	003017378027.CEL
+11575	liver	Rattus norvegicus	sulindac	High	150	milligram per kilogram	24	hour	003017378028.CEL
+11580	hepatocyte	Rattus norvegicus	sulindac	Control	0	micromolar	24	hour	003017293003.CEL
+11581	hepatocyte	Rattus norvegicus	sulindac	Control	0	micromolar	24	hour	003017293004.CEL
+11598	hepatocyte	Rattus norvegicus	sulindac	High	2000	micromolar	24	hour	003017293009.CEL
+11599	hepatocyte	Rattus norvegicus	sulindac	High	2000	micromolar	24	hour	003017293010.CEL
+11602	hepatocyte	Homo sapiens	sulpiride	Control	0	micromolar	24	hour	003016084021.CEL
+11603	hepatocyte	Homo sapiens	sulpiride	Control	0	micromolar	24	hour	003016084022.CEL
+11610	hepatocyte	Homo sapiens	sulpiride	High	5000	micromolar	24	hour	003016084025.CEL
+11611	hepatocyte	Homo sapiens	sulpiride	High	5000	micromolar	24	hour	003016084026.CEL
+11621	liver	Rattus norvegicus	sulpiride	Control	0	milligram per kilogram	24	hour	003017380029.CEL
+11622	liver	Rattus norvegicus	sulpiride	Control	0	milligram per kilogram	24	hour	003017380030.CEL
+11623	liver	Rattus norvegicus	sulpiride	Control	0	milligram per kilogram	24	hour	003017381001.CEL
+11657	liver	Rattus norvegicus	sulpiride	High	2000	milligram per kilogram	24	hour	003017381008.CEL
+11658	liver	Rattus norvegicus	sulpiride	High	2000	milligram per kilogram	24	hour	003017381009.CEL
+11659	liver	Rattus norvegicus	sulpiride	High	2000	milligram per kilogram	24	hour	003017381010.CEL
+11664	hepatocyte	Rattus norvegicus	sulpiride	Control	0	micromolar	24	hour	003017323030.CEL
+11665	hepatocyte	Rattus norvegicus	sulpiride	Control	0	micromolar	24	hour	003017324001.CEL
+11682	hepatocyte	Rattus norvegicus	sulpiride	High	5000	micromolar	24	hour	003017324006.CEL
+11683	hepatocyte	Rattus norvegicus	sulpiride	High	5000	micromolar	24	hour	003017324007.CEL
+11686	hepatocyte	Homo sapiens	tacrine	Control	0	micromolar	24	hour	003016063014.CEL
+11687	hepatocyte	Homo sapiens	tacrine	Control	0	micromolar	24	hour	003016063015.CEL
+11694	hepatocyte	Homo sapiens	tacrine	High	80	micromolar	24	hour	003016063018.CEL
+11695	hepatocyte	Homo sapiens	tacrine	High	80	micromolar	24	hour	003016063019.CEL
+11705	liver	Rattus norvegicus	tacrine	Control	0	milligram per kilogram	24	hour	003017090013.CEL
+11706	liver	Rattus norvegicus	tacrine	Control	0	milligram per kilogram	24	hour	003017090014.CEL
+11707	liver	Rattus norvegicus	tacrine	Control	0	milligram per kilogram	24	hour	003017090015.CEL
+11741	liver	Rattus norvegicus	tacrine	High	30	milligram per kilogram	24	hour	003017089028.CEL
+11742	liver	Rattus norvegicus	tacrine	High	30	milligram per kilogram	24	hour	003017089029.CEL
+11743	liver	Rattus norvegicus	tacrine	High	30	milligram per kilogram	24	hour	003017089030.CEL
+11748	hepatocyte	Rattus norvegicus	tacrine	Control	0	micromolar	24	hour	003017218003.CEL
+11749	hepatocyte	Rattus norvegicus	tacrine	Control	0	micromolar	24	hour	003017218004.CEL
+11766	hepatocyte	Rattus norvegicus	tacrine	High	200	micromolar	24	hour	003017218009.CEL
+11767	hepatocyte	Rattus norvegicus	tacrine	High	200	micromolar	24	hour	003017218010.CEL
+11770	hepatocyte	Homo sapiens	tamoxifen	Control	0	micromolar	24	hour	003016060020.CEL
+11771	hepatocyte	Homo sapiens	tamoxifen	Control	0	micromolar	24	hour	003016060021.CEL
+11778	hepatocyte	Homo sapiens	tamoxifen	High	25	micromolar	24	hour	003016060024.CEL
+11779	hepatocyte	Homo sapiens	tamoxifen	High	25	micromolar	24	hour	003016060025.CEL
+11789	liver	Rattus norvegicus	tamoxifen	Control	0	milligram per kilogram	24	hour	003017046015.CEL
+11790	liver	Rattus norvegicus	tamoxifen	Control	0	milligram per kilogram	24	hour	003017046016.CEL
+11791	liver	Rattus norvegicus	tamoxifen	Control	0	milligram per kilogram	24	hour	003017046017.CEL
+11825	liver	Rattus norvegicus	tamoxifen	High	60	milligram per kilogram	24	hour	003017046024.CEL
+11826	liver	Rattus norvegicus	tamoxifen	High	60	milligram per kilogram	24	hour	003017046025.CEL
+11827	liver	Rattus norvegicus	tamoxifen	High	60	milligram per kilogram	24	hour	003017046026.CEL
+11832	hepatocyte	Rattus norvegicus	tamoxifen	Control	0	micromolar	24	hour	003017149006.CEL
+11833	hepatocyte	Rattus norvegicus	tamoxifen	Control	0	micromolar	24	hour	003017149007.CEL
+11850	hepatocyte	Rattus norvegicus	tamoxifen	High	3	micromolar	24	hour	003017149012.CEL
+11851	hepatocyte	Rattus norvegicus	tamoxifen	High	3	micromolar	24	hour	003017149013.CEL
+11854	hepatocyte	Homo sapiens	tannic acid	Control	0	micromolar	24	hour	003016071002.CEL
+11855	hepatocyte	Homo sapiens	tannic acid	Control	0	micromolar	24	hour	003016071003.CEL
+11862	hepatocyte	Homo sapiens	tannic acid	High	5	micromolar	24	hour	003016071006.CEL
+11863	hepatocyte	Homo sapiens	tannic acid	High	5	micromolar	24	hour	003016071007.CEL
+11873	liver	Rattus norvegicus	tannic acid	Control	0	milligram per kilogram	24	hour	003017422013.CEL
+11874	liver	Rattus norvegicus	tannic acid	Control	0	milligram per kilogram	24	hour	003017422014.CEL
+11875	liver	Rattus norvegicus	tannic acid	Control	0	milligram per kilogram	24	hour	003017422015.CEL
+11909	liver	Rattus norvegicus	tannic acid	High	1000	milligram per kilogram	24	hour	003017422022.CEL
+11910	liver	Rattus norvegicus	tannic acid	High	1000	milligram per kilogram	24	hour	003017422023.CEL
+11911	liver	Rattus norvegicus	tannic acid	High	1000	milligram per kilogram	24	hour	003017422024.CEL
+11916	hepatocyte	Rattus norvegicus	tannic acid	Control	0	micromolar	24	hour	003017289026.CEL
+11917	hepatocyte	Rattus norvegicus	tannic acid	Control	0	micromolar	24	hour	003017289027.CEL
+11934	hepatocyte	Rattus norvegicus	tannic acid	High	10	micromolar	24	hour	003017290002.CEL
+11935	hepatocyte	Rattus norvegicus	tannic acid	High	10	micromolar	24	hour	003017290003.CEL
+11938	hepatocyte	Homo sapiens	terbinafine	Control	0	micromolar	24	hour	003016085027.CEL
+11939	hepatocyte	Homo sapiens	terbinafine	Control	0	micromolar	24	hour	003016085028.CEL
+11946	hepatocyte	Homo sapiens	terbinafine	High	15	micromolar	24	hour	003016086001.CEL
+11947	hepatocyte	Homo sapiens	terbinafine	High	15	micromolar	24	hour	003016086002.CEL
+11957	liver	Rattus norvegicus	terbinafine	Control	0	milligram per kilogram	24	hour	003017393021.CEL
+11958	liver	Rattus norvegicus	terbinafine	Control	0	milligram per kilogram	24	hour	003017393022.CEL
+11959	liver	Rattus norvegicus	terbinafine	Control	0	milligram per kilogram	24	hour	003017393023.CEL
+11993	liver	Rattus norvegicus	terbinafine	High	750	milligram per kilogram	24	hour	003017393029.CEL
+11994	liver	Rattus norvegicus	terbinafine	High	750	milligram per kilogram	24	hour	003017393030.CEL
+11995	liver	Rattus norvegicus	terbinafine	High	750	milligram per kilogram	24	hour	003017394001.CEL
+12000	hepatocyte	Rattus norvegicus	terbinafine	Control	0	micromolar	24	hour	003017359015.CEL
+12001	hepatocyte	Rattus norvegicus	terbinafine	Control	0	micromolar	24	hour	003017359016.CEL
+12018	hepatocyte	Rattus norvegicus	terbinafine	High	15	micromolar	24	hour	003017359021.CEL
+12019	hepatocyte	Rattus norvegicus	terbinafine	High	15	micromolar	24	hour	003017359022.CEL
+12024	hepatocyte	Homo sapiens	tetracycline	Control	0	micromolar	24	hour	003016042017.CEL
+12025	hepatocyte	Homo sapiens	tetracycline	Control	0	micromolar	24	hour	003016042018.CEL
+12042	hepatocyte	Homo sapiens	tetracycline	High	25	micromolar	24	hour	003016041029.CEL
+12043	hepatocyte	Homo sapiens	tetracycline	High	25	micromolar	24	hour	003016041030.CEL
+12053	liver	Rattus norvegicus	tetracycline	Control	0	milligram per kilogram	24	hour	003017070004.CEL
+12054	liver	Rattus norvegicus	tetracycline	Control	0	milligram per kilogram	24	hour	003017070005.CEL
+12055	liver	Rattus norvegicus	tetracycline	Control	0	milligram per kilogram	24	hour	003017070006.CEL
+12089	liver	Rattus norvegicus	tetracycline	High	1000	milligram per kilogram	24	hour	003017070013.CEL
+12090	liver	Rattus norvegicus	tetracycline	High	1000	milligram per kilogram	24	hour	003017070014.CEL
+12091	liver	Rattus norvegicus	tetracycline	High	1000	milligram per kilogram	24	hour	003017070015.CEL
+12096	hepatocyte	Rattus norvegicus	tetracycline	Control	0	micromolar	24	hour	003017155006.CEL
+12097	hepatocyte	Rattus norvegicus	tetracycline	Control	0	micromolar	24	hour	003017155007.CEL
+12114	hepatocyte	Rattus norvegicus	tetracycline	High	25	micromolar	24	hour	003017155012.CEL
+12115	hepatocyte	Rattus norvegicus	tetracycline	High	25	micromolar	24	hour	003017155013.CEL
+12118	hepatocyte	Homo sapiens	theophylline	Control	0	micromolar	24	hour	003016073003.CEL
+12119	hepatocyte	Homo sapiens	theophylline	Control	0	micromolar	24	hour	003016073004.CEL
+12126	hepatocyte	Homo sapiens	theophylline	High	10000	micromolar	24	hour	003016073007.CEL
+12127	hepatocyte	Homo sapiens	theophylline	High	10000	micromolar	24	hour	003016073008.CEL
+12137	liver	Rattus norvegicus	theophylline	Control	0	milligram per kilogram	24	hour	003017411024.CEL
+12138	liver	Rattus norvegicus	theophylline	Control	0	milligram per kilogram	24	hour	003017411025.CEL
+12139	liver	Rattus norvegicus	theophylline	Control	0	milligram per kilogram	24	hour	003017411026.CEL
+12173	liver	Rattus norvegicus	theophylline	High	200	milligram per kilogram	24	hour	003017412003.CEL
+12174	liver	Rattus norvegicus	theophylline	High	200	milligram per kilogram	24	hour	003017412004.CEL
+12175	liver	Rattus norvegicus	theophylline	High	200	milligram per kilogram	24	hour	003017412005.CEL
+12180	hepatocyte	Rattus norvegicus	theophylline	Control	0	micromolar	24	hour	003017301017.CEL
+12181	hepatocyte	Rattus norvegicus	theophylline	Control	0	micromolar	24	hour	003017301018.CEL
+12198	hepatocyte	Rattus norvegicus	theophylline	High	10000	micromolar	24	hour	003017301023.CEL
+12199	hepatocyte	Rattus norvegicus	theophylline	High	10000	micromolar	24	hour	003017301024.CEL
+12204	hepatocyte	Homo sapiens	thioacetamide	Control	0	micromolar	24	hour	003016050022.CEL
+12205	hepatocyte	Homo sapiens	thioacetamide	Control	0	micromolar	24	hour	003016050023.CEL
+12222	hepatocyte	Homo sapiens	thioacetamide	High	10000	micromolar	24	hour	003016050028.CEL
+12223	hepatocyte	Homo sapiens	thioacetamide	High	10000	micromolar	24	hour	003016050029.CEL
+12233	liver	Rattus norvegicus	thioacetamide	Control	0	milligram per kilogram	24	hour	003017663018.CEL
+12234	liver	Rattus norvegicus	thioacetamide	Control	0	milligram per kilogram	24	hour	003017663019.CEL
+12235	liver	Rattus norvegicus	thioacetamide	Control	0	milligram per kilogram	24	hour	003017663020.CEL
+12269	liver	Rattus norvegicus	thioacetamide	High	45	milligram per kilogram	24	hour	003017663027.CEL
+12270	liver	Rattus norvegicus	thioacetamide	High	45	milligram per kilogram	24	hour	003017663028.CEL
+12271	liver	Rattus norvegicus	thioacetamide	High	45	milligram per kilogram	24	hour	003017663029.CEL
+12281	kidney	Rattus norvegicus	thioacetamide	Control	0	milligram per kilogram	24	hour	003017458019.CEL
+12282	kidney	Rattus norvegicus	thioacetamide	Control	0	milligram per kilogram	24	hour	003017458020.CEL
+12283	kidney	Rattus norvegicus	thioacetamide	Control	0	milligram per kilogram	24	hour	003017458021.CEL
+12317	kidney	Rattus norvegicus	thioacetamide	High	45	milligram per kilogram	24	hour	003017458028.CEL
+12318	kidney	Rattus norvegicus	thioacetamide	High	45	milligram per kilogram	24	hour	003017458029.CEL
+12319	kidney	Rattus norvegicus	thioacetamide	High	45	milligram per kilogram	24	hour	003017458030.CEL
+12324	hepatocyte	Rattus norvegicus	thioacetamide	Control	0	micromolar	24	hour	003017032010.CEL
+12325	hepatocyte	Rattus norvegicus	thioacetamide	Control	0	micromolar	24	hour	003017032011.CEL
+12342	hepatocyte	Rattus norvegicus	thioacetamide	High	10000	micromolar	24	hour	003017032016.CEL
+12343	hepatocyte	Rattus norvegicus	thioacetamide	High	10000	micromolar	24	hour	003017032017.CEL
+12348	hepatocyte	Homo sapiens	thioridazine	Control	0	micromolar	24	hour	003016048001.CEL
+12349	hepatocyte	Homo sapiens	thioridazine	Control	0	micromolar	24	hour	003016048002.CEL
+12366	hepatocyte	Homo sapiens	thioridazine	High	15	micromolar	24	hour	003016048007.CEL
+12367	hepatocyte	Homo sapiens	thioridazine	High	15	micromolar	24	hour	003016048008.CEL
+12377	liver	Rattus norvegicus	thioridazine	Control	0	milligram per kilogram	24	hour	003017051018.CEL
+12378	liver	Rattus norvegicus	thioridazine	Control	0	milligram per kilogram	24	hour	003017051019.CEL
+12379	liver	Rattus norvegicus	thioridazine	Control	0	milligram per kilogram	24	hour	003017051020.CEL
+12413	liver	Rattus norvegicus	thioridazine	High	100	milligram per kilogram	24	hour	003017051027.CEL
+12414	liver	Rattus norvegicus	thioridazine	High	100	milligram per kilogram	24	hour	003017051028.CEL
+12415	liver	Rattus norvegicus	thioridazine	High	100	milligram per kilogram	24	hour	003017051029.CEL
+12420	hepatocyte	Rattus norvegicus	thioridazine	Control	0	micromolar	24	hour	003017103024.CEL
+12421	hepatocyte	Rattus norvegicus	thioridazine	Control	0	micromolar	24	hour	003017103025.CEL
+12438	hepatocyte	Rattus norvegicus	thioridazine	High	10	micromolar	24	hour	003017103030.CEL
+12439	hepatocyte	Rattus norvegicus	thioridazine	High	10	micromolar	24	hour	003017104001.CEL
+12442	hepatocyte	Homo sapiens	ticlopidine	Control	0	micromolar	24	hour	003016083014.CEL
+12443	hepatocyte	Homo sapiens	ticlopidine	Control	0	micromolar	24	hour	003016083015.CEL
+12450	hepatocyte	Homo sapiens	ticlopidine	High	20	micromolar	24	hour	003016083018.CEL
+12451	hepatocyte	Homo sapiens	ticlopidine	High	20	micromolar	24	hour	003016083019.CEL
+12461	liver	Rattus norvegicus	ticlopidine	Control	0	milligram per kilogram	24	hour	003017502022.CEL
+12462	liver	Rattus norvegicus	ticlopidine	Control	0	milligram per kilogram	24	hour	003017502023.CEL
+12463	liver	Rattus norvegicus	ticlopidine	Control	0	milligram per kilogram	24	hour	003017502024.CEL
+12497	liver	Rattus norvegicus	ticlopidine	High	1000	milligram per kilogram	24	hour	003017503001.CEL
+12498	liver	Rattus norvegicus	ticlopidine	High	1000	milligram per kilogram	24	hour	003017503002.CEL
+12499	liver	Rattus norvegicus	ticlopidine	High	1000	milligram per kilogram	24	hour	003017503003.CEL
+12504	hepatocyte	Rattus norvegicus	ticlopidine	Control	0	micromolar	24	hour	003017373027.CEL
+12505	hepatocyte	Rattus norvegicus	ticlopidine	Control	0	micromolar	24	hour	003017373028.CEL
+12522	hepatocyte	Rattus norvegicus	ticlopidine	High	60	micromolar	24	hour	003017374003.CEL
+12523	hepatocyte	Rattus norvegicus	ticlopidine	High	60	micromolar	24	hour	003017374004.CEL
+12526	hepatocyte	Homo sapiens	tiopronin	Control	0	micromolar	24	hour	003016083026.CEL
+12527	hepatocyte	Homo sapiens	tiopronin	Control	0	micromolar	24	hour	003016083027.CEL
+12534	hepatocyte	Homo sapiens	tiopronin	High	2000	micromolar	24	hour	003016083030.CEL
+12535	hepatocyte	Homo sapiens	tiopronin	High	2000	micromolar	24	hour	003016084001.CEL
+12545	liver	Rattus norvegicus	tiopronin	Control	0	milligram per kilogram	24	hour	003017265020.CEL
+12546	liver	Rattus norvegicus	tiopronin	Control	0	milligram per kilogram	24	hour	003017265021.CEL
+12547	liver	Rattus norvegicus	tiopronin	Control	0	milligram per kilogram	24	hour	003017265022.CEL
+12581	liver	Rattus norvegicus	tiopronin	High	1000	milligram per kilogram	24	hour	003017265029.CEL
+12582	liver	Rattus norvegicus	tiopronin	High	1000	milligram per kilogram	24	hour	003017265030.CEL
+12583	liver	Rattus norvegicus	tiopronin	High	1000	milligram per kilogram	24	hour	003017266001.CEL
+12588	hepatocyte	Rattus norvegicus	tiopronin	Control	0	micromolar	24	hour	003017305018.CEL
+12589	hepatocyte	Rattus norvegicus	tiopronin	Control	0	micromolar	24	hour	003017305019.CEL
+12606	hepatocyte	Rattus norvegicus	tiopronin	High	25	micromolar	24	hour	003017305024.CEL
+12607	hepatocyte	Rattus norvegicus	tiopronin	High	25	micromolar	24	hour	003017305025.CEL
+12610	hepatocyte	Homo sapiens	tolbutamide	Control	0	micromolar	24	hour	003016078001.CEL
+12611	hepatocyte	Homo sapiens	tolbutamide	Control	0	micromolar	24	hour	003016078002.CEL
+12618	hepatocyte	Homo sapiens	tolbutamide	High	2000	micromolar	24	hour	003016078005.CEL
+12619	hepatocyte	Homo sapiens	tolbutamide	High	2000	micromolar	24	hour	003016078006.CEL
+12629	liver	Rattus norvegicus	tolbutamide	Control	0	milligram per kilogram	24	hour	003017380005.CEL
+12630	liver	Rattus norvegicus	tolbutamide	Control	0	milligram per kilogram	24	hour	003017380006.CEL
+12631	liver	Rattus norvegicus	tolbutamide	Control	0	milligram per kilogram	24	hour	003017380007.CEL
+12665	liver	Rattus norvegicus	tolbutamide	High	1000	milligram per kilogram	24	hour	003017380014.CEL
+12666	liver	Rattus norvegicus	tolbutamide	High	1000	milligram per kilogram	24	hour	003017380015.CEL
+12667	liver	Rattus norvegicus	tolbutamide	High	1000	milligram per kilogram	24	hour	003017380016.CEL
+12672	hepatocyte	Rattus norvegicus	tolbutamide	Control	0	micromolar	24	hour	003017332025.CEL
+12673	hepatocyte	Rattus norvegicus	tolbutamide	Control	0	micromolar	24	hour	003017332026.CEL
+12690	hepatocyte	Rattus norvegicus	tolbutamide	High	2000	micromolar	24	hour	003017333001.CEL
+12691	hepatocyte	Rattus norvegicus	tolbutamide	High	2000	micromolar	24	hour	003017333002.CEL
+12701	liver	Rattus norvegicus	triamterene	Control	0	milligram per kilogram	24	hour	003017366018.CEL
+12702	liver	Rattus norvegicus	triamterene	Control	0	milligram per kilogram	24	hour	003017366019.CEL
+12703	liver	Rattus norvegicus	triamterene	Control	0	milligram per kilogram	24	hour	003017366020.CEL
+12737	liver	Rattus norvegicus	triamterene	High	150	milligram per kilogram	24	hour	003017366027.CEL
+12738	liver	Rattus norvegicus	triamterene	High	150	milligram per kilogram	24	hour	003017366028.CEL
+12739	liver	Rattus norvegicus	triamterene	High	150	milligram per kilogram	24	hour	003017366029.CEL
+12749	kidney	Rattus norvegicus	triamterene	Control	0	milligram per kilogram	24	hour	003017784018.CEL
+12750	kidney	Rattus norvegicus	triamterene	Control	0	milligram per kilogram	24	hour	003017784019.CEL
+12751	kidney	Rattus norvegicus	triamterene	Control	0	milligram per kilogram	24	hour	003017784020.CEL
+12785	kidney	Rattus norvegicus	triamterene	High	150	milligram per kilogram	24	hour	003017784027.CEL
+12786	kidney	Rattus norvegicus	triamterene	High	150	milligram per kilogram	24	hour	003017784028.CEL
+12787	kidney	Rattus norvegicus	triamterene	High	150	milligram per kilogram	24	hour	003017784029.CEL
+12792	hepatocyte	Rattus norvegicus	triamterene	Control	0	micromolar	24	hour	003017297017.CEL
+12793	hepatocyte	Rattus norvegicus	triamterene	Control	0	micromolar	24	hour	003017297018.CEL
+12810	hepatocyte	Rattus norvegicus	triamterene	High	30	micromolar	24	hour	003017297023.CEL
+12811	hepatocyte	Rattus norvegicus	triamterene	High	30	micromolar	24	hour	003017297024.CEL
+12960	hepatocyte	Homo sapiens	valproic acid	Control	0	micromolar	24	hour	003016038004.CEL
+12961	hepatocyte	Homo sapiens	valproic acid	Control	0	micromolar	24	hour	003016038005.CEL
+12978	hepatocyte	Homo sapiens	valproic acid	High	5000	micromolar	24	hour	003016038010.CEL
+12979	hepatocyte	Homo sapiens	valproic acid	High	5000	micromolar	24	hour	003016038011.CEL
+12989	liver	Rattus norvegicus	valproic acid	Control	0	milligram per kilogram	24	hour	003017650018.CEL
+12990	liver	Rattus norvegicus	valproic acid	Control	0	milligram per kilogram	24	hour	003017650019.CEL
+12991	liver	Rattus norvegicus	valproic acid	Control	0	milligram per kilogram	24	hour	003017650020.CEL
+13025	liver	Rattus norvegicus	valproic acid	High	450	milligram per kilogram	24	hour	003017650027.CEL
+13026	liver	Rattus norvegicus	valproic acid	High	450	milligram per kilogram	24	hour	003017650028.CEL
+13027	liver	Rattus norvegicus	valproic acid	High	450	milligram per kilogram	24	hour	003017650029.CEL
+13037	kidney	Rattus norvegicus	valproic acid	Control	0	milligram per kilogram	24	hour	003017841011.CEL
+13038	kidney	Rattus norvegicus	valproic acid	Control	0	milligram per kilogram	24	hour	003017841012.CEL
+13039	kidney	Rattus norvegicus	valproic acid	Control	0	milligram per kilogram	24	hour	003017841013.CEL
+13073	kidney	Rattus norvegicus	valproic acid	High	450	milligram per kilogram	24	hour	003017841020.CEL
+13074	kidney	Rattus norvegicus	valproic acid	High	450	milligram per kilogram	24	hour	003017841021.CEL
+13075	kidney	Rattus norvegicus	valproic acid	High	450	milligram per kilogram	24	hour	003017841022.CEL
+13080	hepatocyte	Rattus norvegicus	valproic acid	Control	0	micromolar	24	hour	003017006017.CEL
+13081	hepatocyte	Rattus norvegicus	valproic acid	Control	0	micromolar	24	hour	003017006018.CEL
+13098	hepatocyte	Rattus norvegicus	valproic acid	High	10000	micromolar	24	hour	003017005029.CEL
+13099	hepatocyte	Rattus norvegicus	valproic acid	High	10000	micromolar	24	hour	003017005030.CEL
+13102	hepatocyte	Homo sapiens	vitamin A	Control	0	micromolar	24	hour	003016062020.CEL
+13103	hepatocyte	Homo sapiens	vitamin A	Control	0	micromolar	24	hour	003016062021.CEL
+13110	hepatocyte	Homo sapiens	vitamin A	High	07.maj	micromolar	24	hour	003016062024.CEL
+13111	hepatocyte	Homo sapiens	vitamin A	High	07.maj	micromolar	24	hour	003016062025.CEL
+13121	liver	Rattus norvegicus	vitamin A	Control	0	milligram per kilogram	24	hour	003017056030.CEL
+13122	liver	Rattus norvegicus	vitamin A	Control	0	milligram per kilogram	24	hour	003017057001.CEL
+13123	liver	Rattus norvegicus	vitamin A	Control	0	milligram per kilogram	24	hour	003017057002.CEL
+13157	liver	Rattus norvegicus	vitamin A	High	100	milligram per kilogram	24	hour	003017057009.CEL
+13158	liver	Rattus norvegicus	vitamin A	High	100	milligram per kilogram	24	hour	003017057010.CEL
+13159	liver	Rattus norvegicus	vitamin A	High	100	milligram per kilogram	24	hour	003017058006.CEL
+13164	hepatocyte	Rattus norvegicus	vitamin A	Control	0	micromolar	24	hour	003017169023.CEL
+13165	hepatocyte	Rattus norvegicus	vitamin A	Control	0	micromolar	24	hour	003017169024.CEL
+13182	hepatocyte	Rattus norvegicus	vitamin A	High	07.maj	micromolar	24	hour	003017169029.CEL
+13183	hepatocyte	Rattus norvegicus	vitamin A	High	07.maj	micromolar	24	hour	003017169030.CEL
+13188	hepatocyte	Homo sapiens	WY-14643	Control	0	micromolar	24	hour	003016024011.CEL
+13189	hepatocyte	Homo sapiens	WY-14643	Control	0	micromolar	24	hour	003016024012.CEL
+13206	hepatocyte	Homo sapiens	WY-14643	High	150	micromolar	24	hour	003016024017.CEL
+13207	hepatocyte	Homo sapiens	WY-14643	High	150	micromolar	24	hour	003016024018.CEL
+13217	liver	Rattus norvegicus	WY-14643	Control	0	milligram per kilogram	24	hour	003017689013.CEL
+13218	liver	Rattus norvegicus	WY-14643	Control	0	milligram per kilogram	24	hour	003017689014.CEL
+13219	liver	Rattus norvegicus	WY-14643	Control	0	milligram per kilogram	24	hour	003017689015.CEL
+13253	liver	Rattus norvegicus	WY-14643	High	100	milligram per kilogram	24	hour	003017688028.CEL
+13254	liver	Rattus norvegicus	WY-14643	High	100	milligram per kilogram	24	hour	003017688029.CEL
+13255	liver	Rattus norvegicus	WY-14643	High	100	milligram per kilogram	24	hour	003017688030.CEL
+13260	hepatocyte	Rattus norvegicus	WY-14643	Control	0	micromolar	24	hour	003017079019.CEL
+13261	hepatocyte	Rattus norvegicus	WY-14643	Control	0	micromolar	24	hour	003017079020.CEL
+13278	hepatocyte	Rattus norvegicus	WY-14643	High	200	micromolar	24	hour	003017079025.CEL
+13279	hepatocyte	Rattus norvegicus	WY-14643	High	200	micromolar	24	hour	003017079026.CEL

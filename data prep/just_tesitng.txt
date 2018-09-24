@@ -1,0 +1,121 @@
+Parameter Value[Compound]	Parameter Value[DoseLevel]	Parameter Value[TimeOfCollection]
+acetaminophen	Control	36
+acetaminophen	High	36
+acetaminophen	Low	36
+acetaminophen	Middle	36
+acetazolamide	Control	34
+acetazolamide	High	34
+acetazolamide	Low	30
+acetazolamide	Middle	34
+allopurinol	Control	36
+allopurinol	High	36
+allopurinol	Low	36
+allopurinol	Middle	36
+allyl alcohol	Control	36
+allyl alcohol	High	36
+allyl alcohol	Low	36
+allyl alcohol	Middle	36
+bromobenzene	Control	36
+bromobenzene	High	36
+bromobenzene	Low	36
+bromobenzene	Middle	36
+bucetin	Control	34
+bucetin	High	34
+bucetin	Low	30
+bucetin	Middle	34
+caffeine	Control	34
+caffeine	High	34
+caffeine	Low	30
+caffeine	Middle	34
+captopril	Control	34
+captopril	High	34
+captopril	Low	30
+captopril	Middle	34
+ciprofloxacin	Control	34
+ciprofloxacin	High	34
+ciprofloxacin	Low	30
+ciprofloxacin	Middle	34
+clofibrate	Control	36
+clofibrate	High	36
+clofibrate	Low	36
+clofibrate	Middle	36
+cyclophosphamide	Control	36
+cyclophosphamide	High	36
+cyclophosphamide	Low	36
+cyclophosphamide	Middle	36
+enalapril	Control	34
+enalapril	High	34
+enalapril	Low	30
+enalapril	Middle	34
+erythromycin ethylsuccinate	Control	34
+erythromycin ethylsuccinate	High	34
+erythromycin ethylsuccinate	Low	30
+erythromycin ethylsuccinate	Middle	34
+ethinylestradiol	Control	34
+ethinylestradiol	High	34
+ethinylestradiol	Low	30
+ethinylestradiol	Middle	34
+ethionine	Control	36
+ethionine	High	36
+ethionine	Low	36
+ethionine	Middle	36
+hexachlorobenzene	Control	36
+hexachlorobenzene	High	36
+hexachlorobenzene	Low	36
+hexachlorobenzene	Middle	36
+imipramine	Control	34
+imipramine	High	34
+imipramine	Low	30
+imipramine	Middle	34
+indomethacin	Control	36
+indomethacin	High	36
+indomethacin	Low	36
+indomethacin	Middle	36
+ketoconazole	Control	36
+ketoconazole	High	36
+ketoconazole	Low	36
+ketoconazole	Middle	36
+lomustine	Control	36
+lomustine	High	36
+lomustine	Low	36
+lomustine	Middle	36
+methyltestosterone	Control	36
+methyltestosterone	High	36
+methyltestosterone	Low	36
+methyltestosterone	Middle	36
+monocrotaline	Control	34
+monocrotaline	High	34
+monocrotaline	Low	30
+monocrotaline	Middle	34
+nitrofurantoin	Control	36
+nitrofurantoin	High	36
+nitrofurantoin	Low	36
+nitrofurantoin	Middle	36
+omeprazole	Control	36
+omeprazole	High	36
+omeprazole	Low	36
+omeprazole	Middle	36
+phenacetin	Control	34
+phenacetin	High	34
+phenacetin	Low	30
+phenacetin	Middle	34
+phenylanthranilic acid	Control	34
+phenylanthranilic acid	High	34
+phenylanthranilic acid	Low	30
+phenylanthranilic acid	Middle	34
+phenylbutazone	Control	36
+phenylbutazone	High	36
+phenylbutazone	Low	36
+phenylbutazone	Middle	36
+rifampicin	Control	36
+rifampicin	High	36
+rifampicin	Low	36
+rifampicin	Middle	36
+thioacetamide	Control	36
+thioacetamide	High	36
+thioacetamide	Low	36
+thioacetamide	Middle	36
+valproic acid	Control	36
+valproic acid	High	36
+valproic acid	Low	36
+valproic acid	Middle	36

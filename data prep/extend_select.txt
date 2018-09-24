@@ -1,0 +1,31 @@
+Parameter Value[Compound]	Parameter Value[TimeOfCollection]
+acetaminophen	16
+acetazolamide	15
+allopurinol	16
+allyl alcohol	16
+bromobenzene	16
+bucetin	15
+caffeine	15
+captopril	15
+ciprofloxacin	15
+clofibrate	16
+cyclophosphamide	16
+enalapril	15
+erythromycin ethylsuccinate	15
+ethinylestradiol	15
+ethionine	16
+hexachlorobenzene	16
+imipramine	15
+indomethacin	16
+ketoconazole	16
+lomustine	16
+methyltestosterone	16
+monocrotaline	15
+nitrofurantoin	16
+omeprazole	16
+phenacetin	15
+phenylanthranilic acid	15
+phenylbutazone	16
+rifampicin	16
+thioacetamide	16
+valproic acid	16

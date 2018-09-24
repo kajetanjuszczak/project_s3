@@ -7,7 +7,5 @@ def parser(infile):
     print(pivot)
     #p2 = pivot[pivot["Parameter Value[TimeOfCollection]"] == 16]
     #p2.to_csv("second_select.txt", sep="\t")
-    #SELECT 2 CONFIRMED, DATA I HAVE NOW IS SAME FOR ALL DRUGS
-    #2 REPEATS FOR HEPATOCYTES FOR 2,8,24H AND 3,6,9,24 FOR LIVER AND KIDNEYS
 if __name__ == "__main__":
-    parser("select2.txt")
+    parser("select_drugs.txt")
